@@ -1,4 +1,4 @@
-Tarkov Backup Directory Creator
+# Tarkov Backup Directory Creator
 
 Create folders to organize each backup.
 Name the folder what ever you like. I prefer to use the current client version as the name of the folder.
