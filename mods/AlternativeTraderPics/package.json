@@ -1,0 +1,8 @@
+{
+	"name": "AltTraderPics",
+	"author": "jbs4bmx, revaxl",
+	"version": "3.0.0",
+	"license": "The Unlicense",
+	"dependencies": {},
+	"main": "package.js"
+}
