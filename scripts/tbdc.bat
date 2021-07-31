@@ -14,12 +14,11 @@ title "Tarkov Backup Directory Creator"
 ::    root\modules.bkup
 :: NOTES
 ::    File Name:      | tbdc.bat
-::    Author:         | Jason B. Darling
+::    Author:         | jbs4bmx
 ::    Date:           | [DMY] 25.07.2021
 ::    Edit:           | [DMY] 30.07.2021
 ::    Version:        | 0.2
-::    Help Requests:  | jbs4bmx on Guilded
-::    License:        | MIT - https://opensource.org/licenses/MIT - Copyright (c) 2021 Jason B. Darling
+::    License:        | MIT - https://opensource.org/licenses/MIT - Copyright (c) 2021 jbs4bmx
 :: ------------------------------------------------------------[Elevation]-----------------------------------------------------------
 net file 1>nul 2>nul
 if '%errorlevel%'=='0' ( goto gotpriv ) else ( goto getpriv )
