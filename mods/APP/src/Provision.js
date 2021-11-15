@@ -1,11 +1,12 @@
 /*
-    FileName: provision.js
+    FileName: Provision.js
     License: The Unlicense
     Copyright: jbs4bmx
-    Website: https://www.guilded.gg/senkospub
+    Website: https://discord.gg/sptaki
     Name: AKI Provisions Pack
     Description: ModPack
-    Version: 1.0.0
+    Version: 2.1.0
+    Aki Version: 2.1.0
     Author(s): jbs4bmx
     Credit:
 */

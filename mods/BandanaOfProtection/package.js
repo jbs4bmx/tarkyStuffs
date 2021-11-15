@@ -1,11 +1,13 @@
-/* package.js
-       license: The Unlicense
-     copyright: jbs4bmx
-       website: https://www.guilded.gg/senkospub
-          name: BandOfProtection
-   description: Extra full body armor provided by the bandana.
-       version: 2.0.4
-     author(s): jbs4bmx
+/*
+    FileName: package.js
+    License: The Unlicense
+    Copyright: jbs4bmx
+    Website: https://discord.gg/sptaki
+    Name: BandanaOfProtection
+    Description: Extra full body armor provided by the bandana.
+    Version: 2.1.0
+    Aki Version: 2.1.0
+    Author(s): jbs4bmx
 */
 const { Mod } = require("./src/BoP.js");
 module.exports.mod = new Mod();

@@ -1,11 +1,13 @@
-/* afak.js
-       license: The Unlicense
-     copyright: jbs4bmx
-       website: https://www.guilded.gg/senkospub
-          name: SuperAFAK
-   description: AFAK with additional med features.
-       version: 1.0.0
-     author(s): jbs4bmx
+/*
+	FileName: afak.js
+	License: The Unlicense
+	Copyright: jbs4bmx
+	Website: https://discord.gg/sptaki
+	Name: SuperAFAK
+	Description: AFAK with additional med features.
+	Version: 2.1.0
+    Aki Version: 2.1.0
+	Author(s): jbs4bmx
 */
 
 "use strict";
@@ -15,7 +17,7 @@ class afak
 	constructor()
 	{
         this.mod = "jbs4bmx-SuperAFAK";
-		Logger.log(`Loading: ${this.mod}`);
+		Logger.info(`Loading: ${this.mod}`);
 		ModLoader.onLoad[this.mod] = this.load.bind(this);
     }
 
@@ -89,7 +91,7 @@ class afak
 			}
 		}
 		//Report to Console
-        Logger.log("Super AFAK Mod: Cached Successfully");
+        Logger.info("Super AFAK Mod: Cached Successfully");
 	}
 }
 

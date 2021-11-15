@@ -1,11 +1,12 @@
 /* altTraderPics.js
-       license: The Unlicense
-     copyright: jbs4bmx
-       website: https://www.guilded.gg/senkospub
-          name: AlternativeTraderPics
-   description: Beautify your traders.
-       version: 3.0.0
-     author(s): jbs4bmx, revaxl (https://github.com/revaxl)
+    license: The Unlicense
+    copyright: jbs4bmx
+    website: https://discord.gg/sptaki
+    name: AlternativeTraderPics
+    description: Beautify your traders.
+    version: 2.1.0
+    akiVersion: 2.1.0
+    author(s): jbs4bmx, revaxl (https://github.com/revaxl)
 */
 
 "use strict";
@@ -13,7 +14,7 @@
 class TraderPics {
     constructor() {
         this.mod = "jbs4bmx-AltTraderPics";
-        Logger.log(`Loading: ${this.mod}`);
+        Logger.info(`Loading: ${this.mod}`);
         this.funcptr = HttpServer.onRespond["IMAGE"];
         HttpServer.onRespond["IMAGE"] = this.getImage.bind(this);
     }
