@@ -2,6 +2,9 @@
 
 A Modpack by me!
 
+# WARNING!!!
+This is a Work in Progress. It is not ready for production. Do not download and use this mod yet.
+
 >Author  : jbs4bmx
 
 >Version : 1.0.0 (Supports AKI 2.1.0 and EFT 0.12.11.7.15261 - Not backwards compatible with previous versions of AKI.)
@@ -23,26 +26,10 @@ This collection merges the following mods:
 * Ereshkigal-AllinOneMod
 * Ereshkigal-AllMissingKeys
 * Kiki-MysteriousKeys
-* 
 *
 *
 *
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+
 
 
 ## How do I edit my configurations.
