@@ -6,7 +6,7 @@ This is meant to be a replacement for SuperIFAK and SuperAFAK mods. This mod han
 
 >Author  : jbs4bmx
 
->Version : 1.0.0 (Supports SPT-AKI 1.2.0 | Client version 0.12.10.2.12102)
+>Version : 2.1.0 (Supports SPT-AKI 2.1.0 and EFT Version 0.12.11.7.15261)
 
 
 ### /* ========== MEDS ========== */

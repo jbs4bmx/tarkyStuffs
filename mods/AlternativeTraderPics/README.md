@@ -4,7 +4,7 @@ Updates Trader icons to a much better looking alternative.
 
 >Author  : jbs4bmx, revaxl
 
->Version : 3.0.0 (Supports SPT-AKI 1.2.0)
+>Version : 2.1.0 (Supports SPT-AKI 2.1.0 and EFT Version 0.12.11.7.15261)
 
 
 
