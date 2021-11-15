@@ -14,7 +14,7 @@
 
 class TraderPics {
     constructor() {
-        this.mod = "jbs4bmx-AltTraderPics";
+        this.mod = "jbs4bmx-AlternativeTraderPics";
         Logger.info(`Loading: ${this.mod}`);
         this.funcptr = HttpServer.onRespond["IMAGE"];
         HttpServer.onRespond["IMAGE"] = this.getImage.bind(this);
