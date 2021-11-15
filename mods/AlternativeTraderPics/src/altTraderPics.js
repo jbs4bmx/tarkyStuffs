@@ -1,12 +1,13 @@
-/* altTraderPics.js
-    license: The Unlicense
-    copyright: jbs4bmx
-    website: https://discord.gg/sptaki
-    name: AlternativeTraderPics
-    description: Beautify your traders.
-    version: 2.1.0
-    akiVersion: 2.1.0
-    author(s): jbs4bmx, revaxl (https://github.com/revaxl)
+/*
+    FileName: altTraderPics.js
+    License: The Unlicense
+    Copyright: jbs4bmx
+    Website: https://discord.gg/sptaki
+    Name: AlternativeTraderPics
+    Description: Beautify your traders.
+    Version: 2.1.0
+    AkiVersion: 2.1.0
+    Author(s): jbs4bmx, revaxl (https://github.com/revaxl)
 */
 
 "use strict";

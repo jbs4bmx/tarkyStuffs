@@ -18,10 +18,10 @@ class Mod
         Logger.info(`Loading: ${this.mod}`);
         const { other } = require('./config.json');
         if (other.HideWarningMessage === false) {
-            Logger.info(`[BoP Mod]`, "white", "red");
-            Logger.info(`Shaka, when the walls fell. Did you read the configuration file?`, "yellow");
-            Logger.info(`To remove this warning, change the final entry of the config file to true.`,"yellow");
-            Logger.info(`[BoP Mod]`, "white", "red");
+            Logger.log(`[BoP Mod]`, "white", "red");
+            Logger.log(`Shaka, when the walls fell. Did you read the configuration file?`, "yellow");
+            Logger.log(`To remove this warning, change the final entry of the config file to true.`,"yellow");
+            Logger.log(`[BoP Mod]`, "white", "red");
         }
         ModLoader.onLoad[this.mod] = this.load.bind(this);
     }
