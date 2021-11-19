@@ -77,7 +77,7 @@
         "fixDestroyedPart": true
     },
 
-    "TOUNIQUETS": {
+    "TOURNIQUETS": {
         "Enable": false,
         "HP": 5,
         "LightBleed": true,
