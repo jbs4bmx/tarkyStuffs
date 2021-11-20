@@ -82,7 +82,7 @@
         "Enable": false,
         "hpResource": 4,
         "Duration": 360,
-        "HydrationBurn":  -4,
+        "HydrationBurn": -4,
         "EnergyBurn": -4
     }
 }

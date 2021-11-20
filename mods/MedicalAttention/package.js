@@ -5,7 +5,7 @@
     Website: https://discord.gg/sptaki
     Name: MedicalAttention
     Description: Configure Meds to do what you want them to do.
-    Version: 2.1.0
+    Version: 2.1.1
     Aki Version: 2.1.0
     Author(s): jbs4bmx
 */
