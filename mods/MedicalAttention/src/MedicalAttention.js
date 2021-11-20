@@ -49,7 +49,7 @@ class healer
 			let itemData = products[item];
 
 			/* ============================== AI2 ======================================= */
-			if (AI2.Enable) {
+			if (AI2.Enable === true) {
 				//AI-2 Medkit
 				if (itemData._id === "5755356824597772cb798962")
 				{
@@ -69,11 +69,11 @@ class healer
 			}
 
 			/* ============================== CAR ======================================= */
-			if (CAR.Enable) {
+			if (CAR.Enable === true) {
 				//Car First Aid Kit
 				if (itemData._id === "590c661e86f7741e566b646a")
 				{
-					itemData._props.MaxHpResource = CAR.hpResource
+					itemData._props.MaxHpResource = CAR.hpResource;
 					itemData._props.medUseTime = 3;
 					itemData._props.hpResourceRate = 50;
 					itemData._props.effects_damage.LightBleeding =
@@ -116,11 +116,11 @@ class healer
 			}
 
 			/* ============================== SALEWA ==================================== */
-			if (SALEWA.Enable) {
+			if (SALEWA.Enable === true) {
 				//Salewa
 				if (itemData._id === "544fb45d4bdc2dee738b4568")
 				{
-					itemData._props.MaxHpResource = SALEWA.hpResource
+					itemData._props.MaxHpResource = SALEWA.hpResource;
 					itemData._props.medUseTime = 3;
 					itemData._props.hpResourceRate = 100;
 					itemData._props.effects_damage.LightBleeding =
@@ -163,11 +163,12 @@ class healer
 			}
 
 			/* ============================== IFAK ====================================== */
-			if (IFAK.Enable) {
+			if (IFAK.Enable === true)
+			{
 				//IFAK
 				if (itemData._id === "590c678286f77426c9660122")
 				{
-					itemData._props.MaxHpResource = IFAK.hpResource
+					itemData._props.MaxHpResource = IFAK.hpResource;
 					itemData._props.medUseTime = 1;
 					itemData._props.hpResourceRate = 100;
 					itemData._props.effects_damage.LightBleeding =
@@ -188,7 +189,7 @@ class healer
 						"healthPenaltyMin": 100,
 						"healthPenaltyMax": 100
 					};
-					if (IFAK.fixFracture) {
+					if (IFAK.fixFracture === true) {
 						itemData._props.effects_damage.Fracture =
 						{
 							"delay": 0,
@@ -198,7 +199,7 @@ class healer
 							"healthPenaltyMax": 100
 						}
 					};
-					if (IFAK.fixDestroyedPart) {
+					if (IFAK.fixDestroyedPart === true) {
 						itemData._props.effects_damage.DestroyedPart =
 						{
 							"delay": 0,
@@ -230,11 +231,11 @@ class healer
 			}
 
 			/* ============================== SANITAR =================================== */
-			if (SANITAR.Enable) {
+			if (SANITAR.Enable === true) {
 				//Sanitar Medkit (IFAK)
 				if (itemData._id === "5e99711486f7744bfc4af328")
 				{
-					itemData._props.MaxHpResource = SANITAR.hpResource
+					itemData._props.MaxHpResource = SANITAR.hpResource;
 					itemData._props.medUseTime = 1;
 					itemData._props.hpResourceRate = 100;
 					itemData._props.effects_damage.LightBleeding =
@@ -255,7 +256,7 @@ class healer
 						"healthPenaltyMin": 100,
 						"healthPenaltyMax": 100
 					};
-					if (SANITAR.fixFracture) {
+					if (SANITAR.fixFracture === true) {
 						itemData._props.effects_damage.Fracture =
 						{
 							"delay": 0,
@@ -265,7 +266,7 @@ class healer
 							"healthPenaltyMax": 100
 						}
 					};
-					if (SANITAR.fixDestroyedPart) {
+					if (SANITAR.fixDestroyedPart === true) {
 						itemData._props.effects_damage.DestroyedPart =
 						{
 							"delay": 0,
@@ -297,11 +298,11 @@ class healer
 			}
 
 			/* ============================== AFAK ====================================== */
-			if (AFAK.Enable) {
+			if (AFAK.Enable === true) {
 				//AFAK
 				if (itemData._id === "60098ad7c2240c0fe85c570a")
 				{
-					itemData._props.MaxHpResource = AFAK.hpResource
+					itemData._props.MaxHpResource = AFAK.hpResource;
 					itemData._props.medUseTime = 1;
 					itemData._props.hpResourceRate = 100;
 					itemData._props.effects_damage.LightBleeding =
@@ -322,7 +323,7 @@ class healer
 						"healthPenaltyMin": 100,
 						"healthPenaltyMax": 100
 					};
-					if (AFAK.fixFracture) {
+					if (AFAK.fixFracture === true) {
 						itemData._props.effects_damage.Fracture =
 						{
 							"delay": 0,
@@ -332,7 +333,7 @@ class healer
 							"healthPenaltyMax": 100
 						}
 					};
-					if (AFAK.fixDestroyedPart) {
+					if (AFAK.fixDestroyedPart === true) {
 						itemData._props.effects_damage.DestroyedPart =
 						{
 							"delay": 0,
@@ -364,11 +365,11 @@ class healer
 			}
 
 			/* ============================== GRIZZLY =================================== */
-			if (GRIZZLY.Enable) {
+			if (GRIZZLY.Enable === true) {
 				//Grizzly
 				if (itemData._id === "590c657e86f77412b013051d")
 				{
-					itemData._props.MaxHpResource = GRIZZLY.hpResource
+					itemData._props.MaxHpResource = GRIZZLY.hpResource;
 					itemData._props.medUseTime = 5;
 					itemData._props.hpResourceRate = 100;
 					itemData._props.effects_damage.LightBleeding =
@@ -389,7 +390,7 @@ class healer
 						"healthPenaltyMin": 100,
 						"healthPenaltyMax": 100
 					};
-					if (GRIZZLY.fixFracture) {
+					if (GRIZZLY.fixFracture === true) {
 						itemData._props.effects_damage.Fracture =
 						{
 							"delay": 0,
@@ -399,7 +400,7 @@ class healer
 							"healthPenaltyMax": 100
 						}
 					};
-					if (GRIZZLY.fixDestroyedPart) {
+					if (GRIZZLY.fixDestroyedPart === true) {
 						itemData._props.effects_damage.DestroyedPart =
 						{
 							"delay": 0,
@@ -431,11 +432,11 @@ class healer
 			}
 
 			/* ============================== PILLS ===================================== */
-			if(PILLS.Enable) {
+			if(PILLS.Enable === true) {
 				//Analgin Painkillers
 				if (itemData._id === "544fb37f4bdc2dee738b4567")
 				{
-					itemData._props.MaxHpResource = PILLS.hpResource
+					itemData._props.MaxHpResource = PILLS.hpResource;
 					itemData._props.medUseTime = 2;
 					itemData._props.effects_health.Hydration =
 					{
@@ -511,7 +512,7 @@ class healer
 			}
 
 			/* ============================== BANDAGES ================================== */
-			if (BANDAGES.Enable) {
+			if (BANDAGES.Enable === true) {
 				//Aseptic Bandage
 				if (itemData._id === "544fb25a4bdc2dfb738b4567")
 				{
@@ -584,7 +585,7 @@ class healer
 			}
 
 			/* ============================== SPLINTS =================================== */
-			if (SPLINTS.Enable) {
+			if (SPLINTS.Enable === true) {
 				//Splint
 				if (itemData._id === "544fb3364bdc2d34748b456a")
 				{
@@ -613,7 +614,7 @@ class healer
 			}
 
 			/* ============================== TOPICALS ================================== */
-			if (TOPICALS.Enable) {
+			if (TOPICALS.Enable === true) {
 							//Vaseline
 				if (itemData._id === "5755383e24597772cb798966")
 				{
@@ -669,7 +670,7 @@ class healer
 			}
 
 			/* ============================== SURGICALKITS ============================== */
-			if (SURGICALKITS.Enable) {
+			if (SURGICALKITS.Enable === true) {
 				//CMS Kit
 				if (itemData._id === "5d02778e86f774203e7dedbe")
 				{
@@ -849,7 +850,7 @@ class healer
 			}
 
 			/* ============================== TOURNIQUETS =============================== */
-			if (TOURNIQUETS.Enable) {
+			if (TOURNIQUETS.Enable === true) {
 				//Esmarch Tourniquet
 				if (itemData._id === "5e831507ea0a7c419c2f9bd9")
 				{
@@ -866,7 +867,7 @@ class healer
 						"delay": 0,
 						"duration": 0,
 						"fadeOut": 0
-					}
+					};
 				}
 
 				//Calok-B Hemostatic
@@ -885,7 +886,7 @@ class healer
 						"delay": 0,
 						"duration": 0,
 						"fadeOut": 0
-					}
+					};
 				}
 
 				//Hemostatic Tourniquet CAT
@@ -904,12 +905,12 @@ class healer
 						"delay": 0,
 						"duration": 0,
 						"fadeOut": 0
-					}
+					};
 				}
 			}
 
 			/* ============================== INJECTORS ================================= */
-			if (INJECTORS.Enable) {
+			if (INJECTORS.Enable === true) {
 				//Morphine Injector
 				if (itemData._id === "544fb3f34bdc2d03748b456a")
 				{
@@ -1071,7 +1072,6 @@ class healer
 					itemData._props.AllowSpawnOnLocations = locationsMin;
 				}
 			}
-
 
 		}
 		//Report to Console
