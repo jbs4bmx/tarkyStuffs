@@ -37,7 +37,7 @@ class healer
 			"laboratory",
 			"Interchange",
 			"Shoreline",
-			"RezervBase",
+			"ReservBase",
 			"factory4_day",
 			"factory4_night",
 			"bigmap",
@@ -53,7 +53,7 @@ class healer
 				//AI-2 Medkit
 				if (itemData._id === "5755356824597772cb798962")
 				{
-					itemData._props.MaxHpResource = 250;
+					itemData._props.MaxHpResource = AI2.hpResource
 					itemData._props.medUseTime = 1;
 					itemData._props.hpResourceRate = 20;
 					itemData._props.effects_damage.LightBleeding =
@@ -73,7 +73,7 @@ class healer
 				//Car First Aid Kit
 				if (itemData._id === "590c661e86f7741e566b646a")
 				{
-					itemData._props.MaxHpResource = 500;
+					itemData._props.MaxHpResource = CAR.hpResource
 					itemData._props.medUseTime = 3;
 					itemData._props.hpResourceRate = 50;
 					itemData._props.effects_damage.LightBleeding =
@@ -120,7 +120,7 @@ class healer
 				//Salewa
 				if (itemData._id === "544fb45d4bdc2dee738b4568")
 				{
-					itemData._props.MaxHpResource = 1000;
+					itemData._props.MaxHpResource = SALEWA.hpResource
 					itemData._props.medUseTime = 3;
 					itemData._props.hpResourceRate = 100;
 					itemData._props.effects_damage.LightBleeding =
@@ -167,7 +167,7 @@ class healer
 				//IFAK
 				if (itemData._id === "590c678286f77426c9660122")
 				{
-					itemData._props.MaxHpResource = 900;
+					itemData._props.MaxHpResource = IFAK.hpResource
 					itemData._props.medUseTime = 1;
 					itemData._props.hpResourceRate = 100;
 					itemData._props.effects_damage.LightBleeding =
@@ -188,21 +188,25 @@ class healer
 						"healthPenaltyMin": 100,
 						"healthPenaltyMax": 100
 					};
-					itemData._props.effects_damage.Fracture =
-					{
-						"delay": 0,
-						"duration": 0,
-						"fadeOut": 0,
-						"healthPenaltyMin": 100,
-						"healthPenaltyMax": 100
+					if (IFAK.fixFracture) {
+						itemData._props.effects_damage.Fracture =
+						{
+							"delay": 0,
+							"duration": 0,
+							"fadeOut": 0,
+							"healthPenaltyMin": 100,
+							"healthPenaltyMax": 100
+						}
 					};
-					itemData._props.effects_damage.DestroyedPart =
-					{
-						"delay": 0,
-						"duration": 0,
-						"fadeOut": 0,
-						"healthPenaltyMin": 100,
-						"healthPenaltyMax": 100
+					if (IFAK.fixDestroyedPart) {
+						itemData._props.effects_damage.DestroyedPart =
+						{
+							"delay": 0,
+							"duration": 0,
+							"fadeOut": 0,
+							"healthPenaltyMin": 100,
+							"healthPenaltyMax": 100
+						}
 					};
 					itemData._props.effects_damage.RadExposure =
 					{
@@ -230,7 +234,7 @@ class healer
 				//Sanitar Medkit (IFAK)
 				if (itemData._id === "5e99711486f7744bfc4af328")
 				{
-					itemData._props.MaxHpResource = 6000;
+					itemData._props.MaxHpResource = SANITAR.hpResource
 					itemData._props.medUseTime = 1;
 					itemData._props.hpResourceRate = 100;
 					itemData._props.effects_damage.LightBleeding =
@@ -251,21 +255,25 @@ class healer
 						"healthPenaltyMin": 100,
 						"healthPenaltyMax": 100
 					};
-					itemData._props.effects_damage.Fracture =
-					{
-						"delay": 0,
-						"duration": 0,
-						"fadeOut": 0,
-						"healthPenaltyMin": 100,
-						"healthPenaltyMax": 100
+					if (SANITAR.fixFracture) {
+						itemData._props.effects_damage.Fracture =
+						{
+							"delay": 0,
+							"duration": 0,
+							"fadeOut": 0,
+							"healthPenaltyMin": 100,
+							"healthPenaltyMax": 100
+						}
 					};
-					itemData._props.effects_damage.DestroyedPart =
-					{
-						"delay": 0,
-						"duration": 0,
-						"fadeOut": 0,
-						"healthPenaltyMin": 100,
-						"healthPenaltyMax": 100
+					if (SANITAR.fixDestroyedPart) {
+						itemData._props.effects_damage.DestroyedPart =
+						{
+							"delay": 0,
+							"duration": 0,
+							"fadeOut": 0,
+							"healthPenaltyMin": 100,
+							"healthPenaltyMax": 100
+						}
 					};
 					itemData._props.effects_damage.RadExposure =
 					{
@@ -293,7 +301,7 @@ class healer
 				//AFAK
 				if (itemData._id === "60098ad7c2240c0fe85c570a")
 				{
-					itemData._props.MaxHpResource = 1200;
+					itemData._props.MaxHpResource = AFAK.hpResource
 					itemData._props.medUseTime = 1;
 					itemData._props.hpResourceRate = 100;
 					itemData._props.effects_damage.LightBleeding =
@@ -314,21 +322,25 @@ class healer
 						"healthPenaltyMin": 100,
 						"healthPenaltyMax": 100
 					};
-					itemData._props.effects_damage.Fracture =
-					{
-						"delay": 0,
-						"duration": 0,
-						"fadeOut": 0,
-						"healthPenaltyMin": 100,
-						"healthPenaltyMax": 100
+					if (AFAK.fixFracture) {
+						itemData._props.effects_damage.Fracture =
+						{
+							"delay": 0,
+							"duration": 0,
+							"fadeOut": 0,
+							"healthPenaltyMin": 100,
+							"healthPenaltyMax": 100
+						}
 					};
-					itemData._props.effects_damage.DestroyedPart =
-					{
-						"delay": 0,
-						"duration": 0,
-						"fadeOut": 0,
-						"healthPenaltyMin": 100,
-						"healthPenaltyMax": 100
+					if (AFAK.fixDestroyedPart) {
+						itemData._props.effects_damage.DestroyedPart =
+						{
+							"delay": 0,
+							"duration": 0,
+							"fadeOut": 0,
+							"healthPenaltyMin": 100,
+							"healthPenaltyMax": 100
+						}
 					};
 					itemData._props.effects_damage.RadExposure =
 					{
@@ -356,7 +368,7 @@ class healer
 				//Grizzly
 				if (itemData._id === "590c657e86f77412b013051d")
 				{
-					itemData._props.MaxHpResource = 5000;
+					itemData._props.MaxHpResource = GRIZZLY.hpResource
 					itemData._props.medUseTime = 5;
 					itemData._props.hpResourceRate = 100;
 					itemData._props.effects_damage.LightBleeding =
@@ -377,21 +389,25 @@ class healer
 						"healthPenaltyMin": 100,
 						"healthPenaltyMax": 100
 					};
-					itemData._props.effects_damage.Fracture =
-					{
-						"delay": 0,
-						"duration": 0,
-						"fadeOut": 0,
-						"healthPenaltyMin": 100,
-						"healthPenaltyMax": 100
+					if (GRIZZLY.fixFracture) {
+						itemData._props.effects_damage.Fracture =
+						{
+							"delay": 0,
+							"duration": 0,
+							"fadeOut": 0,
+							"healthPenaltyMin": 100,
+							"healthPenaltyMax": 100
+						}
 					};
-					itemData._props.effects_damage.DestroyedPart =
-					{
-						"delay": 0,
-						"duration": 0,
-						"fadeOut": 0,
-						"healthPenaltyMin": 100,
-						"healthPenaltyMax": 100
+					if (GRIZZLY.fixDestroyedPart) {
+						itemData._props.effects_damage.DestroyedPart =
+						{
+							"delay": 0,
+							"duration": 0,
+							"fadeOut": 0,
+							"healthPenaltyMin": 100,
+							"healthPenaltyMax": 100
+						}
 					};
 					itemData._props.effects_damage.RadExposure =
 					{
@@ -419,22 +435,22 @@ class healer
 				//Analgin Painkillers
 				if (itemData._id === "544fb37f4bdc2dee738b4567")
 				{
-					itemData._props.MaxHpResource = 10;
+					itemData._props.MaxHpResource = PILLS.hpResource
 					itemData._props.medUseTime = 2;
 					itemData._props.effects_health.Hydration =
 					{
-						"value": -4
+						"value": PILLS.HydrationBurn
 					};
 					itemData._props.effects_damage.RadExposure =
 					{
 						"delay": 0,
-						"duration": 180,
+						"duration": PILLS.Duration,
 						"fadeOut": 10
 					};
 					itemData._props.effects_damage.Pain =
 					{
 						"delay": 0,
-						"duration": 180,
+						"duration": PILLS.Duration,
 						"fadeOut": 10
 					};
 				}
@@ -442,18 +458,18 @@ class healer
 				//Augmentin Antibiotic Pills
 				if (itemData._id === "590c695186f7741e566b64a2")
 				{
-					itemData._props.MaxHpResource = 4;
+					itemData._props.MaxHpResource = PILLS.hpResource;
 					itemData._props.medUseTime = 5;
 					itemData._props.effects_damage.RadExposure =
 					{
 						"delay": 0,
-						"duration": 180,
+						"duration": PILLS.Duration,
 						"fadeOut": 10
 					};
 					itemData._props.effects_damage.Pain =
 					{
 						"delay": 0,
-						"duration": 300,
+						"duration": PILLS.Duration,
 						"fadeOut": 5
 					};
 					itemData._props.effects_health.Energy =
@@ -462,7 +478,7 @@ class healer
 					};
 					itemData._props.effects_health.Hydration =
 					{
-						"value": -3
+						"value": PILLS.HydrationBurn
 					};
 					itemData._props.effects_damage.Intoxication =
 					{
@@ -474,21 +490,21 @@ class healer
 				//Ibuprofen Pills
 				if (itemData._id === "5af0548586f7743a532b7e99")
 				{
-					itemData._props.MaxHpResource = 24;
+					itemData._props.MaxHpResource = PILLS.hpResource;
 					itemData._props.effects_health.Hydration =
 					{
-						"value": -3
+						"value": PILLS.HydrationBurn
 					};
 					itemData._props.effects_damage.RadExposure =
 					{
 						"delay": 0,
-						"duration": 360,
+						"duration": PILLS.Duration,
 						"fadeOut": 5
 					};
 					itemData._props.effects_damage.Pain =
 					{
 						"delay": 0,
-						"duration": 360,
+						"duration": PILLS.Duration,
 						"fadeOut": 5
 					};
 				}
@@ -499,7 +515,7 @@ class healer
 				//Aseptic Bandage
 				if (itemData._id === "544fb25a4bdc2dfb738b4567")
 				{
-					itemData._props.MaxHpResource = 4;
+					itemData._props.MaxHpResource = BANDAGES.hpResource;
 					itemData._props.medUseTime = 2;
 					itemData._props.hpResourceRate = 1;
 					itemData._props.effects_damage.LightBleeding =
@@ -534,7 +550,7 @@ class healer
 				//Army Bandage
 				if (itemData._id === "5751a25924597722c463c472")
 				{
-					itemData._props.MaxHpResource = 10;
+					itemData._props.MaxHpResource = BANDAGES.hpResource;
 					itemData._props.medUseTime = 3;
 					itemData._props.hpResourceRate = 1;
 					itemData._props.effects_damage.LightBleeding =
@@ -572,7 +588,7 @@ class healer
 				//Splint
 				if (itemData._id === "544fb3364bdc2d34748b456a")
 				{
-					itemData._props.MaxHpResource = 3;
+					itemData._props.MaxHpResource = SPLINTS.hpResource;
 					itemData._props.medUseTime = 1;
 					itemData._props.effects_damage.Fracture =
 					{
@@ -585,7 +601,7 @@ class healer
 				//Aluminum Splint
 				if (itemData._id === "5af0454c86f7746bf20992e8")
 				{
-					itemData._props.MaxHpResource = 10;
+					itemData._props.MaxHpResource = SPLINTS.hpResource;
 					itemData._props.medUseTime = 1;
 					itemData._props.effects_damage.Fracture =
 					{
@@ -601,7 +617,7 @@ class healer
 							//Vaseline
 				if (itemData._id === "5755383e24597772cb798966")
 				{
-					itemData._props.MaxHpResource = 10;
+					itemData._props.MaxHpResource = TOPICALS.hpResource;
 					itemData._props.medUseTime = 2;
 					itemData._props.effects_health.Energy =
 					{
@@ -614,13 +630,13 @@ class healer
 					itemData._props.effects_damage.RadExposure =
 					{
 						"delay": 0,
-						"duration": 180,
+						"duration": TOPICALS.Duration,
 						"fadeOut": 10
 					};
 					itemData._props.effects_damage.Pain =
 					{
 						"delay": 0,
-						"duration": 240,
+						"duration": TOPICALS.Duration,
 						"fadeOut": 10
 					};
 				}
@@ -628,7 +644,7 @@ class healer
 				//Golden Star Balm
 				if (itemData._id === "5751a89d24597722aa0e8db0")
 				{
-					itemData._props.MaxHpResource = 20;
+					itemData._props.MaxHpResource = TOPICALS.hpResource;
 					itemData._props.effects_health.Energy =
 					{
 						"value": 0
@@ -640,13 +656,13 @@ class healer
 					itemData._props.effects_damage.RadExposure =
 					{
 						"delay": 0,
-						"duration": 800,
+						"duration": TOPICALS.Duration,
 						"fadeOut": 10
 					};
 					itemData._props.effects_damage.Pain =
 					{
 						"delay": 0,
-						"duration": 800,
+						"duration": TOPICALS.Duration,
 						"fadeOut": 10
 					};
 				}
@@ -657,7 +673,7 @@ class healer
 				//CMS Kit
 				if (itemData._id === "5d02778e86f774203e7dedbe")
 				{
-					itemData._props.MaxHpResource = 10;
+					itemData._props.MaxHpResource = SURGICALKITS.hpResource;
 					itemData._props.medUseTime = 8;
 					itemData._props.effects_damage.LightBleeding =
 					{
@@ -716,7 +732,7 @@ class healer
 				//Sanitar Medical Surgical Kit
 				if (itemData._id === "5e99735686f7744bfc4af32c")
 				{
-					itemData._props.MaxHpResource = 50;
+					itemData._props.MaxHpResource = SURGICALKITS.hpResource;
 					itemData._props.medUseTime = 8;
 					itemData._props.effects_damage.LightBleeding =
 					{
@@ -775,7 +791,7 @@ class healer
 				//Surv12 Field Surgical Kit
 				if (itemData._id === "5d02797c86f774203f38e30a")
 				{
-					itemData._props.MaxHpResource = 20;
+					itemData._props.MaxHpResource = SURGICALKITS.hpResource;
 					itemData._props.medUseTime = 12;
 					itemData._props.effects_damage.LightBleeding =
 					{
@@ -837,7 +853,7 @@ class healer
 				//Esmarch Tourniquet
 				if (itemData._id === "5e831507ea0a7c419c2f9bd9")
 				{
-					itemData._props.MaxHpResource = 2;
+					itemData._props.MaxHpResource = TOURNIQUETS.hpResource;
 					itemData._props.medUseTime = 3;
 					itemData._props.effects_damage.HeavyBleeding =
 					{
@@ -856,7 +872,7 @@ class healer
 				//Calok-B Hemostatic
 				if (itemData._id === "5e8488fa988a8701445df1e4")
 				{
-					itemData._props.MaxHpResource = 8;
+					itemData._props.MaxHpResource = TOURNIQUETS.hpResource;
 					itemData._props.medUseTime = 2;
 					itemData._props.effects_damage.HeavyBleeding =
 					{
@@ -875,7 +891,7 @@ class healer
 				//Hemostatic Tourniquet CAT
 				if (itemData._id === "60098af40accd37ef2175f27")
 				{
-					itemData._props.MaxHpResource = 3;
+					itemData._props.MaxHpResource = TOURNIQUETS.hpResource;
 					itemData._props.medUseTime = 2;
 					itemData._props.effects_damage.HeavyBleeding =
 					{
@@ -897,19 +913,19 @@ class healer
 				//Morphine Injector
 				if (itemData._id === "544fb3f34bdc2d03748b456a")
 				{
-					itemData._props.MaxHpResource = 4;
+					itemData._props.MaxHpResource = INJECTORS.hpResource;
 					itemData._props.effects_health.Hydration =
 					{
-						"value": -5
+						"value": INJECTORS.HydrationBurn
 					};
 					itemData._props.effects_health.Energy =
 					{
-						"value": -3
+						"value": INJECTORS.EnergyBurn
 					};
 					itemData._props.effects_damage.Pain =
 					{
 						"delay": 0,
-						"duration": 600,
+						"duration": INJECTORS.Duration,
 						"fadeOut": 3
 					};
 				}
@@ -917,46 +933,46 @@ class healer
 				//Combat Stimulant Injector SJ1 TGLabs
 				if (itemData._id === "5c0e531286f7747fa54205c2")
 				{
-					itemData._props.MaxHpResource = 4;
+					itemData._props.MaxHpResource = INJECTORS.hpResource;
 					itemData._props.AllowSpawnOnLocations = locationsMax;
 				}
 
 				//Regenerative Stimulant Injector eTG-change
 				if (itemData._id === "5c0e534186f7747fa1419867")
 				{
-					itemData._props.MaxHpResource = 4;
+					itemData._props.MaxHpResource = INJECTORS.hpResource;
 					itemData._props.AllowSpawnOnLocations = locationsMax;
 				}
 
 				//Combat Stimulant Injector SJ6 TGLabs
 				if (itemData._id === "5c0e531d86f7747fa23f4d42")
 				{
-					itemData._props.MaxHpResource = 4;
+					itemData._props.MaxHpResource = INJECTORS.hpResource;
 					itemData._props.AllowSpawnOnLocations = locationsMax;
 				}
 
 				//Combat Stimulant Injector SJ9 TGLabs
 				if (itemData._id === "5fca13ca637ee0341a484f46")
 				{
-					itemData._props.MaxHpResource = 4;
+					itemData._props.MaxHpResource = INJECTORS.hpResource;
 					itemData._props.AllowSpawnOnLocations = locationsMax;
 				}
 
 				//Propital
 				if (itemData._id === "5c0e530286f7747fa1419862")
 				{
-					itemData._props.MaxHpResource = 4;
+					itemData._props.MaxHpResource = INJECTORS.hpResource;
 					itemData._props.AllowSpawnOnLocations = locationsMax;
 					itemData._props.effects_damage.Pain =
 					{
 						"delay": 0,
-						"duration": 480,
+						"duration": INJECTORS.Duration,
 						"fadeOut": 5
 					};
 					itemData._props.effects_damage.Contusion =
 					{
 						"delay": 0,
-						"duration": 480,
+						"duration": INJECTORS.Duration,
 						"fadeOut": 0
 					};
 				}
@@ -964,18 +980,18 @@ class healer
 				//Hemostatic Drug Zagustin
 				if (itemData._id === "5c0e533786f7747fa23f4d47")
 				{
-					itemData._props.MaxHpResource = 4;
+					itemData._props.MaxHpResource = INJECTORS.hpResource;
 					itemData._props.AllowSpawnOnLocations = locationsMax;
 					itemData._props.effects_damage.LightBleeding =
 					{
 						"delay": 0,
-						"duration": 360,
+						"duration": INJECTORS.Duration,
 						"fadeOut": 5
 					};
 					itemData._props.effects_damage.HeavyBleeding =
 					{
 						"delay": 0,
-						"duration": 360,
+						"duration": INJECTORS.Duration,
 						"fadeOut": 5
 					};
 				}
@@ -983,18 +999,18 @@ class healer
 				//Adrenaline Injector
 				if (itemData._id === "5c10c8fd86f7743d7d706df3")
 				{
-					itemData._props.MaxHpResource = 4;
+					itemData._props.MaxHpResource = INJECTORS.hpResource;
 					itemData._props.AllowSpawnOnLocations = locationsMax;
 					itemData._props.effects_damage.Pain =
 					{
 						"delay": 0,
-						"duration": 240,
+						"duration": INJECTORS.Duration,
 						"fadeOut": 5
 					};
 					itemData._props.effects_damage.Contusion =
 					{
 						"delay": 0,
-						"duration": 240,
+						"duration": INJECTORS.Duration,
 						"fadeOut": 0
 					};
 				}
@@ -1002,56 +1018,56 @@ class healer
 				//Meldonin
 				if (itemData._id === "5ed5160a87bb8443d10680b5")
 				{
-					itemData._props.MaxHpResource = 4;
+					itemData._props.MaxHpResource = INJECTORS.hpResource;
 					itemData._props.AllowSpawnOnLocations = locationsMin;
 				}
 
 				//AHF1-M
 				if (itemData._id === "5ed515f6915ec335206e4152")
 				{
-					itemData._props.MaxHpResource = 4;
+					itemData._props.MaxHpResource = INJECTORS.hpResource;
 					itemData._props.AllowSpawnOnLocations = locationsMax;
 				}
 
 				//3-(b-TG)
 				if (itemData._id === "5ed515c8d380ab312177c0fa")
 				{
-					itemData._props.MaxHpResource = 4;
+					itemData._props.MaxHpResource = INJECTORS.hpResource;
 					itemData._props.AllowSpawnOnLocations = locationsMax;
 				}
 
 				//L1 (Norepinephrine)
 				if (itemData._id === "5ed515e03a40a50460332579")
 				{
-					itemData._props.MaxHpResource = 4;
+					itemData._props.MaxHpResource = INJECTORS.hpResource;
 					itemData._props.AllowSpawnOnLocations = locationsMin;
 				}
 
 				//P22
 				if (itemData._id === "5ed515ece452db0eb56fc028")
 				{
-					itemData._props.MaxHpResource = 4;
+					itemData._props.MaxHpResource = INJECTORS.hpResource;
 					itemData._props.AllowSpawnOnLocations = locationsMin;
 				}
 
 				//Cocktail "Oldolbos"
 				if (itemData._id === "5ed5166ad380ab312177c100")
 				{
-					itemData._props.MaxHpResource = 4;
+					itemData._props.MaxHpResource = INJECTORS.hpResource;
 					itemData._props.AllowSpawnOnLocations = locationsMin;
 				}
 
 				//M.U.L.E. stimulator
-				if (itemData._id === "5448f3a64bdc2d60728b456a")
+				if (itemData._id === "5ed51652f6c34d2cc26336a1")
 				{
-					itemData._props.MaxHpResource = 4;
+					itemData._props.MaxHpResource = INJECTORS.hpResource;
 					itemData._props.AllowSpawnOnLocations = locationsMax;
 				}
 
 				//Antidote xTG-12
 				if (itemData._id === "5fca138c2a7b221b2852a5c6")
 				{
-					itemData._props.MaxHpResource = 4;
+					itemData._props.MaxHpResource = INJECTORS.hpResource;
 					itemData._props.AllowSpawnOnLocations = locationsMin;
 				}
 			}
