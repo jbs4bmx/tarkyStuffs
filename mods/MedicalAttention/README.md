@@ -6,7 +6,7 @@ This is meant to be a replacement for SuperIFAK and SuperAFAK mods. This mod han
 
 >Author  : jbs4bmx
 
->Version : 2.1.1 (Supports SPT-AKI 2.1.0 and EFT Version 0.12.11.7.15261)
+>Version : 2.1.1.0 (Supports SPT-AKI 2.1.1 and EFT Version 0.12.11.7.15426)
 
 
 ### /* ========== NEW FEATURE: CONFIGURABLE MEDICAL SUPPLIES ========== */
