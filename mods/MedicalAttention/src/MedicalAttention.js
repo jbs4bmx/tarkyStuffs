@@ -6,7 +6,7 @@
 	Name: MedicalAttention
 	Description: Configure Meds to do what you want them to do.
 	Version: 2.1.1
-    Aki Version: 2.1.0
+    Aki Version: 2.1.1
 	Author(s): jbs4bmx
 */
 

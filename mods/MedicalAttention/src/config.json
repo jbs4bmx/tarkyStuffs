@@ -1,65 +1,54 @@
 {
-
     "AI2": {
         "Enable": false,
         "hpResource": 250
     },
-
     "CAR": {
         "Enable": false,
         "hpResource": 500
     },
-
     "SALEWA": {
         "Enable": false,
         "hpResource": 1000
     },
-
     "IFAK": {
         "Enable": false,
         "hpResource": 900,
         "fixFracture": true,
         "fixDestroyedPart": true
     },
-
     "SANITAR": {
         "Enable": false,
         "hpResource": 5000,
         "fixFracture": true,
         "fixDestroyedPart": true
     },
-
     "AFAK": {
         "Enable": false,
         "hpResource": 1200,
         "fixFracture": true,
         "fixDestroyedPart": true
     },
-
     "GRIZZLY": {
         "Enable": false,
         "hpResource": 5000,
         "fixFracture": true,
         "fixDestroyedPart": true
     },
-
     "PILLS": {
         "Enable": false,
         "hpResource": 24,
         "Duration": 360,
         "HydrationBurn": -4
     },
-
     "BANDAGES": {
         "Enable": false,
         "hpResource": 4
     },
-
     "SPLINTS": {
         "Enable": false,
         "hpResource": 8
     },
-
     "TOPICALS": {
         "Enable": false,
         "hpResource": 10,
@@ -67,17 +56,14 @@
         "Hydration": 25,
         "Duration": 360
     },
-
     "SURGICALKITS": {
         "Enable": false,
         "hpResource": 10
     },
-
     "TOURNIQUETS": {
         "Enable": false,
         "hpResource": 5
     },
-
     "INJECTORS": {
         "Enable": false,
         "hpResource": 4,
