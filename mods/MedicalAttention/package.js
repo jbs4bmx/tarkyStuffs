@@ -5,8 +5,8 @@
     Website: https://discord.gg/sptaki
     Name: MedicalAttention
     Description: Configure Meds to do what you want them to do.
-    Version: 2.1.1
-    Aki Version: 2.1.1
+    Version: 2.1.2
+    Aki Version: 2.1.2
     Author(s): jbs4bmx
 */
 const {healMe} = require("./src/MedicalAttention.js");

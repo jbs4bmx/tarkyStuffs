@@ -2,11 +2,15 @@
 
 Enhanced Medications. All meds, kits, injectors, and balms enhanced for your pleasure.
 
-This is meant to be a replacement for SuperIFAK and SuperAFAK mods. This mod handles those two kits so there is no need to double up on them unless you want something to break. HP resource values for all items are listed below... some items have extra features added but are not listed here. To see those changes, please review the code in src folder.
+This is meant to be a replacement for SuperIFAK and SuperAFAK mods, however, you may still use those mods if you keep the IFAK and AFAK settings for this mod disabled. If you do not keep them disabled in this mod, the the three mods can conflict with one another and your server may not load and/or their functionality could be broken in game
+
+HP resource values for all items are listed below...
+Some items have extra features added but are not listed here. To see those changes, please review the code in src folder.
+
 
 >Author  : jbs4bmx
 
->Version : 2.1.1.0 (Supports SPT-AKI 2.1.1 and EFT Version 0.12.11.7.15426)
+>Version : 2.1.2 (Supports SPT-AKI 2.1.2 and EFT Version 0.12.11.7.15680)
 
 
 ### /* ========== NEW FEATURE: CONFIGURABLE MEDICAL SUPPLIES ========== */
