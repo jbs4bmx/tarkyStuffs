@@ -1,0 +1,29 @@
+{
+    "MainArmor": {
+        "Head": false,
+        "Chest": false,
+        "Stomach": false,
+        "LeftArm": false,
+        "RightArm": false,
+        "LeftLeg": false,
+        "RightLeg": false
+    },
+    "HeadAreas": {
+        "Top": false,
+        "Nape": false,
+        "Ears": false,
+        "Eyes": false,
+        "Jaws": false
+    },
+    "Resources": {
+        "RepairCost": 24869,
+        "Durability": 1500,
+        "MaxDurability": 1500,
+        "minTraderLevel": 1,
+        "marketPrice": 134889,
+        "traderPrice": 124479
+    },
+    "other": {
+        "HideWarningMessage": false
+    }
+}
