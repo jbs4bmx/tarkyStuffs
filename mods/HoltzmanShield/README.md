@@ -8,6 +8,11 @@ You may alter the level of protection by editing the values found in the 'config
 
 
 
+# WARNING!!!
+## Mod is WIP. Do not use. It is currently in an unworking state.
+
+
+
 >Author  : jbs4bmx
 
 >Version : 2.1.2 (Supports SPT-AKI 2.1.2 and EFT Version 0.12.11.7.15680)
