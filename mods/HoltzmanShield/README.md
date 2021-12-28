@@ -5,10 +5,11 @@ This mod adds a new version of the Evasion Armband based on the shield technolog
 
 
 
-:bangbang:
-## WARNING!!!
-**This mod is a WIP. Do not use this mod unless testing for QA purposes. This mod is provided as-is with no guarantee of support.**
-:bangbang:
+
+### WARNING!!!
+:bangbang: **This mod is a WIP. Do not use this mod unless testing for QA purposes.** :bangbang:
+
+:bangbang: **This mod is provided as-is with no guarantee of support.** :bangbang:
 
 
 
