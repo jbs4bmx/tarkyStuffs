@@ -2,18 +2,6 @@
 
 This mod adds a new version of the Evasion Armband based on the shield technology from the Novel/Movies "Dune". It adds armor protection for body parts as defined in the configuration file. You may alter the level of protection by editing the values found in the 'config.json' file.
 
-
-
-
-
-### WARNING!!!
-:bangbang: **This mod is a WIP. Do not use this mod unless testing for QA purposes.** :bangbang:
-
-:bangbang: **This mod is provided as-is with no guarantee of support.** :bangbang:
-
-
-
-
 >Author  : jbs4bmx
 
 >Version : 2.1.2 (Supports SPT-AKI 2.1.2 and EFT Version 0.12.11.7.15680)
@@ -21,6 +9,16 @@ This mod adds a new version of the Evasion Armband based on the shield technolog
 >Note    : This does not work with any other version of SPT. It only works with version 2.1.2.
 
 
+## ==========================================================================================
+
+
+### WARNING!!!
+:bangbang: **This mod is a WIP. Do not use this mod unless testing for QA purposes.** :bangbang:
+
+:bangbang: **This mod is provided as-is with _no_ guarantee of support.** :bangbang:
+
+
+## ==========================================================================================
 
 
 ### How to Install this Mod.
@@ -32,6 +30,7 @@ This mod adds a new version of the Evasion Armband based on the shield technolog
 4. Profit.
 
 
+## ==========================================================================================
 
 
 ### Configuration Guide
