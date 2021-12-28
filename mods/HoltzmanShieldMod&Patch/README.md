@@ -26,10 +26,11 @@ This mod adds a new version of the Evasion Armband based on the shield technolog
 ### How to Install this Mod.
 "[SPT]" = Your SPT-AKI folder
 
-1. Copy "Assembly-CSharp.dll.bpf" file in "patch" folder to "[SPT]\Aki_Data\Launcher\Patches\aki-core\EscapeFromTarkov_Data\Managed\"
-2. Overwrite existing file if prompted.
-3. Copy entire "HoltzmanShield" folder to your "[SPT]\user\mods\" folder.
-4. Profit.
+1. Backup your current bpf file in "[SPT]\Aki_Data\Launcher\Patches\aki-core\EscapeFromTarkov_Data\Managed\".
+2. Copy "Assembly-CSharp.dll.bpf" file in "patch" folder to "[SPT]\Aki_Data\Launcher\Patches\aki-core\EscapeFromTarkov_Data\Managed\"
+3. Overwrite existing file if prompted.
+4. Copy entire "HoltzmanShield" folder to your "[SPT]\user\mods\" folder.
+5. Profit.
 
 
 ### ==================================================
