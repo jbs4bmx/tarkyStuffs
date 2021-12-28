@@ -46,6 +46,7 @@ class Holtzman
             return Object.values(items).filter((item) => item._id === id)[0];
         }
         const inventory = getItem("55d7217a4bdc2d86028b456d");
+        // Armband Slot filter
         const placeable = inventory._props.Slots[14];
 
         // Set arrays for armor attributes
@@ -54,9 +55,10 @@ class Holtzman
 
         // Build Item Properties, set trader to Ragman, and accept only Roubles.
         var itemId = "HShield";
+        var itemProto = "545cdb794bdc2d3a198b456a";
         var itemClone = "572b7fa524597762b747ce82";
-        var itemParent = "5a341c4686f77469e155819e";
-        var itemCategory = "57bef4c42459772e8d35a53b";
+        var itemParent = "57bef4c42459772e8d35a53b";
+        var itemCategory = "5b5f701386f774093f2ecf0f";
         var itemFleaPrice = Resources.marketPrice;
         var itemPrefabPath = "assets/content/items/equipment/armband/item_equipment_armband_evasion.bundle";
         var itemLongName = "Holtzman Shield";
@@ -76,8 +78,8 @@ class Holtzman
             armor.push("Head")
             Logger.info(`[HS Mod] - Resource value Head is not a boolean. Defaulting to true.`, "yellow", "red");
         }
-        if (typeof MainArmor.Chest === "boolean") {
-            if (MainArmor.Chest === true) {
+        if (typeof MainArmor.Thorax === "boolean") {
+            if (MainArmor.Thorax === true) {
                 armor.push("Chest")
             }
         } else {
@@ -211,6 +213,7 @@ class Holtzman
 
         // change item properties
         // items[itemId]._props.Prefab = itemPrefabPath;
+        items[itemId]._proto = itemProto;
         items[itemId]._props.CreditsPrice = itemTraderPrice;
         items[itemId]._props.RepairCost = Resources.RepairCost;
         items[itemId]._props.Durability = Resources.Durability;
@@ -220,7 +223,7 @@ class Holtzman
         items[itemId]._props.headSegments = segments;
         items[itemId]._props.MaterialType = "BodyArmor";
         items[itemId]._props.ArmorMaterial = "UHMWPE";
-        items[itemId]._props.UnlootableFromSlot = "ArmBand";
+        //items[itemId]._props.UnlootableFromSlot = "ArmBand";
 
         // Place the item into the filter for the Armband Slot
 		placeable._props.filters[0].Filter.push("HShield");
