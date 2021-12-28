@@ -9,7 +9,7 @@ This mod adds a new version of the Evasion Armband based on the shield technolog
 >Note    : This does not work with any other version of SPT. It only works with version 2.1.2.
 
 
-## ==================================================
+### ==================================================
 
 
 ### WARNING!!!
@@ -18,7 +18,7 @@ This mod adds a new version of the Evasion Armband based on the shield technolog
 :bangbang: **This mod is provided as-is with _no_ guarantee of support.** :bangbang:
 
 
-## ==================================================
+### ==================================================
 
 
 ### How to Install this Mod.
@@ -30,7 +30,7 @@ This mod adds a new version of the Evasion Armband based on the shield technolog
 4. Profit.
 
 
-## ==================================================
+### ==================================================
 
 
 ### Configuration Guide
