@@ -6,8 +6,8 @@ This mod adds a new version of the Evasion Armband based on the shield technolog
 
 
 :bangbang:
-# WARNING!!!
-### This mod is a WIP. Do not use this mod unless testing for QA purposes. This mod is provided as-is with no guarantee of support.
+## WARNING!!!
+**This mod is a WIP. Do not use this mod unless testing for QA purposes. This mod is provided as-is with no guarantee of support.**
 :bangbang:
 
 
@@ -22,7 +22,7 @@ This mod adds a new version of the Evasion Armband based on the shield technolog
 
 
 
-### How to Instal this Mod.
+### How to Install this Mod.
 "[SPT]" = Your SPT-AKI folder
 
 1. Copy "Assembly-CSharp.dll.bpf" file in "patch" folder to "[SPT]\Aki_Data\Launcher\Patches\aki-core\EscapeFromTarkov_Data\Managed\"
