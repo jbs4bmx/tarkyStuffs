@@ -17,6 +17,8 @@ This mod adds a new version of the Evasion Armband based on the shield technolog
 
 :bangbang: **This mod is provided _as-is_ with _no guarantee_ of support.** :bangbang:
 
+:large_orange_diamond: This mod may not be compatible with other mods that edit or change server/launcher modules. You are warned. :large_orange_diamond:
+
 
 ### ==================================================
 
