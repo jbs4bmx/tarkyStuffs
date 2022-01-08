@@ -13,11 +13,7 @@ This mod adds a new version of the Evasion Armband based on the shield technolog
 
 
 ### WARNING!!!
-:bangbang: **This mod is a WIP. Do not use this mod unless testing for QA purposes.** :bangbang:
-
 :bangbang: **This mod is provided _as-is_ with _no guarantee_ of support.** :bangbang:
-
-:large_orange_diamond: This mod may not be compatible with other mods that edit or change server/launcher modules. You are warned. :large_orange_diamond:
 
 
 ### ==================================================
@@ -26,11 +22,8 @@ This mod adds a new version of the Evasion Armband based on the shield technolog
 ### How to Install this Mod.
 "[SPT]" = Your SPT-AKI folder
 
-1. Backup your current bpf file in "[SPT]\Aki_Data\Launcher\Patches\aki-core\EscapeFromTarkov_Data\Managed\".
-2. Copy "Assembly-CSharp.dll.bpf" file in "patch" folder to "[SPT]\Aki_Data\Launcher\Patches\aki-core\EscapeFromTarkov_Data\Managed\"
-3. Overwrite existing file if prompted.
-4. Copy entire "HoltzmanShield" folder to your "[SPT]\user\mods\" folder.
-5. Profit.
+1. Copy entire "HoltzmanShield" folder to your "[SPT]\user\mods\" folder.
+2. Profit.
 
 
 ### ==================================================

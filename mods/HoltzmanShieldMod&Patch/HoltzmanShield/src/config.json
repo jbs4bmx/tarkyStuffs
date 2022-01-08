@@ -1,19 +1,19 @@
 {
     "MainArmor": {
-        "Head": false,
-        "Chest": false,
-        "Stomach": false,
-        "LeftArm": false,
-        "RightArm": false,
-        "LeftLeg": false,
-        "RightLeg": false
+        "Head": true,
+        "Thorax": true,
+        "Stomach": true,
+        "LeftArm": true,
+        "RightArm": true,
+        "LeftLeg": true,
+        "RightLeg": true
     },
     "HeadAreas": {
-        "Top": false,
-        "Nape": false,
-        "Ears": false,
-        "Eyes": false,
-        "Jaws": false
+        "Top": true,
+        "Nape": true,
+        "Ears": true,
+        "Eyes": true,
+        "Jaws": true
     },
     "Resources": {
         "RepairCost": 24869,
