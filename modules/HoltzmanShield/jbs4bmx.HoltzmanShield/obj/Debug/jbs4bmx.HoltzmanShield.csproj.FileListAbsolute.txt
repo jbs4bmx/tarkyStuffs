@@ -1,0 +1,9 @@
+C:\Users\livin\source\repos\jbs4bmx.HoltzmanShield\jbs4bmx.HoltzmanShield\bin\Debug\module.dll
+C:\Users\livin\source\repos\jbs4bmx.HoltzmanShield\jbs4bmx.HoltzmanShield\bin\Debug\module.pdb
+C:\Users\livin\source\repos\jbs4bmx.HoltzmanShield\jbs4bmx.HoltzmanShield\bin\Debug\Aki.Common.dll
+C:\Users\livin\source\repos\jbs4bmx.HoltzmanShield\jbs4bmx.HoltzmanShield\bin\Debug\Assembly-CSharp.dll
+C:\Users\livin\source\repos\jbs4bmx.HoltzmanShield\jbs4bmx.HoltzmanShield\obj\Debug\jbs4bmx.HoltzmanShield.csproj.AssemblyReference.cache
+C:\Users\livin\source\repos\jbs4bmx.HoltzmanShield\jbs4bmx.HoltzmanShield\obj\Debug\jbs4bmx.HoltzmanShield.csproj.CoreCompileInputs.cache
+C:\Users\livin\source\repos\jbs4bmx.HoltzmanShield\jbs4bmx.HoltzmanShield\obj\Debug\jbs4bmx.HoltzmanShield.csproj.CopyComplete
+C:\Users\livin\source\repos\jbs4bmx.HoltzmanShield\jbs4bmx.HoltzmanShield\obj\Debug\module.dll
+C:\Users\livin\source\repos\jbs4bmx.HoltzmanShield\jbs4bmx.HoltzmanShield\obj\Debug\module.pdb
