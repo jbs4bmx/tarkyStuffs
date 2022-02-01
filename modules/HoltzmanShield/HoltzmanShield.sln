@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jbs4bmx.HoltzmanShield", "jbs4bmx.HoltzmanShield\jbs4bmx.HoltzmanShield.csproj", "{E236F15F-305C-48B6-BE66-7BCE0DE5A72A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoltzmanShield", "HoltzmanShield\HoltzmanShield.csproj", "{E236F15F-305C-48B6-BE66-7BCE0DE5A72A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
