@@ -5,8 +5,8 @@
 	Website: https://discord.gg/sptaki
 	Name: SuperIFAK
 	Description: SuperIFAK mod by xKyle now ported to SPT-AKI with additional med features.
-	Version: 2.1.2
-    Aki Version: 2.1.2
+	Version: 2.2.0
+    Aki Version: 2.2.0
 	Author(s): jbs4bmx
 */
 

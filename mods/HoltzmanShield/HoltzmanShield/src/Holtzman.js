@@ -2,8 +2,8 @@
     FileName    | Holtzman.js
     Mod Name    | Holtzman Shield
     Description | A shield produced by a Holtzman generator.
-    Mod Version | 2.1.2
-    Aki Version | 2.1.2
+    Mod Version | 2.2.0
+    Aki Version | 2.2.0
     Copyright   | jbs4bmx
     Author(s)   | jbs4bmx
     Code Credit | AssAssIn
@@ -15,7 +15,7 @@ const items = DatabaseServer.tables.templates.items;
 class Holtzman
 {
     constructor() {
-        this.mod = "Holtzman Shield v2.1.2";
+        this.mod = "Holtzman Shield v2.2.0";
         Logger.info(`Loading: ${this.mod}`);
         const { other } = require('./config.json');
         if (other.HideWarningMessage === false) {
@@ -41,7 +41,7 @@ class Holtzman
         const global = DatabaseServer.tables.locales.global;
         const traders = DatabaseServer.tables.traders;
 
-        // Set item placeable slot to Default Invetory slot 14 (armband)
+        // Set item placeable slot to Default Inventory slot 14 (armband)
         function getItem(id) {
             return Object.values(items).filter((item) => item._id === id)[0];
         }
@@ -223,7 +223,6 @@ class Holtzman
         items[itemId]._props.headSegments = segments;
         items[itemId]._props.MaterialType = "BodyArmor";
         items[itemId]._props.ArmorMaterial = "UHMWPE";
-        //items[itemId]._props.UnlootableFromSlot = "ArmBand";
 
         // Place the item into the filter for the Armband Slot
 		placeable._props.filters[0].Filter.push("HShield");

@@ -13,7 +13,7 @@ You may alter the level of protection by editing the values found in the "config
 
 >Author  : jbs4bmx
 
->Version : 2.1.2 (Supports SPT-AKI 2.1.2 and EFT Version 0.12.11.7.15680)
+>Version : 2.2.0 (Supports SPT-AKI 2.2.0 and EFT Version 0.12.12.15.16584)
 
 
 
