@@ -4,7 +4,7 @@ Modification of the in game item "AFAK" similar to the SuperIFAK mod.
 
 >Author  : jbs4bmx
 
->Version : 2.2.0 (Supports SPT-AKI 2.2.0 and EFT Version 0.12.12.15.16584)
+>Version : 2.2.1 (Supports SPT-AKI 2.2.1 and EFT Version 0.12.12.15.16584)
 
 
 
