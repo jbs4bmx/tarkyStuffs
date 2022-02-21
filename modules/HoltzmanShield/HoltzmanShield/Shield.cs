@@ -2,12 +2,16 @@
 using EFT.InventoryLogic;
 using System.Reflection;
 
-/* ::NOTES::
+/*
  * ...
- * Author: jbs4bmx
- * Tester(s): "@kiki", "@Phantom in Time"
- * Date: 31 Jan, 2022
- * Update: 1 Feb, 2022
+ * Author   | jbs4bmx
+ * Version  | 2.2.2
+ * Date     | 31 Jan, 2022
+ * Update   | 20 Feb, 2022
+ * ...
+ * Note     | For use with the following versions of SPT-AKI and EFT.
+ * SPT-AKI  | 2.2.2
+ * EFT      | 0.12.12.15.16778
  * ...
 */
 
@@ -15,12 +19,12 @@ namespace HoltzmanShield
 {
     public class Shield
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
-            Log.Info("HoltzmanShield: Applying armor patch...");
+            Log.Info("HoltzmanShield (v2.2.2): Applying armor patch...");
             AddArmBandArmorSlot();
 
-            Log.Info("HoltzmanShield: Patch successfully applied");
+            Log.Info("HoltzmanShield (v2.2.2): Patch successfully applied");
         }
 
         public static void AddArmBandArmorSlot()

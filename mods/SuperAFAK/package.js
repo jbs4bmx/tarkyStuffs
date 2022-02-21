@@ -5,8 +5,8 @@
     Website: https://discord.gg/sptaki
     Name: SuperAFAK
     Description: AFAK with additional med features.
-    Version: 2.2.1
-    Aki Version: 2.2.1
+    Version: 2.2.2
+    Aki Version: 2.2.2
   	Author(s): jbs4bmx
 */
 const { afak } = require("./src/afak.js");

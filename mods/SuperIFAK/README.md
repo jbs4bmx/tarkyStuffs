@@ -6,25 +6,24 @@ This mod is a port of xKyle's SuperIFAK mod for EmuTarkov to SPT-AKI (Single Pla
 
 >Porting Author  : jbs4bmx
 
->Version : 2.2.1 (Supports SPT-AKI 2.2.1 and EFT Version 0.12.12.15.16584)
+>Version : 2.2.2 (Supports SPT-AKI 2.2.2 and EFT Version 0.12.12.15.16778)
 
 
 
 
-IFAK specifications:
-
-    HP Resource === 3000
-
-    Heals                   | Costs
-    =====================================================================================
-    Light Bleeding          | 30hp
-    Heavy Bleeding          | 50hp
-    Fracture                | 0hp
-    Blacked Out Body Part   | 0 health penalties (i.e., no reduction in limb's hp resource)
-    Contusion               | 0hp
-    Rad Exposure            | 0hp
+## IFAK specifications
+   * HP Resource === 3000
+|         Heals         |                             Cost                              |
+|:---------------------:|:-------------------------------------------------------------:|
+| Light Bleeding        | 30hp                                                          |
+| Heavy Bleeding        | 50hp                                                          |
+| Fracture              | 0hp                                                           |
+| Blacked Out Body Part | 0 health penalties (i.e., no reduction in limb's hp resource) |
+| Contusion             | 0hp                                                           |
+| Rad Exposure          | 0hp                                                           |
 
 
+## Notice
 **WARNING** - There is one caveat to using this mod...
 >When healing, your character cannot move.
 >

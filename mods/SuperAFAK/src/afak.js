@@ -5,8 +5,8 @@
 	Website: https://discord.gg/sptaki
 	Name: SuperAFAK
 	Description: AFAK with additional med features.
-	Version: 2.2.1
-    Aki Version: 2.2.1
+	Version: 2.2.2
+    Aki Version: 2.2.2
 	Author(s): jbs4bmx
 */
 
@@ -16,7 +16,7 @@ class afak
 {
 	constructor()
 	{
-        this.mod = "jbs4bmx-SuperAFAK";
+        this.mod = "SuperAFAK v2.2.2";
 		Logger.info(`Loading: ${this.mod}`);
 		ModLoader.onLoad[this.mod] = this.load.bind(this);
     }

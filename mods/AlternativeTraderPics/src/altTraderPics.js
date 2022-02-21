@@ -5,9 +5,9 @@
     Website: https://discord.gg/sptaki
     Name: AlternativeTraderPics
     Description: Beautify your traders.
-    Version: 2.2.1
-    AkiVersion: 2.2.1
-    Author(s): jbs4bmx, revaxl (https://github.com/revaxl)
+    Version: 2.2.2
+    AkiVersion: 2.2.2
+    Author(s): jbs4bmx, Revingly
 */
 
 "use strict";
