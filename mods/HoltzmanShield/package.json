@@ -1,8 +1,8 @@
 {
 	"name": "HoltzmanShield",
 	"author": "jbs4bmx",
-	"version": "2.2.2",
-	"akiVersion": "2.2.2",
+	"version": "2.2.3",
+	"akiVersion": "2.2.3",
 	"dependencies": {},
 	"license": "Unlicense",
 	"main": "package.js"

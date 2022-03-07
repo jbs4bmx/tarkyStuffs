@@ -5,8 +5,8 @@
     Website: https://discord.gg/sptaki
     Name: AlternativeTraderPics
     Description: Beautify your traders.
-    Version: 2.2.2
-    AkiVersion: 2.2.2
+    Version: 2.2.3
+    AkiVersion: >=2.2.0
     Author(s): jbs4bmx, Revingly
 */
 
@@ -14,8 +14,11 @@
 
 class TraderPics {
     constructor() {
-        this.mod = "AlternativeTraderPics";
-        Logger.info(`Loading: ${this.mod}`);
+        Logger.info("Loading Alternative Trader Pics v2.2.3");
+        const path = require('path');
+        const current = __dirname;
+        const rootDir= path.basename(path.dirname(current));
+        this.mod = rootDir;
         this.funcptr = HttpServer.onRespond["IMAGE"];
         HttpServer.onRespond["IMAGE"] = this.getImage.bind(this);
     }

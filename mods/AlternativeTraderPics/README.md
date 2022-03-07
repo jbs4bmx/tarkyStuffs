@@ -4,7 +4,43 @@ Updates Trader icons to a much better looking alternative.
 
 >Author  : jbs4bmx, revaxl
 
->Version : 2.2.2 (Supports SPT-AKI 2.2.2 and EFT Version 0.12.12.15.16778)
+>Version : 2.2.3 (Supports SPT-AKI 2.2.3 and EFT Version 0.12.12.15.16909)
+
+
+
+## Additional Mod Support
+This mod supports traders from other mods as well. I will attempt to do my best to keep up with the ever changing mod list out there, but I cannot make any guarantees.
+
+List of supported mods:
+  * (ATF) Valkyrie Trader by CZ_2128
+  * AIO-Seller by bluehead
+  * AKGuy Super Shop by Fershte
+  * Alternative Trader Pics (THIS MOD)
+  * AR Shoppe (Kugel-Armalite Reloaded) by Fershte
+  * BiggerBang by Thunderbags
+  * Ducc Trader by ducc
+  * Food&Drink Trader by Revingly
+  * GearGal by Fershte
+  * Hardcore Traders by Meiosis
+  * Lock Picking Attorney by Revingly
+  * Operator by alex
+  * Priscilu by Reis
+  * QuestManiac by Andrudis
+  * Questor and Gunsmith by alex
+  * Scav Cat by DonutxLord
+  * ScavCat Redux by SixGod
+  * TerraGroup Specialist by Ereshkigal
+
+
+
+## Installation
+Just place the folder named "ZZ-AlternativeTraderPics" into your "/user/mods" folder.
+
+This mod should be loaded after all other mods that add new traders.
+
+If you suspect that this mod is loading after an additional trader is added, the load order may need to be changed by adding an additional "Z" or more to the folders name.
+
+After altering the name, delete BSG temp folder found in "C:\Users\{username}\AppData\Local\Temp\Battlestate Games". You can find this by typing in "%LocalAppData%" (no quotes) into the address bar of Windows File Explorer. Delete the "Battlestate Games" folder.
 
 
 

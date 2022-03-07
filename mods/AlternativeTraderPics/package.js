@@ -5,8 +5,8 @@
     Website: https://discord.gg/sptaki
     Name: AlternativeTraderPics
     Description: Beautify your traders.
-    Version: 2.2.2
-    Aki Version: 2.2.2
+    Version: 2.2.3
+    Aki Version: >=2.2.0
     Author(s): jbs4bmx, Revingly
 */
 const { Mod } = require("./src/altTraderPics.js");

@@ -4,7 +4,7 @@ This mod adds a new version of the Evasion Armband based on the shield technolog
 
 >Author  : jbs4bmx
 
->Version : 2.2.2 (Supports SPT-AKI 2.2.2 and EFT Version 0.12.12.15.16778)
+>Version : 2.2.3 (Supports SPT-AKI 2.2.3 and EFT Version 0.12.12.15.16909)
 
 
 

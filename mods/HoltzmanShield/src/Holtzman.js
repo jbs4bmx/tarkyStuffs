@@ -2,8 +2,8 @@
     FileName    | Holtzman.js
     Mod Name    | Holtzman Shield
     Description | A shield produced by a Holtzman generator.
-    Mod Version | 2.2.2
-    Aki Version | 2.2.2
+    Mod Version | 2.2.3
+    Aki Version | 2.2.3
     Copyright   | jbs4bmx
     Author(s)   | jbs4bmx
     Code Credit | AssAssIn
@@ -15,7 +15,7 @@ const items = DatabaseServer.tables.templates.items;
 class Holtzman
 {
     constructor() {
-        this.mod = "Holtzman Shield v2.2.2";
+        this.mod = "Holtzman Shield v2.2.3";
         Logger.info(`Loading: ${this.mod}`);
         const { other } = require('./config.json');
         if (other.HideWarningMessage === false) {

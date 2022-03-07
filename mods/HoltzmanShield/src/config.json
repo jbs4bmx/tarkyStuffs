@@ -16,7 +16,7 @@
         "Jaws": true
     },
     "Resources": {
-        "RepairCost": 69420,
+        "RepairCost": 1000,
         "Durability": 1500,
         "MaxDurability": 1500,
         "minTraderLevel": 1,

@@ -1,0 +1,295 @@
+If you like these artists' works, please consider contributing to them.
+All links are provided to their pages.
+They all provide fantastic works of art and deserve the recognition for all of their hard work.
+A lot of artists even do commission work.
+
+
+Listed traders are sorted by mods. (Not in alphabetical order.)
+Each file name is followed by the artist's name and then a link to their page.
+
+========================================================================
+===== Alternative Trader Pics ==========================================
+========================================================================
+trader: 59b91cbd86f77469aa5343cb (Peacekeeper)
+file: peacekeeper.jpg
+    artist: S14-Oni-chan
+    link: https://www.artstation.com/tohru-san
+
+trader: 5c06531a86f7746319710e1b (Jaeger)
+file: vsk_94_by_maridjan_kirisame_defxgna-fullview.jpg
+    artist: Maridjan-kirisame
+    link: https://www.deviantart.com/maridjan-kirisame
+
+trader: 59b91cab86f77469aa5343ca (Therapist)
+file: therapist.jpg
+    artist: GigaMessy
+    link: https://www.deviantart.com/gigamessy
+
+trader: 5ac3b86a86f77461491d1ad8 (Ragman)
+file: ragman.png
+    artist: Kazenokaze
+    link: https://www.deviantart.com/kazenokaze
+
+trader: 59b91ca086f77469a81232e4 (Prapor)
+file: cheolsu-211127.jpg
+    artist: Cheolsu
+    link: https://www.artstation.com/cheol_su
+
+trader: 5a7c2ebb86f7746e324a06ab (Mechanic)
+file: derrick-chew-armygirl-dcwj-lrf02.jpg
+    artist: Derrick Chew
+    link: https://www.artstation.com/dcwj
+
+trader: 59b91cb486f77469a81232e5 (Skier)
+file: skier.jpg
+    artist: Avetetsuya Studios
+    link: https://www.artstation.com/avetetsuyastudios
+
+trader: 579dc571d53a0658a154fbec (Fence)
+file: avetetsuya-studios-commission-png.jpg
+    artist: Avetetsuya Studios
+    link: https://www.artstation.com/avetetsuyastudios
+
+
+========================================================================
+===== Andrudis-QuestManiac =============================================
+========================================================================
+trader: Bashkir_Temporal_Id
+file: derrick-chew-meibae.jpg
+    artist: Derrick Chew
+    link: https://www.artstation.com/dcwj
+
+trader: Colonel_Temporal_Id
+file: artsynellyyy-img-1157.jpg
+    artist: artsynellyyy
+    link: https://www.artstation.com/artsynellyyy5
+
+trader: Elder_Temporal_Id
+file: avetetsuya-studios-avetetsuya-studios-236253130-358413582674392-7110059957513996080-n.jpg
+    artist: Avetetsuya Studios
+    link: https://www.artstation.com/avetetsuyastudios
+
+trader: Khokhol_Temporal_Id
+file: avetetsuya-studios-in-this-unstable-world-2.jpg
+    artist: Avetetsuya Studios
+    link: https://www.artstation.com/avetetsuyastudios
+
+trader: LabRat_Temporal_Id
+file: avetetsuya-studios-269808391-961327721132118-1312464219510655064-n.jpg
+    artist: Avetetsuya Studios
+    link: https://www.artstation.com/avetetsuyastudios
+
+trader: Warden_Temporal_Id
+file: avetetsuya-studios-avetetsuya-studios-27173826-898566890321120-8855521197843568594-o.jpg
+    artist: Avetetsuya Studios
+    link: https://www.artstation.com/avetetsuyastudios
+
+
+========================================================================
+===== Scav Cat =========================================================
+========================================================================
+trader: SCAVCAT
+file: scavCat.jpg
+    artist: deka yo
+    link: https://www.artstation.com/deka__yo
+
+
+========================================================================
+===== Priscilu =========================================================
+========================================================================
+trader: Priscilu
+file: avetetsuya-studios-230442000-3074770662801749-7730700719198110662-n.jpg
+    artist: Avetetsuya Studios
+    link: https://www.artstation.com/avetetsuyastudios
+
+
+========================================================================
+===== Lock Picking Attorney ============================================
+========================================================================
+trader: LPA
+file: avetetsuya-studios-7.jpg
+    artist: Avetetsuya Studios
+    link: https://www.artstation.com/avetetsuyastudios
+
+
+========================================================================
+===== TerraGroup Specialist ============================================
+========================================================================
+trader: terragroup_specialist
+file: ivanwind-studios-natsuki2.jpg
+    artist: Ivanwind Studios
+    link: https://www.artstation.com/ivanwind
+
+
+========================================================================
+===== Operator =========================================================
+========================================================================
+trader: operator
+file: hyun-hee-yang-02.jpg
+    artist: Hyun-hee Yang
+    link: https://www.artstation.com/ypapa
+
+
+========================================================================
+===== AKGuy ============================================================
+========================================================================
+trader: AKGUY
+file: ak_12_by_maridjan_kirisame_dcmn1mp-fullview.jpg
+    artist: Maridjan-kirisame
+    link: https://www.deviantart.com/maridjan-kirisame
+
+
+========================================================================
+===== Ducc =============================================================
+========================================================================
+trader: ducc
+file: _commission_24__duck_pond_by_leenarie_de9kxoo-fullview.jpg
+    artist: LeeNarie
+    link: https://www.deviantart.com/leenarie
+
+
+========================================================================
+===== Valkyrie =========================================================
+========================================================================
+trader: shizu
+file: sniper_girl_by_levie7_de73fml-fullview.jpg
+    artist: Levie7
+    link: https://www.deviantart.com/levie7
+
+
+========================================================================
+===== Food&Drink =======================================================
+========================================================================
+trader: FoodDrink
+file: dcyndp7-ae342c4a-2155-4c1d-93c9-274041efddf0.jpg
+    artist: armenci
+    link: https://www.deviantart.com/armenci
+
+
+========================================================================
+===== Questor ==========================================================
+========================================================================
+trader: questor
+file: alexia_by_clayscence.jpg
+    artist: Clayscence
+    link: https://www.deviantart.com/clayscence
+
+
+========================================================================
+===== Kugel-Armalite ===================================================
+========================================================================
+trader: armalite
+file: avetetsuya-studios-front-mission.jpg
+    artist: Avetetsuya Studios
+    link: https://www.artstation.com/avetetsuyastudios
+
+
+========================================================================
+===== AIO-Seller =======================================================
+========================================================================
+trader: aiotrader
+file: ranveld-hoodie-1500.jpg
+    artist: Ranveld
+    link: https://www.artstation.com/ranveld
+
+trader: bluehead
+file: avetetsuya-studios-246579333-126830519661906-7164433030013410836-n.jpg
+    artist: Avetetsuya Studios
+    link: https://www.artstation.com/avetetsuyastudios
+
+
+========================================================================
+===== GearGal ==========================================================
+========================================================================
+trader: GearGal
+file: avetetsuya-studios-3.jpg
+    artist: Avetetsuya Studios
+    link: https://www.artstation.com/avetetsuyastudios
+
+
+========================================================================
+===== Hardcore Traders =================================================
+========================================================================
+trader: Foxy (Foxy)
+file: avetetsuya-studios-bb310433-original.jpg
+    artist: Avetetsuya Studios
+    link: https://www.artstation.com/avetetsuyastudios
+
+trader: The Interchanger (Interchange)
+file: tetsunyan-studios-89572935-p0-master1200.jpg
+    artist: Tetsunyan Studios
+    link: https://www.artstation.com/tetsunyanstudios
+
+
+========================================================================
+===== BiggerBang =======================================================
+========================================================================
+trader: avatar
+file: tetsunyan-studios-ling-xiaoyu-tifa-outfit-commission-by-rayleighscale-del8d77.jpg
+    artist: Tetsunyan Studios
+    link: https://www.artstation.com/tetsunyanstudios
+
+
+
+
+========================================================================
+===== Honorable Mentions ===============================================
+========================================================================
+file: avetetsuya-studios-271295765-1025952851602930-8717509912103450544-n.jpg
+    artist: Avetetsuya Studios
+    link: https://www.artstation.com/avetetsuyastudios
+
+file: avetetsuya-studios-ainx3isk1sx7ubboqfqesqjueno1flssgpgp4v1y.jpg
+    artist: Avetetsuya Studios
+    link: https://www.artstation.com/avetetsuyastudios
+
+file: avetetsuya-studios-aaaaaaaaaaaaaaaaaaaaaaaaaaaa.jpg
+    artist: Avetetsuya Studios
+    link: https://www.artstation.com/avetetsuyastudios
+
+file: avetetsuya-studios-162957158-1169331523519742-1681160094630374765-n.jpg
+    artist: Avetetsuya Studios
+    link: https://www.artstation.com/avetetsuyastudios
+
+file: avetetsuya-studios-1-1.jpg
+    artist: Avetetsuya Studios
+    link: https://www.artstation.com/avetetsuyastudios
+
+file: tetsunyan-studios-229471865-365428901650085-1026197241430662252-n.jpg
+    artist: Tetsunyan Studios
+    link: https://www.artstation.com/tetsunyanstudios
+
+file: tetsunyan-studios-fd1c74b8-original.jpg
+    artist: Tetsunyan Studios
+    link: https://www.artstation.com/tetsunyanstudios
+
+file: tetsunyan-studios-comm-storiestarter-2.jpg
+    artist: Tetsunyan Studios
+    link: https://www.artstation.com/tetsunyanstudios
+
+file: tetsunyan-studios-elvdtx9vcaevy0j.jpg
+    artist: Tetsunyan Studios
+    link: https://www.artstation.com/tetsunyanstudios
+
+file: r-o-iaki-0004.jpg
+    artist: LightBox라이트박스
+    link: https://www.artstation.com/iaki
+
+file: hyun-hee-yang-sd5f56sd4f22222.jpg
+    artist: Hyun-hee Yang
+    link: https://www.artstation.com/ypapa
+
+file: dda6he9-916432be-ff6d-4ed2-b97c-904361e1e692.jpg
+    artist: KingHatlas
+    link: https://www.deviantart.com/kinghatlas
+
+file: d8eo1cl-ac95d43d-d67f-4e3c-9674-620f7c65a6c2.jpg
+    artist: kaorub611
+    link: https://www.deviantart.com/kaorub611
+
+file: d9bslsk-b183b1db-6eab-4628-9856-ee053e059f54.jpg
+    artist: uchiha-styles
+    link: https://www.deviantart.com/uchiha-styles
+
+
+:eof

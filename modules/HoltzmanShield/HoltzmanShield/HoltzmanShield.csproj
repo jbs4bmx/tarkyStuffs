@@ -7,7 +7,7 @@
     <ProjectGuid>{E236F15F-305C-48B6-BE66-7BCE0DE5A72A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>jbs4bmx.HoltzmanShield</RootNamespace>
+    <RootNamespace>HoltzmanShield</RootNamespace>
     <AssemblyName>module</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
