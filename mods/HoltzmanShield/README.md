@@ -4,7 +4,9 @@ This mod adds a new version of the Evasion Armband based on the shield technolog
 
 >Author  : jbs4bmx
 
->Version : 2.2.3 (Supports SPT-AKI 2.2.3 and EFT Version 0.12.12.15.16909)
+>Version : 2.3.0 (Supports SPT-AKI 2.3.0 and EFT Version 0.12.12.15.17107)
+
+>Requires version 2.3.0 due to BepInEx plugin requirements.
 
 
 
@@ -23,7 +25,8 @@ This mod adds a new version of the Evasion Armband based on the shield technolog
 "[SPT]" = Your SPT-AKI folder
 
 1. Copy entire "HoltzmanShield" folder to your "[SPT]\user\mods\" folder.
-2. Profit.
+2. Copy HoltzmanShield2.dll to "[SPT]\BepInEx\plugins\" folder.
+3. Profit.
 
 
 ### ==================================================

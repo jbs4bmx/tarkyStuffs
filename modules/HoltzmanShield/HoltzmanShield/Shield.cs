@@ -1,36 +1,26 @@
-﻿using Aki.Common.Utils;
+﻿using BepInEx;
 using EFT.InventoryLogic;
+using Aki.Reflection;
+using Aki.Reflection.Patching;
 using System.Reflection;
 
-/*
- * ...
- * Author   | jbs4bmx
- * Version  | 2.2.3
- * Date     | 31 Jan, 2022
- * Update   | 20 Feb, 2022
- * ...
- * Note     | For use with the following versions of SPT-AKI and EFT.
- * SPT-AKI  | 2.2.3
- * EFT      | 0.12.12.15.16909
- * ...
-*/
-
-namespace HoltzmanShield
+namespace Shield
 {
-    public class Shield
+    [BepInPlugin("com.jbs4bmx.HoltzmanShield", "HoltzmanShield", "2.3.0")]
+    public class Shield : BaseUnityPlugin
     {
-        public static void Main()
+        private void Main()
         {
-            Log.Info("HoltzmanShield (v2.2.3): Applying armor patch...");
+            // Plugin startup logic
+            Logger.LogInfo("HoltzmanShield v2.3.0 is loading...");
             AddArmBandArmorSlot();
-
-            Log.Info("HoltzmanShield (v2.2.3): Patch successfully applied");
+            Logger.LogInfo("HoltzmanShield v2.3.0 is loaded!");
         }
 
-        public static void AddArmBandArmorSlot()
+        // Patch
+        public void AddArmBandArmorSlot()
         {
             var bindingFlags = BindingFlags.Instance | BindingFlags.Static | BindingFlags.NonPublic | BindingFlags.Public;
-
             var field = typeof(InventoryClass).GetField("ArmorSlots", bindingFlags);
 
             field.SetValue(null, new EquipmentSlot[]
@@ -42,8 +32,6 @@ namespace HoltzmanShield
                 EquipmentSlot.Eyewear,
                 EquipmentSlot.ArmBand
             });
-
-            Log.Info($"HoltzmanShield: Applied static patch {nameof(AddArmBandArmorSlot)}");
         }
     }
 }

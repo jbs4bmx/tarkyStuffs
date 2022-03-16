@@ -5,8 +5,8 @@
     Website: https://discord.gg/sptaki
     Name: AKI Provisions Pack
     Description: ModPack
-    Version: 2.1.0
-    Aki Version: 2.1.0
+    Version: 2.?.?
+    Aki Version: 2.?.?
     Author(s): jbs4bmx
     Credit:
 */
@@ -15,7 +15,7 @@
 
 class Provision {
     constructor() {
-        this.mod = "jbs4bmx-AkiProvisionPack";
+        this.mod = "AkiProvisionPack";
         Logger.info(`Loading: ${this.mod}`);
         ModLoader.onLoad[this.mod] = this.load.bind(this);
 
@@ -137,7 +137,7 @@ class Provision {
         ragfair.traders["ragfair"] = Config.traders.FleaMarketConfiguration.staticOffers.EnableAllAvailableOffers;
 
         ragfair.dynamic.enable = Config.traders.FleaMarketConfiguration.dynamicOffers.enable;
-        ragfair.dynamic.liveprices = Config.traders.FleaMarketConfiguration.dynamicOffers.liveprices
+        ragfair.dynamic.liveprices = Config.traders.FleaMarketConfiguration.dynamicOffers.liveprices;
         ragfair.dynamic.threshold = Config.traders.FleaMarketConfiguration.dynamicOffers.threshold;
         ragfair.dynamic.batchSize = Config.traders.FleaMarketConfiguration.dynamicOffers.batchSize;
         ragfair.dynamic.price.min = Config.traders.FleaMarketConfiguration.dynamicOffers.price.min;

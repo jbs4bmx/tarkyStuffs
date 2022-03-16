@@ -1,14 +1,15 @@
 {
     "SERVER": {
         "ip": "127.0.0.1",
-        "port": 443,
-        "raidSettings": {
-            "aiAmount": "AsOnline",
-            "aiDifficulty": "AsOnline",
-            "bossEnabled": true,
-            "scavWars": false,
-            "taggedAndCursed": false
-        }
+        "port": 6969
+    },
+
+    "RAID": {
+        "aiAmount": "AsOnline",
+        "aiDifficulty": "AsOnline",
+        "bossEnabled": true,
+        "scavWars": false,
+        "taggedAndCursed": false
     },
 
     "PLAYER": {
@@ -38,7 +39,7 @@
         "ChangeFuelConsumptionRate": false,
         "FuelConsumptionRate": 0.1,
         "FastHideoutConstruction": false,
-        "FastHideoutProduction": false,
+        "FastItemProduction": false,
         "FastScavCase": false,
         "ScavCasePriceReducer": false
     },
