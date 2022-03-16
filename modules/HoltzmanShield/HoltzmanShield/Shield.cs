@@ -14,7 +14,7 @@ namespace Shield
             // Plugin startup logic
             Logger.LogInfo("HoltzmanShield v2.3.0 is loading...");
             AddArmBandArmorSlot();
-            Logger.LogInfo("HoltzmanShield v2.3.0 is loaded!");
+            Logger.LogInfo("HoltzmanShield v2.3.0 has loaded!");
         }
 
         // Patch
