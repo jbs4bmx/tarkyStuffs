@@ -5,7 +5,7 @@
     Website: https://discord.gg/sptaki
     Name: BandanaOfProtection
     Description: Extra full body armor provided by the bandana.
-    Version: 2.2.3
+    Version: 2.3.0
     Aki Version: >=2.2.0
     Author(s): jbs4bmx
 */

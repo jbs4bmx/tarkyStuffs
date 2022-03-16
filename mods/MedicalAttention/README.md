@@ -10,7 +10,7 @@ Some items have extra features added but are not listed here. To see those chang
 
 >Author  : jbs4bmx
 
->Version : 2.2.3 (Supports SPT-AKI 2.2.3 and EFT Version 0.12.12.15.16909)
+>Version : 2.3.0 (Supports SPT-AKI 2.3.0 and EFT Version 0.12.12.15.17107)
 
 
 ### /* ========== NEW FEATURE: CONFIGURABLE MEDICAL SUPPLIES ========== */

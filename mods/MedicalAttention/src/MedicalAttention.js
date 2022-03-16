@@ -5,7 +5,7 @@
 	Website: https://discord.gg/sptaki
 	Name: MedicalAttention
 	Description: Configure Meds to do what you want them to do.
-	Version: 2.2.3
+	Version: 2.3.0
     Aki Version: >=2.2.0
 	Author(s): jbs4bmx
 */
@@ -16,7 +16,7 @@ class healer
 {
 	constructor()
 	{
-		this.mod = "MedicalAttention v2.2.3";
+		this.mod = "MedicalAttention v2.3.0";
 		Logger.info(`Loading: ${this.mod}`);
 		ModLoader.onLoad[this.mod] = this.load.bind(this);
     }
