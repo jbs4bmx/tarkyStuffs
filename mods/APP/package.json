@@ -1,9 +1,0 @@
-{
-	"name": "AKI Provisions Pack",
-	"author": "jbs4bmx",
-	"version": "2.1.0",
-	"akiVersion": "2.1.0",
-	"license": "The Unlicense",
-	"dependencies": {},
-	"main": "package.js"
-}
