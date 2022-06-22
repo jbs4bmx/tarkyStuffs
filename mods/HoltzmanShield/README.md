@@ -1,12 +1,35 @@
 # Holtzman Shield
 
-This mod adds a new version of the Evasion Armband based loosely on the shield technology from the Novel/Movies "Dune". It adds armor protection for body parts as defined in the configuration file. You may alter the level of protection by editing the values found in the 'config.json' file.
+This mod adds 17 new variants of armbands based loosely on the shield technology from the Novel/Movies "Dune". It adds armor protection for body parts as defined in the configuration file. You may alter the level of protection by editing the values found in the 'config.json' file within each of the variants.
 
 >Author  : jbs4bmx
 
 >Version : 3.0.0 (Supports SPT-AKI 3.0.0 and EFT Version 0.12.12.15.18346)
 
 >Requires SPT version 3.0.0
+
+
+### ==================================================
+Variant List:
+| Name | Style |
+|:----- | :----- |
+|Holtzman Shield Alpha | Alpha armband |
+|Holtzman Shield BEAR | Bear armband |
+|Holtzman Shield Blue | Blue armband |
+|Holtzman Shield DeadSkul | DeadSkul armband |
+|Holtzman Shield Evasion | Evasion armband |
+|Holtzman Shield Green | Green armband |
+|Holtzman Shield Kiba Arms | KibaArms armband |
+|Holtzman Shield Labs | Labs armband |
+|Holtzman Shield Red | Red armband |
+|Holtzman Shield R F Army | RFArmy armband |
+|Holtzman Shield Twitch Rivals | Rivals armband |
+|Holtzman Shield TerraGroup | TerraGroup armband |
+|Holtzman Shield Train Hard | TrainHard armband |
+|Holtzman Shield Untar | Untar armband |
+|Holtzman Shield USEC | USEC armband |
+|Holtzman Shield White | White armband |
+|Holtzman Shield Yellow | Yellow armband |
 
 
 
