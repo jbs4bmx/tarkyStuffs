@@ -7,17 +7,15 @@ This is meant to be a replacement for SuperIFAK and SuperAFAK mods, however, you
 HP resource values for all items are listed below...
 Some items have extra features added but are not listed here. To see those changes, please review the code in src folder.
 
-Updated to support new mod loader and new delayedLoad method for version 2.4.0+.
-
 
 >Author  : jbs4bmx
 
->Version : 2.3.1 (Supports SPT-AKI 2.3.1 and EFT Version 0.12.12.15.17349)
+>Version : 3.0.0 (Supports SPT-AKI 3.0.0 and EFT Version 0.12.12.15.18346)
 
 
-### /* ========== NEW FEATURE: CONFIGURABLE MEDICAL SUPPLIES ========== */
+### /* ========== CONFIGURABLE MEDICAL SUPPLIES ========== */
 
-Medical Supplies are now customizable.
+Medical Supplies are customizable.
 Edit .\src\config.json to change the HP Resource or functionality of Medical Supplies.
 
 Example of config.json
