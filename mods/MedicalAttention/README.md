@@ -10,12 +10,12 @@ Some items have extra features added but are not listed here. To see those chang
 
 >Author  : jbs4bmx
 
->Version : 3.0.0 (Supports SPT-AKI 3.0.0 and EFT Version 0.12.12.15.18346)
+>Version : 3.0.0u1 (Supports SPT-AKI 3.0.0 and EFT Version 0.12.12.15.18346)
 
 
-### /* ========== CONFIGURABLE MEDICAL SUPPLIES ========== */
+### /* ========== NEW FEATURE: CONFIGURABLE MEDICAL SUPPLIES ========== */
 
-Medical Supplies are customizable.
+Medical Supplies are now customizable.
 Edit .\src\config.json to change the HP Resource or functionality of Medical Supplies.
 
 Example of config.json

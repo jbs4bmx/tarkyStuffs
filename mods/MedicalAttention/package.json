@@ -1,8 +1,8 @@
 {
     "name": "MedicalAttention",
-    "version": "3.0.0",
+    "version": "3.0.0u1",
     "main": "src/mod.js",
-    "license": "The Unlicense",
+    "license": "MIT",
     "author": "jbs4bmx",
     "akiVersion": ">=3.0.0",
     "scripts": {
