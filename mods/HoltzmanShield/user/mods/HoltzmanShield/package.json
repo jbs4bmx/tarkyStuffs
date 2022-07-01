@@ -1,7 +1,7 @@
 {
-    "name": "MedicalAttention",
+    "name": "HoltzmanShield",
     "version": "3.0.0",
-    "main": "src/mod.js",
+    "main": "src/shield.js",
     "license": "MIT",
     "author": "jbs4bmx",
     "akiVersion": ">=3.0.0",

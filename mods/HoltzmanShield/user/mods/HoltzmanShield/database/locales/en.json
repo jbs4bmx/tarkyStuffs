@@ -1,0 +1,9 @@
+{
+	"templates": {
+		"HShield": {
+			"Name": "Holtzman Shield",
+			"ShortName": "HS",
+			"Description": "Full body armor of the highest quality from the best technology the Atreides family could offer. Fast projectiles are instantly stopped, protecting the wearer of the device. However, with each stopping action, the shield is depleted by a small amount."
+		}
+	}
+}
