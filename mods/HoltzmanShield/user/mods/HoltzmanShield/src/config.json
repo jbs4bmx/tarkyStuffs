@@ -19,8 +19,6 @@
         "RepairCost": 1000,
         "Durability": 1500,
         "MaxDurability": 1500,
-        "minTraderLevel": 1,
-        "marketPrice": 69420,
         "traderPrice": 69420
     }
 }
