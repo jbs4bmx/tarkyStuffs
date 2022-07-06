@@ -4,7 +4,7 @@ This mod adds 17 new variants of armbands based loosely on the shield technology
 
 >Author  : jbs4bmx
 
->Version : 3.0.0 (Supports SPT-AKI 3.0.0 and EFT Version 0.12.12.15.18346)
+>Version : 3.0.1 (Supports SPT-AKI 3.0.0 and EFT Version 0.12.12.15.18346)
 
 >Requires SPT version 3.0.0
 
@@ -22,7 +22,7 @@ Variant List:
 |Holtzman Shield Kiba Arms | KibaArms armband |
 |Holtzman Shield Labs | Labs armband |
 |Holtzman Shield Red | Red armband |
-|Holtzman Shield R F Army | RFArmy armband |
+|Holtzman Shield RF Army | RFArmy armband |
 |Holtzman Shield Twitch Rivals | Rivals armband |
 |Holtzman Shield TerraGroup | TerraGroup armband |
 |Holtzman Shield Train Hard | TrainHard armband |
@@ -48,7 +48,7 @@ Variant List:
 ### How to Install this Mod.
 "[SPT]" = Your SPT-AKI folder path
 
-1. Copy contents of "HoltzmanShield_3.0.0.zip" into your [SPT] folder.
+1. Copy contents of "HoltzmanShield_3.0.1.zip" into your [SPT] folder.
 2. Profit.
 
 
@@ -80,12 +80,8 @@ config.json contents
     "Resources": {
         "RepairCost": 1000,     // [Number] (Any number >= 0) Sets the cost of repairing the item.
         "Durability": 1500,     // [Number] (Any number >= 0) Increases or decreases the amount of armor this item provides.
-        "minTraderLevel": 1,    // [Number] (Any number between 1 and 4) Sets the minimum trader level to have before you can purchase the item.
-        "marketPrice": 69420,   // [Number] (Any number >= 0) Sets the market price of the item as found in the flea market.
+        "MaxDurability": 1500,  // [Number] (Any number >= 0) Increases or decreases the max amount of armor this item provides.
         "traderPrice": 69420    // [Number] (Any number >= 0) Sets the price charged by Ragman.
-    },
-    "other": {
-        "HideWarningMessage": false     // [Boolean] Set "true" to disable this message when the server starts.
     }
 }
 ```
