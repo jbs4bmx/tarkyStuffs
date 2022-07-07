@@ -16,14 +16,8 @@
         "Jaws": true
     },
     "Resources": {
-        "RepairCost": 69420,
-        "Durability": 1000,
-        "MaxDurability": 1000,
-        "minTraderLevel": 1,
-        "marketPrice": 69420,
+        "RepairCost": 1000,
+        "Durability": 1500,
         "traderPrice": 69420
-    },
-    "other": {
-        "HideWarningMessage": false
     }
 }
