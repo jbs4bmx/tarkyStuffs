@@ -4,7 +4,7 @@ This mod adds a new version of the bandana (half-mask) and adds armor protection
 
 >Author  : jbs4bmx
 
->Version : 2.3.0 (Supports SPT-AKI 2.3.0 and EFT Version 0.12.12.15.17107)
+>Version : 3.0.0 (Supports SPT-AKI 3.0.0 and EFT Version 0.12.12.15.18346)
 
 
 
@@ -39,12 +39,7 @@ You can specify the following configurations in the "\config\config.json" file.
     "Resources": {
         "RepairCost": 1,        // [Integer] value must be a whole number - Sets the cost to repair the item. (1-9999999)
         "Durability": 1,        // [Integer] value must be a whole number - Sets the durability amount of the item. (1-9999999)
-        "minTraderLevel": 1,    // [Integer] value must be a whole number - Sets the minimum required trader level to acquire this item. (1-4)
-        "marketPrice": 1,       // [Integer] value must be a whole number - Sets the Flea Market price of the item. (1-9999999)
         "traderPrice": 1        // [Integer] value must be a whole number - Sets the Ragman price of the item. (1-9999999)
-    },
-    "other": {
-        "HideWarningMessage": false     // Verify that you have read this document and the configuration file.
     }
 }
 ```
