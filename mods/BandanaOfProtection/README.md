@@ -24,6 +24,7 @@ You can specify the following configurations in the "\config\config.json" file.
    - For minTraderLevel, values below 1 or greater than 4 will default to 2.
 3. "FaceCover" allows you to choose your favorite look.
    - Last option set to true will be used so remember to only set 1 option to TRUE.
+   - IMPORTANT: clean temp files before launching the game client to ensure that the changes to the icon show up in the game.
 
 ``` json
 {
