@@ -11,7 +11,7 @@ Mods List:
    | Medical Attention       | Extensive buffs and/or increase in the usage of all medical supplies in EFT.                         |
    | SuperAFAK               | (Deprecated: Please use Medical Attention instead.)                                                  |
    | SuperIFAK               | (Deprecated: Please use Medical Attention instead.)                                                  |
-   | Olympus                 | Re-work of AssAssIn's Olympus mod for SPT 3.0.0                                                      |
+   | Olympus                 | Re-work of AssAssIn's Olympus mod for SPT 3.0.0 (Copyright AssAssIn)                                 |
 
 
 Enjoy!
