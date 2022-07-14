@@ -9,8 +9,9 @@ Mods List:
    | Bandana of Protection   | Adds another version of the bandana with Armor.                                                      |
    | Holtzman Shield         | Adds versions of armbands with armor and allows the armband slot to provide armor.                   |
    | Medical Attention       | Extensive buffs and/or increase in the usage of all medical supplies in EFT.                         |
-   | SuperAFAK               | Extensive buffs and/or increase in the usage of AFAK medical kit.                                    |
-   | SuperIFAK               | Extensive buffs and/or increase in the usage of IFAK medical kit.                                    |
+   | SuperAFAK               | (Deprecated: Please use Medical Attention instead.)                                                  |
+   | SuperIFAK               | (Deprecated: Please use Medical Attention instead.)                                                  |
+   | Olympus                 | Re-work of AssAssIn's Olympus mod for SPT 3.0.0                                                      |
 
 
 Enjoy!

@@ -1,0 +1,87 @@
+{
+	"traderId": "5ac3b934156ae10c4430e83c",
+	"assorts": {
+		"items": [
+			{
+				"_id": "armorOfAthena",
+				"_tpl": "armorOfAthena",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999
+				}
+			},
+			{
+				"_id": "atlasSatchel",
+				"_tpl": "atlasSatchel",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999
+				}
+			},
+			{
+				"_id": "hercRig",
+				"_tpl": "hercRig",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999
+				}
+			},
+			{
+				"_id": "helmetOfHermes",
+				"_tpl": "helmetOfHermes",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999
+				}
+			}
+		],
+		"barter_scheme": {
+			"armorOfAthena":[
+				[
+					{
+						"count": 200000,
+						"_tpl": "5449016a4bdc2d6f028b456f"
+					}
+				]
+			],
+			"atlasSatchel":[
+				[
+					{
+						"count": 100000,
+						"_tpl": "5449016a4bdc2d6f028b456f"
+					}
+				]
+			],
+			"hercRig":[
+				[
+					{
+						"count": 100000,
+						"_tpl": "5449016a4bdc2d6f028b456f"
+					}
+				]
+			],
+			"helmetOfHermes":[
+				[
+					{
+						"count": 125000,
+						"_tpl": "5449016a4bdc2d6f028b456f"
+					}
+				]
+			]
+		},
+		"loyal_level_items": {
+			"armorOfAthena":1,
+			"atlasSatchel":1,
+			"hercRig":1,
+			"helmetOfHermes":1
+		}
+	}
+}

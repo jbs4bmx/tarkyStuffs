@@ -1,0 +1,87 @@
+{
+	"traderId": "54cb57776803fa99248b456e",
+	"assorts": {
+		"items": [
+			{
+				"_id": "apollosStim",
+				"_tpl": "apollosStim",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999
+				}
+			},
+			{
+				"_id": "apollosPropital",
+				"_tpl": "apollosPropital",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999
+				}
+			},
+			{
+				"_id": "apollosPain",
+				"_tpl": "apollosPain",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999
+				}
+			},
+			{
+				"_id": "apollosCMS",
+				"_tpl": "apollosCMS",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999
+				}
+			}
+		],
+		"barter_scheme": {
+			"apollosStim": [
+				[
+					{
+						"count": 2000,
+						"_tpl": "5449016a4bdc2d6f028b456f"
+					}
+				]
+			],
+			"apollosPropital": [
+				[
+					{
+						"count": 2000,
+						"_tpl": "5449016a4bdc2d6f028b456f"
+					}
+				]
+			],
+			"apollosPain": [
+				[
+					{
+						"count": 2000,
+						"_tpl": "5449016a4bdc2d6f028b456f"
+					}
+				]
+			],
+			"apollosCMS": [
+				[
+					{
+						"count": 50000,
+						"_tpl": "5449016a4bdc2d6f028b456f"
+					}
+				]
+			]
+		},
+		"loyal_level_items": {
+			"apollosStim": 1,
+			"apollosPropital": 1,
+			"apollosPain": 1,
+			"apollosCMS": 1
+		}
+	}
+}
