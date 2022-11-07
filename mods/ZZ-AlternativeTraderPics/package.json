@@ -1,9 +1,0 @@
-{
-	"name": "AltTraderPics",
-	"author": "jbs4bmx, revaxl",
-	"version": "2.2.3",
-    "akiVersion":">=2.2.0",
-	"license": "The Unlicense",
-	"dependencies": {},
-	"main": "package.js"
-}
