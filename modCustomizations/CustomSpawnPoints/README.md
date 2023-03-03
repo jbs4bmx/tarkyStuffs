@@ -25,31 +25,22 @@ I combined the following customizations into this one mod:
 | :--- | :--- | :--- | :--- | :--- |
 | factory4_day | Custom Spawn Points | 40 | 7 | 0 |
 | factory4_day | Default Spawn Points | 0 |  0 | 0 |
-|  |  |  |  |  |
 | factory4_night | Custom Spawn Points | 40 | 7 | 0 |
 | factory4_night | Default Spawn Points | 0 |  0 | 0 |
-|  |  |  |  |  |
 | bigmap | Custom Spawn Points | 368 | 14 | 0 |
 | bigmap | Default Spawn Points | 0 |  0 | 0 |
-|  |  |  |  |  |
 | laboratory | Custom Spawn Points | 153 | 7 | 0 |
 | laboratory | Default Spawn Points  | 0 |  0 | 0 |
-|  |  |  |  |  |
 | interchange | Custom Spawn Points | 379 | 16 | 0 |
 | interchange | Default Spawn Points | 0 |  0 | 0 |
-|  |  |  |  |  |
 | rezervbase | Custom Spawn Points | 185 | 25 | 2 |
 | rezervbase | Default Spawn Points | 0 |  0 | 0 |
-|  |  |  |  |  |
 | lighthouse | Custom Spawn Points | 215 | 9 | 0 |
 | lighthouse | Default Spawn Points  | 0 |  0 | 0 |
-|  |  |  |  |  |
 | shoreline | Custom Spawn Points | 472 | 7 | 0 |
 | shoreline | Default Spawn Points  | 0 |  0 | 0 |
-|  |  |  |  |  |
 | tarkovstreets | Custom Spawn Points | 1071 | 0 | 0 |
 | tarkovstreets | Default Spawn Points  | 0 | 120 | 0 |
-|  |  |  |  |  |
 | woods | Custom Spawn Points | 193 | 11 | 0 |
 | woods | Default Spawn Points  | 0 |  0 | 0 |
 
