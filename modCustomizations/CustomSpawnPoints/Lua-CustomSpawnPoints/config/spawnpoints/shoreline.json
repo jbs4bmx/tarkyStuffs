@@ -1,0 +1,4857 @@
+{
+    "SpawnZone Available List": "ZoneSanatorium, ZoneSanatorium1, ZoneSanatorium2, ZoneIsland, ZoneGasStation, ZoneMeteoStation, ZonePowerStation, ZoneBusStation, ZoneRailWays, ZonePort, ZoneBunkeSniper, ZonePowerStationSniper, ZoneForestTruck, ZoneForestSpawn, ZoneForestGasStation, ZoneGreenHouses, ZoneStartVillage, ZoneBunker, ZonePassFar, ZoneTunnel, ZonePassClose",
+    "Infiltration Available List": "Riverside, Village",
+
+    "ZoneSanatorium": [
+		{
+			"Comment": "Shoreline",
+			"Position": [-559.811157,-26.54049,-135.5682],
+			"Rotation": 36.3292046,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-478.8761,-14.6162539,-181.010147],
+			"Rotation": 7.01383638,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-490.349854,-14.5118227,-183.941772],
+			"Rotation": 114.95256,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-365.447632,-6.23976231,-194.741974],
+			"Rotation": 19.870636,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-357.5402,-5.1885457,-133.241226],
+			"Rotation": 101.476044,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-304.921021,-4.957671,-145.366653],
+			"Rotation": 2.502526,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-296.428436,6.859036,-100.774765],
+			"Rotation": 170.99263,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-323.457855,6.859033,-73.7795639],
+			"Rotation": 3.36576343,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-361.4017,6.85903358,-80.91022],
+			"Rotation": 268.491882,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-269.576569,6.85903549,-95.33014],
+			"Rotation": 94.45743,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-301.014435,-0.841053665,-88.3905945],
+			"Rotation": 307.77887,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-352.2074,-0.8410536,-82.75286],
+			"Rotation": 135.794,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-352.907867,-0.840138733,-72.79676],
+			"Rotation": 27.1361046,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-358.2859,2.052,-82.73744],
+			"Rotation": 83.19096,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-339.494324,2.05200052,-89.4643555],
+			"Rotation": 0.6603527,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-307.419678,2.051999,-76.3128052],
+			"Rotation": 164.596985,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-292.136627,2.05199742,-99.69039],
+			"Rotation": 295.5258,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-280.005371,2.05199766,-100.715179],
+			"Rotation": 184.5759,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-271.66687,2.06709814,-101.087425],
+			"Rotation": 80.7040253,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-275.85437,-0.841053247,-100.65818],
+			"Rotation": 5.67844629,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-233.575684,-0.841072,-101.2633],
+			"Rotation": 305.715851,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-200.372391,2.05199313,-87.96748],
+			"Rotation": 312.6767,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-184.034821,-0.8410492,-76.98532],
+			"Rotation": 159.91745,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-148.4765,-0.841048539,-87.72342],
+			"Rotation": 170.0143,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-144.858444,8.930562,-84.76276],
+			"Rotation": 95.69413,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-175.561081,6.859034,-72.8689651],
+			"Rotation": 2.79354429,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-200.091141,6.85903072,-90.625885],
+			"Rotation": 186.148575,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-220.459885,6.85902643,-85.63258],
+			"Rotation": 4.105531,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-195.267776,-4.95991945,-129.64595],
+			"Rotation": 116.76226,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-141.607361,-4.90992,-136.6489],
+			"Rotation": 82.9095154,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-142.372421,-5.133184,-102.265274],
+			"Rotation": 38.1501274,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-117.234444,-5.23369,-98.1135],
+			"Rotation": 14.2064571,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-54.7536774,-26.230423,-51.2500877],
+			"Rotation": 322.169647,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-124.126511,-21.6604328,-20.3362236],
+			"Rotation": 45.4780846,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-132.7478,-21.659626,-18.3962936],
+			"Rotation": 352.063873,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-143.946091,-21.8832951,18.906702],
+			"Rotation": 34.3022575,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-189.07019,-40.07328,139.10405],
+			"Rotation": 327.5157,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		}
+	],
+
+    "ZoneSanatorium1": [
+        {
+            "Comment": "Shoreline bus san1 green",
+            "Position": [-83.13063,-8.106433,-86.07314],
+            "Rotation": 64.08097,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bus san1 green",
+            "Position": [-14.3426552,-24.5447273,-102.346184],
+            "Rotation": 31.3290977,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bus san1 green",
+            "Position": [26.3086929,-32.0305519,-72.07542],
+            "Rotation": 333.02887,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bus san1 green",
+            "Position": [28.94181,-37.78759,-11.8022146],
+            "Rotation": 47.3873558,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bus san1 green",
+            "Position": [73.8491,-40.44924,11.8702669],
+            "Rotation": 29.1656971,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 / bunker",
+            "Position": [-142.279922,-4.90992,-136.5842],
+            "Rotation": 146.750061,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 / bunker",
+            "Position": [-157.0915,-5.1336174,-176.638],
+            "Rotation": 355.850525,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 / bunker",
+            "Position": [-185.579559,-15.2504272,-194.450882],
+            "Rotation": 180.228958,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 / bunker",
+            "Position": [-195.651031,-11.3044481,-244.914337],
+            "Rotation": 354.367737,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 / bunker",
+            "Position": [-196.119324,-9.358026,-268.1542],
+            "Rotation": 138.243118,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-157.958313,-3.74103379,-75.29685],
+            "Rotation": 174.985626,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-152.177444,-3.74104071,-89.73676],
+            "Rotation": 97.44648,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-159.741913,-9.351987,-84.46578],
+            "Rotation": 274.649139,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-185.052643,-8.31806,-78.5888443],
+            "Rotation": 196.375351,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-223.143631,-6.99129772,-100.7693],
+            "Rotation": 326.714966,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-233.274918,-6.991301,-89.21411],
+            "Rotation": 117.349373,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-174.036911,-5.07690954,-146.694153],
+            "Rotation": 122.307953,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-139.3277,-5.17756,-161.085953],
+            "Rotation": 6.50573063,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-115.637924,-5.01034832,-99.68552],
+            "Rotation": 134.724869,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-159.156845,-0.841044545,-76.29492],
+            "Rotation": 169.700134,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-184.393723,-0.8410486,-75.55876],
+            "Rotation": 172.718689,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-216.591156,-0.841058135,-87.39983],
+            "Rotation": 202.808746,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-212.325668,2.06878352,-104.260521],
+            "Rotation": 203.526642,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-231.787,2.05198216,-100.160995],
+            "Rotation": 292.681335,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-196.074036,2.05200267,-75.41534],
+            "Rotation": 168.953,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-184.663513,2.05199528,-89.45533],
+            "Rotation": 7.79331,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-183.957687,-0.8410487,-75.93597],
+            "Rotation": 167.40834,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-159.202042,-0.841043949,-75.25158],
+            "Rotation": 167.0028,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-145.542038,-0.8410497,-91.0087662],
+            "Rotation": 277.344147,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-142.3353,-0.841048956,-89.36594],
+            "Rotation": 4.690239,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-153.610977,2.052005,-82.6463],
+            "Rotation": 90.6707153,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-178.108749,2.05200148,-82.6861954],
+            "Rotation": 89.21307,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-232.811066,6.859024,-85.92628],
+            "Rotation": 337.156769,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-211.129211,6.85902929,-104.322746],
+            "Rotation": 136.385483,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-141.4859,6.859041,-92.67987],
+            "Rotation": 129.462219,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-170.706909,2.052006,-77.2744751],
+            "Rotation": 180.389938,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-179.790573,2.05200553,-75.31861],
+            "Rotation": 188.1091,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-213.3337,2.068783,-104.554741],
+            "Rotation": 201.271545,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-233.526184,2.05198479,-96.206604],
+            "Rotation": 256.377075,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1",
+            "Position": [-231.545715,2.06850338,-84.45694],
+            "Rotation": 16.699173,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-218.169052,-5.819476,-30.4170742],
+            "Rotation": 230.75235,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-248.0247,-5.643229,-30.053524],
+            "Rotation": 302.5854,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-261.963257,-5.00968266,-33.063118],
+            "Rotation": 153.401276,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-296.084381,-5.58866,-49.43563],
+            "Rotation": 266.6551,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-250.8361,-5.140971,-81.22481],
+            "Rotation": 185.496292,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-266.526978,-4.84402227,-90.05636],
+            "Rotation": 145.169266,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-237.390289,-4.50192738,-99.8985062],
+            "Rotation": 182.639114,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-251.442368,-4.170857,-127.2892],
+            "Rotation": 348.3285,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-241.728851,-0.7862983,-152.059937],
+            "Rotation": 11.8383512,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-262.361176,-0.7862984,-151.898315],
+            "Rotation": 322.02478,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-246.118942,-0.354811221,-145.329],
+            "Rotation": 199.746124,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-244.8365,-8.286214,-144.880524],
+            "Rotation": 179.305908,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-252.658569,-8.286214,-158.200546],
+            "Rotation": 20.2717934,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-251.378113,-5.886282,-136.8475],
+            "Rotation": 209.768845,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "p2 lighthouse",
+            "Position": [439.866333,-57.80872,-205.556152],
+            "Rotation": 305.0951,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Village",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "dead end",
+            "Position": [465.224762,-53.3371468,202.534348],
+            "Rotation": 305.0951,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Village",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "tunnel",
+            "Position": [381.4718,-59.7101059,312.428253],
+            "Rotation": 266.029358,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Village",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "railway bridge",
+            "Position": [-1025.40613,-60.67289,309.654968],
+            "Rotation": 70.58995,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Riverside",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "road to custom",
+            "Position": [-851.1072,-42.4251976,5.40089846],
+            "Rotation": 37.20273,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Riverside",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "north fence",
+            "Position": [-502.552551,-9.793554,-391.939362],
+            "Rotation": 15.2780867,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Riverside",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "nortwest fence",
+            "Position": [17.4551144,-13.7805872,-386.147217],
+            "Rotation": 12.4349632,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Village",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        }
+    ],
+
+    "ZoneSanatorium2": [
+        {
+            "Comment": "Shoreline san 2 pass close",
+            "Position": [-83.13063,-8.106433,-86.07314],
+            "Rotation": 64.08097,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2 pass close",
+            "Position": [-14.3426552,-24.5447273,-102.346184],
+            "Rotation": 31.3290977,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2 pass close",
+            "Position": [26.3086929,-32.0305519,-72.07542],
+            "Rotation": 333.02887,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2 pass close",
+            "Position": [28.94181,-37.78759,-11.8022146],
+            "Rotation": 47.3873558,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2 pass close",
+            "Position": [73.8491,-40.44924,11.8702669],
+            "Rotation": 29.1656971,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2 pass close",
+            "Position": [-511.812653,-35.43187,-74.40416],
+            "Rotation": 58.67518,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2 pass close",
+            "Position": [-561.3745,-35.2735519,-76.6711],
+            "Rotation": 113.026169,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2 pass close",
+            "Position": [-617.2855,-34.8747978,-88.14515],
+            "Rotation": 52.3453522,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2 pass close",
+            "Position": [-686.3642,-38.415,-41.6300774],
+            "Rotation": 20.9880543,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / sanatorium 2",
+            "Position": [-428.468933,-5.802935,-142.184219],
+            "Rotation": 262.081146,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / sanatorium 2",
+            "Position": [-422.855255,-7.447005,-114.993629],
+            "Rotation": 348.819061,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / sanatorium 2",
+            "Position": [-417.194977,-12.762126,-47.913662],
+            "Rotation": 320.69577,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / sanatorium 2",
+            "Position": [-371.604279,-26.8585243,-17.818512],
+            "Rotation": 315.47583,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / sanatorium 2",
+            "Position": [-410.211182,-31.4168987,68.22936],
+            "Rotation": 234.967743,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / sanatorium 2",
+            "Position": [-455.14975,-37.1277542,19.5428085],
+            "Rotation": 2.0832448,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2",
+            "Position": [-343.093079,-3.74104333,-88.03586],
+            "Rotation": 88.55413,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2",
+            "Position": [-361.732361,-3.741044,-81.01085],
+            "Rotation": 262.090576,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2",
+            "Position": [-360.803925,-0.8401388,-72.77079],
+            "Rotation": 336.5989,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2",
+            "Position": [-336.30304,-0.8410544,-75.91124],
+            "Rotation": 182.538849,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2",
+            "Position": [-333.4886,-0.8401416,-92.9015045],
+            "Rotation": 155.981735,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2",
+            "Position": [-323.594757,-0.8410545,-75.42762],
+            "Rotation": 188.871964,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2",
+            "Position": [-313.844757,-0.84105283,-89.78839],
+            "Rotation": 11.2981892,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2",
+            "Position": [-308.220947,-0.840140343,-72.81946],
+            "Rotation": 29.88411,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2",
+            "Position": [-275.288818,-0.841055,-86.72393],
+            "Rotation": 157.741058,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2",
+            "Position": [-276.588654,2.05199766,-102.05172],
+            "Rotation": 21.1532917,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2",
+            "Position": [-271.1112,2.05199647,-94.5470657],
+            "Rotation": 270.222443,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2",
+            "Position": [-304.292358,2.05200052,-89.71546],
+            "Rotation": 341.587982,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2",
+            "Position": [-311.612854,2.05199885,-75.5749],
+            "Rotation": 177.631577,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2",
+            "Position": [-330.096649,2.05200076,-90.42434],
+            "Rotation": 341.0307,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2",
+            "Position": [-335.190369,2.144699,-90.10379],
+            "Rotation": 328.081451,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2",
+            "Position": [-350.344666,2.05200052,-89.96462],
+            "Rotation": 341.2776,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2",
+            "Position": [-359.6629,4.95869255,-84.18212],
+            "Rotation": 198.253159,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2",
+            "Position": [-362.214783,6.859033,-72.92642],
+            "Rotation": 308.403931,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2",
+            "Position": [-308.130676,6.85903549,-92.41376],
+            "Rotation": 168.673309,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2",
+            "Position": [-300.8476,6.85903263,-73.061],
+            "Rotation": 51.29325,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2",
+            "Position": [-269.064026,6.85903549,-94.6409],
+            "Rotation": 106.192543,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-218.169052,-5.819476,-30.4170742],
+            "Rotation": 230.75235,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-248.0247,-5.643229,-30.053524],
+            "Rotation": 302.5854,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-261.963257,-5.00968266,-33.063118],
+            "Rotation": 153.401276,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-296.084381,-5.58866,-49.43563],
+            "Rotation": 266.6551,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-250.8361,-5.140971,-81.22481],
+            "Rotation": 185.496292,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-266.526978,-4.84402227,-90.05636],
+            "Rotation": 145.169266,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-237.390289,-4.50192738,-99.8985062],
+            "Rotation": 182.639114,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-251.442368,-4.170857,-127.2892],
+            "Rotation": 348.3285,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-241.728851,-0.7862983,-152.059937],
+            "Rotation": 11.8383512,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-262.361176,-0.7862984,-151.898315],
+            "Rotation": 322.02478,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-246.118942,-0.354811221,-145.329],
+            "Rotation": 199.746124,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-244.8365,-8.286214,-144.880524],
+            "Rotation": 179.305908,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-252.658569,-8.286214,-158.200546],
+            "Rotation": 20.2717934,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 2",
+            "Position": [-251.378113,-5.886282,-136.8475],
+            "Rotation": 209.768845,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline power bus sanatorium 2",
+            "Position": [-187.259033,-18.303091,7.456485],
+            "Rotation": 14.885952,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "ZoneIsland": [
+        {
+            "Comment": "Shoreline island / tunnel",
+            "Position": [223.49437,-52.8090858,272.569427],
+            "Rotation": 280.796844,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline island / tunnel",
+            "Position": [166.572983,-54.6734734,272.34256],
+            "Rotation": 226.238281,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline green / island",
+            "Position": [130.327332,-50.5256729,212.860565],
+            "Rotation": 285.0515,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline green / island",
+            "Position": [69.17452,-48.28188,183.691818],
+            "Rotation": 205.215439,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forestgas island",
+            "Position": [64.53564,-50.13075,318.724579],
+            "Rotation": 13.47486,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forestgas island",
+            "Position": [55.05579,-59.7889366,358.898834],
+            "Rotation": 284.5322,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "ZoneGasStation": [
+        {
+            "Comment": "Shoreline port / power / gas",
+            "Position": [-236.274323,-44.75662,297.6182],
+            "Rotation": 24.3825817,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline port / power / gas",
+            "Position": [-282.3138,-56.7382851,396.251251],
+            "Rotation": 327.23822,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline port / power / gas",
+            "Position": [-309.727722,-52.373764,420.157959],
+            "Rotation": 138.887878,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline gas",
+            "Position": [3.70480084,-59.7499771,373.87326],
+            "Rotation": 289.47998,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forestgas gas",
+            "Position": [-88.77746,-35.4560165,348.58136],
+            "Rotation": 131.040543,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forestgas gas power",
+            "Position": [-152.2707,-38.3500481,269.275055],
+            "Rotation": 282.856567,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forestgas gas power",
+            "Position": [-156.748138,-38.9633369,233.193024],
+            "Rotation": 181.1603,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline power gas",
+            "Position": [-203.0428,-47.38947,248.419571],
+            "Rotation": 5.391403,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline power gas",
+            "Position": [-206.681412,-50.1303825,326.729645],
+            "Rotation": 139.125015,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+			"Comment": "Shoreline",
+			"Position": [-184.45726,-41.6305428,149.741272],
+			"Rotation": 64.243515,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-260.691071,-45.889328,221.072128],
+			"Rotation": 355.57605,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-304.422974,-40.85403,222.794357],
+			"Rotation": 268.949646,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-335.20282,-39.15305,164.151413],
+			"Rotation": 92.64866,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-263.1006,-37.59374,115.151955],
+			"Rotation": 349.1296,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-237.5657,-31.9884834,82.28056],
+			"Rotation": 59.09398,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-210.199615,-17.7130928,20.7104568],
+			"Rotation": 354.796082,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-198.864609,-17.7130928,6.42043734],
+			"Rotation": 17.6043015,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		}
+    ],
+
+    "ZoneMeteoStation": [
+        {
+            "Comment": "Shoreline Meteo/Power",
+            "Position": [-438.108032,-30.3505116,102.8126],
+            "Rotation": 31.2474747,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline Meteo/Power",
+            "Position": [-412.620422,-30.1935158,161.118088],
+            "Rotation": 323.4485,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline Meteo/Power",
+            "Position": [-364.875641,-39.2817726,183.518768],
+            "Rotation": 39.3625679,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline Meteo/Power",
+            "Position": [-354.247559,-44.03993,191.665817],
+            "Rotation": 33.1903076,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline meteo",
+            "Position": [-477.913239,-26.7895222,163.609482],
+            "Rotation": 271.5881,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline meteo",
+            "Position": [-556.6814,-42.59337,167.06279],
+            "Rotation": 295.405884,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline meteo",
+            "Position": [-561.867432,-31.3700848,170.013885],
+            "Rotation": 286.233246,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline meteo / pass",
+            "Position": [-632.9895,-39.4300156,134.2514],
+            "Rotation": 315.648956,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+			"Comment": "Shoreline",
+			"Position": [-559.811157,-26.54049,-135.5682],
+			"Rotation": 36.3292046,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-478.8761,-14.6162539,-181.010147],
+			"Rotation": 7.01383638,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-490.349854,-14.5118227,-183.941772],
+			"Rotation": 114.95256,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-365.447632,-6.23976231,-194.741974],
+			"Rotation": 19.870636,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-357.5402,-5.1885457,-133.241226],
+			"Rotation": 101.476044,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-304.921021,-4.957671,-145.366653],
+			"Rotation": 2.502526,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-296.428436,6.859036,-100.774765],
+			"Rotation": 170.99263,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-323.457855,6.859033,-73.7795639],
+			"Rotation": 3.36576343,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-361.4017,6.85903358,-80.91022],
+			"Rotation": 268.491882,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-269.576569,6.85903549,-95.33014],
+			"Rotation": 94.45743,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-301.014435,-0.841053665,-88.3905945],
+			"Rotation": 307.77887,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-352.2074,-0.8410536,-82.75286],
+			"Rotation": 135.794,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-352.907867,-0.840138733,-72.79676],
+			"Rotation": 27.1361046,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-358.2859,2.052,-82.73744],
+			"Rotation": 83.19096,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-339.494324,2.05200052,-89.4643555],
+			"Rotation": 0.6603527,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-307.419678,2.051999,-76.3128052],
+			"Rotation": 164.596985,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-292.136627,2.05199742,-99.69039],
+			"Rotation": 295.5258,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-280.005371,2.05199766,-100.715179],
+			"Rotation": 184.5759,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-271.66687,2.06709814,-101.087425],
+			"Rotation": 80.7040253,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-275.85437,-0.841053247,-100.65818],
+			"Rotation": 5.67844629,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-233.575684,-0.841072,-101.2633],
+			"Rotation": 305.715851,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-200.372391,2.05199313,-87.96748],
+			"Rotation": 312.6767,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-184.034821,-0.8410492,-76.98532],
+			"Rotation": 159.91745,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-148.4765,-0.841048539,-87.72342],
+			"Rotation": 170.0143,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-144.858444,8.930562,-84.76276],
+			"Rotation": 95.69413,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-175.561081,6.859034,-72.8689651],
+			"Rotation": 2.79354429,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-200.091141,6.85903072,-90.625885],
+			"Rotation": 186.148575,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-220.459885,6.85902643,-85.63258],
+			"Rotation": 4.105531,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-195.267776,-4.95991945,-129.64595],
+			"Rotation": 116.76226,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-141.607361,-4.90992,-136.6489],
+			"Rotation": 82.9095154,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-142.372421,-5.133184,-102.265274],
+			"Rotation": 38.1501274,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-117.234444,-5.23369,-98.1135],
+			"Rotation": 14.2064571,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-54.7536774,-26.230423,-51.2500877],
+			"Rotation": 322.169647,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-124.126511,-21.6604328,-20.3362236],
+			"Rotation": 45.4780846,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-132.7478,-21.659626,-18.3962936],
+			"Rotation": 352.063873,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-143.946091,-21.8832951,18.906702],
+			"Rotation": 34.3022575,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-189.07019,-40.07328,139.10405],
+			"Rotation": 327.5157,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		}
+    ],
+
+    "ZonePowerStation": [
+        {
+            "Comment": "Shoreline Meteo/Power",
+            "Position": [-438.108032,-30.3505116,102.8126],
+            "Rotation": 31.2474747,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline Meteo/Power",
+            "Position": [-412.620422,-30.1935158,161.118088],
+            "Rotation": 323.4485,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline Meteo/Power",
+            "Position": [-364.875641,-39.2817726,183.518768],
+            "Rotation": 39.3625679,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline Meteo/Power",
+            "Position": [-354.247559,-44.03993,191.665817],
+            "Rotation": 33.1903076,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline power",
+            "Position": [-318.4606,-34.4241867,114.642029],
+            "Rotation": 13.0077877,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline power",
+            "Position": [-270.59787,-34.42654,68.3452454],
+            "Rotation": 16.0705051,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline power",
+            "Position": [-214.253082,-32.177494,81.5999451],
+            "Rotation": 354.922,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline power",
+            "Position": [-216.219559,-18.025938,4.942025],
+            "Rotation": 359.373932,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline power",
+            "Position": [-197.262024,-17.7130928,23.2462215],
+            "Rotation": 22.53336,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline power",
+            "Position": [-263.682159,-37.74788,116.052361],
+            "Rotation": 356.081543,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline rail / Port / power",
+            "Position": [-355.4486,-51.7045937,368.629944],
+            "Rotation": 311.777527,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline rail / Port / power",
+            "Position": [-280.1406,-48.41579,338.1855],
+            "Rotation": 73.99655,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline rail / Port / power",
+            "Position": [-283.56427,-47.51647,293.886932],
+            "Rotation": 150.234467,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline port / power / gas",
+            "Position": [-236.274323,-44.75662,297.6182],
+            "Rotation": 24.3825817,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline port / power / gas",
+            "Position": [-282.3138,-56.7382851,396.251251],
+            "Rotation": 327.23822,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline port / power / gas",
+            "Position": [-309.727722,-52.373764,420.157959],
+            "Rotation": 138.887878,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forestgas gas power",
+            "Position": [-152.2707,-38.3500481,269.275055],
+            "Rotation": 282.856567,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forestgas gas power",
+            "Position": [-156.748138,-38.9633369,233.193024],
+            "Rotation": 181.1603,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bus green power",
+            "Position": [-135.500244,-32.49876,123.210213],
+            "Rotation": 82.83607,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline power gas",
+            "Position": [-203.0428,-47.38947,248.419571],
+            "Rotation": 5.391403,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline power gas",
+            "Position": [-206.681412,-50.1303825,326.729645],
+            "Rotation": 139.125015,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline power bus sanatorium 2",
+            "Position": [-187.259033,-18.303091,7.456485],
+            "Rotation": 14.885952,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bus green power",
+            "Position": [-76.32078,-24.7361183,56.002],
+            "Rotation": 47.8023338,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bus green power",
+            "Position": [-82.62117,-38.6661072,89.759964],
+            "Rotation": 34.2142639,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "ZoneBusStation": [
+        {
+            "Comment": "Shoreline bus san1 green",
+            "Position": [-83.13063,-8.106433,-86.07314],
+            "Rotation": 64.08097,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bus san1 green",
+            "Position": [-14.3426552,-24.5447273,-102.346184],
+            "Rotation": 31.3290977,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bus san1 green",
+            "Position": [26.3086929,-32.0305519,-72.07542],
+            "Rotation": 333.02887,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bus san1 green",
+            "Position": [28.94181,-37.78759,-11.8022146],
+            "Rotation": 47.3873558,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bus san1 green",
+            "Position": [73.8491,-40.44924,11.8702669],
+            "Rotation": 29.1656971,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bus green power",
+            "Position": [-135.500244,-32.49876,123.210213],
+            "Rotation": 82.83607,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bus green power",
+            "Position": [-82.62117,-38.6661072,89.759964],
+            "Rotation": 34.2142639,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline power bus sanatorium 2",
+            "Position": [-187.259033,-18.303091,7.456485],
+            "Rotation": 14.885952,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bus green power",
+            "Position": [-76.32078,-24.7361183,56.002],
+            "Rotation": 47.8023338,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bus green power",
+            "Position": [-76.32078,-24.7361183,56.002],
+            "Rotation": 47.8023338,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+
+    ],
+
+    "ZoneRailWays": [
+        {
+            "Comment": "Shoreline railways",
+            "Position": [-720.235535,-44.6698647,413.5514],
+            "Rotation": 52.46521,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline railways",
+            "Position": [-672.584839,-51.4806366,403.542816],
+            "Rotation": 148.2954,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline railways",
+            "Position": [-621.1574,-50.0325432,402.496033],
+            "Rotation": 357.2485,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline railways",
+            "Position": [-552.2265,-46.9972572,372.581329],
+            "Rotation": 69.5948257,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline railways",
+            "Position": [-437.458954,-51.42914,385.58725],
+            "Rotation": 31.4516659,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline rail / Port / power",
+            "Position": [-355.4486,-51.7045937,368.629944],
+            "Rotation": 311.777527,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline rail / Port / power",
+            "Position": [-280.1406,-48.41579,338.1855],
+            "Rotation": 73.99655,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline rail / Port / power",
+            "Position": [-283.56427,-47.51647,293.886932],
+            "Rotation": 150.234467,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "ZonePort": [
+        {
+            "Comment": "Shoreline rail / Port / power",
+            "Position": [-355.4486,-51.7045937,368.629944],
+            "Rotation": 311.777527,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline rail / Port / power",
+            "Position": [-280.1406,-48.41579,338.1855],
+            "Rotation": 73.99655,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline rail / Port / power",
+            "Position": [-283.56427,-47.51647,293.886932],
+            "Rotation": 150.234467,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline port / power / gas",
+            "Position": [-236.274323,-44.75662,297.6182],
+            "Rotation": 24.3825817,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline port / power / gas",
+            "Position": [-282.3138,-56.7382851,396.251251],
+            "Rotation": 327.23822,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline port / power / gas",
+            "Position": [-309.727722,-52.373764,420.157959],
+            "Rotation": 138.887878,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+			"Comment": "Shoreline",
+			"Position": [-559.811157,-26.54049,-135.5682],
+			"Rotation": 36.3292046,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-478.8761,-14.6162539,-181.010147],
+			"Rotation": 7.01383638,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-490.349854,-14.5118227,-183.941772],
+			"Rotation": 114.95256,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-365.447632,-6.23976231,-194.741974],
+			"Rotation": 19.870636,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-357.5402,-5.1885457,-133.241226],
+			"Rotation": 101.476044,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-304.921021,-4.957671,-145.366653],
+			"Rotation": 2.502526,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-296.428436,6.859036,-100.774765],
+			"Rotation": 170.99263,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-323.457855,6.859033,-73.7795639],
+			"Rotation": 3.36576343,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-361.4017,6.85903358,-80.91022],
+			"Rotation": 268.491882,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-269.576569,6.85903549,-95.33014],
+			"Rotation": 94.45743,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-301.014435,-0.841053665,-88.3905945],
+			"Rotation": 307.77887,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-352.2074,-0.8410536,-82.75286],
+			"Rotation": 135.794,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-352.907867,-0.840138733,-72.79676],
+			"Rotation": 27.1361046,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-358.2859,2.052,-82.73744],
+			"Rotation": 83.19096,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-339.494324,2.05200052,-89.4643555],
+			"Rotation": 0.6603527,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-307.419678,2.051999,-76.3128052],
+			"Rotation": 164.596985,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-292.136627,2.05199742,-99.69039],
+			"Rotation": 295.5258,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-280.005371,2.05199766,-100.715179],
+			"Rotation": 184.5759,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-271.66687,2.06709814,-101.087425],
+			"Rotation": 80.7040253,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-275.85437,-0.841053247,-100.65818],
+			"Rotation": 5.67844629,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-233.575684,-0.841072,-101.2633],
+			"Rotation": 305.715851,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-200.372391,2.05199313,-87.96748],
+			"Rotation": 312.6767,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-184.034821,-0.8410492,-76.98532],
+			"Rotation": 159.91745,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-148.4765,-0.841048539,-87.72342],
+			"Rotation": 170.0143,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-144.858444,8.930562,-84.76276],
+			"Rotation": 95.69413,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-175.561081,6.859034,-72.8689651],
+			"Rotation": 2.79354429,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-200.091141,6.85903072,-90.625885],
+			"Rotation": 186.148575,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-220.459885,6.85902643,-85.63258],
+			"Rotation": 4.105531,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-195.267776,-4.95991945,-129.64595],
+			"Rotation": 116.76226,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-141.607361,-4.90992,-136.6489],
+			"Rotation": 82.9095154,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-142.372421,-5.133184,-102.265274],
+			"Rotation": 38.1501274,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-117.234444,-5.23369,-98.1135],
+			"Rotation": 14.2064571,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-54.7536774,-26.230423,-51.2500877],
+			"Rotation": 322.169647,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-124.126511,-21.6604328,-20.3362236],
+			"Rotation": 45.4780846,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-132.7478,-21.659626,-18.3962936],
+			"Rotation": 352.063873,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-143.946091,-21.8832951,18.906702],
+			"Rotation": 34.3022575,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-189.07019,-40.07328,139.10405],
+			"Rotation": 327.5157,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		}
+    ],
+
+    "ZoneBunkeSniper": [],
+
+    "ZonePowerStationSniper": [],
+
+    "ZoneForestTruck": [
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [-74.2286758,-18.4757061,-322.73703],
+            "Rotation": 35.2483368,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [-39.8571434,-19.6240444,-327.714],
+            "Rotation": 6.29685068,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [-37.18648,-16.6314583,-279.240448],
+            "Rotation": 19.4761429,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [-67.7271652,-11.3835859,-335.031372],
+            "Rotation": 3.67000747,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [-55.1768837,-12.0062485,-342.431244],
+            "Rotation": 47.8732,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [-26.2173767,-17.5144329,-277.043182],
+            "Rotation": 45.50934,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [26.6380463,-26.5719967,-249.45842],
+            "Rotation": 45.78013,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [78.28313,-29.0409451,-221.957611],
+            "Rotation": 26.6536865,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [108.082375,-27.6910076,-204.096756],
+            "Rotation": 282.2526,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [166.412552,-49.07403,-156.2098],
+            "Rotation": 24.054306,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [157.609451,-39.0261345,-98.0611],
+            "Rotation": 270.867,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+
+    ],
+
+    "ZoneForestSpawn": [
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [-74.2286758,-18.4757061,-322.73703],
+            "Rotation": 35.2483368,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [-39.8571434,-19.6240444,-327.714],
+            "Rotation": 6.29685068,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [-37.18648,-16.6314583,-279.240448],
+            "Rotation": 19.4761429,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [-67.7271652,-11.3835859,-335.031372],
+            "Rotation": 3.67000747,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [-55.1768837,-12.0062485,-342.431244],
+            "Rotation": 47.8732,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [-26.2173767,-17.5144329,-277.043182],
+            "Rotation": 45.50934,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [26.6380463,-26.5719967,-249.45842],
+            "Rotation": 45.78013,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [78.28313,-29.0409451,-221.957611],
+            "Rotation": 26.6536865,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [108.082375,-27.6910076,-204.096756],
+            "Rotation": 282.2526,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [166.412552,-49.07403,-156.2098],
+            "Rotation": 24.054306,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [157.609451,-39.0261345,-98.0611],
+            "Rotation": 270.867,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / greenhouse",
+            "Position": [174.766953,-40.9499245,-89.4104],
+            "Rotation": 60.25946,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / greenhouse",
+            "Position": [153.103241,-40.6377335,-75.90952],
+            "Rotation": 324.890167,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / greenhouse",
+            "Position": [205.465439,-54.5442467,-143.6324],
+            "Rotation": 122.775032,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / greenhouse",
+            "Position": [233.632126,-54.60289,-181.899979],
+            "Rotation": 18.033596,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / greenhouse",
+            "Position": [275.7649,-54.4300346,-174.288681],
+            "Rotation": 6.74382353,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [282.7055,-54.2570343,-180.4663],
+            "Rotation": 71.4931641,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [249.644287,-53.931572,-105.304253],
+            "Rotation": 90.05516,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [317.279877,-54.663,-110.91468],
+            "Rotation": 109.721962,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [323.674042,-54.77301,-99.14055],
+            "Rotation": 83.84886,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [350.782867,-54.63186,-130.815079],
+            "Rotation": 168.202057,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [398.743927,-56.09469,-165.828537],
+            "Rotation": 342.825928,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [393.7863,-54.6208878,-199.582809],
+            "Rotation": 95.05959,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [380.271362,-48.39446,-228.422424],
+            "Rotation": 208.783173,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [382.5447,-45.2756157,-255.235229],
+            "Rotation": 352.709045,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [347.35025,-41.8964081,-236.800018],
+            "Rotation": 205.436722,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [424.189667,-56.8679428,-223.572876],
+            "Rotation": 239.871933,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [462.2116,-55.260437,-193.281311],
+            "Rotation": 332.295044,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [393.320862,-54.663002,-94.02998],
+            "Rotation": 309.016,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [407.436768,-53.36437,-38.9133873],
+            "Rotation": 273.152374,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [380.515625,-53.959362,5.68043947],
+            "Rotation": 347.970764,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [312.295441,-46.1381035,26.2075214],
+            "Rotation": 281.265381,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [287.344574,-50.62786,-41.68005],
+            "Rotation": 179.423477,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "ZoneForestGasStation": [
+        {
+            "Comment": "Shoreline forestgas",
+            "Position": [4.470646,-32.44993,249.1826],
+            "Rotation": 90.34539,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forestgas island",
+            "Position": [64.53564,-50.13075,318.724579],
+            "Rotation": 13.47486,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forestgas island",
+            "Position": [55.05579,-59.7889366,358.898834],
+            "Rotation": 284.5322,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forestgas",
+            "Position": [-49.2673225,-45.7926826,329.4467],
+            "Rotation": 175.301575,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forestgas gas",
+            "Position": [-88.77746,-35.4560165,348.58136],
+            "Rotation": 131.040543,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forestgas gas power",
+            "Position": [-152.2707,-38.3500481,269.275055],
+            "Rotation": 282.856567,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forestgas gas power",
+            "Position": [-156.748138,-38.9633369,233.193024],
+            "Rotation": 181.1603,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "ZoneGreenHouses": [
+        {
+            "Comment": "Shoreline bus san1 green",
+            "Position": [-83.13063,-8.106433,-86.07314],
+            "Rotation": 64.08097,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bus san1 green",
+            "Position": [-14.3426552,-24.5447273,-102.346184],
+            "Rotation": 31.3290977,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bus san1 green",
+            "Position": [26.3086929,-32.0305519,-72.07542],
+            "Rotation": 333.02887,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bus san1 green",
+            "Position": [28.94181,-37.78759,-11.8022146],
+            "Rotation": 47.3873558,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bus san1 green",
+            "Position": [73.8491,-40.44924,11.8702669],
+            "Rotation": 29.1656971,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / greenhouse",
+            "Position": [174.766953,-40.9499245,-89.4104],
+            "Rotation": 60.25946,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / greenhouse",
+            "Position": [153.103241,-40.6377335,-75.90952],
+            "Rotation": 324.890167,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / greenhouse",
+            "Position": [205.465439,-54.5442467,-143.6324],
+            "Rotation": 122.775032,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / greenhouse",
+            "Position": [233.632126,-54.60289,-181.899979],
+            "Rotation": 18.033596,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / greenhouse",
+            "Position": [275.7649,-54.4300346,-174.288681],
+            "Rotation": 6.74382353,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline start / Greenhouse",
+            "Position": [263.88678,-46.44747,17.732029],
+            "Rotation": 271.154,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline start / Greenhouse",
+            "Position": [219.679459,-48.6694756,20.7761917],
+            "Rotation": 239.873138,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline greenhouse",
+            "Position": [162.351181,-46.23712,23.8525848],
+            "Rotation": 200.280319,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline greenhouse",
+            "Position": [177.4042,-48.4773178,91.58365],
+            "Rotation": 32.48483,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline greenhouse",
+            "Position": [157.072632,-48.573204,119.202065],
+            "Rotation": 189.407135,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline greenhouse",
+            "Position": [139.254227,-45.47955,126.23111],
+            "Rotation": 134.870163,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline greenhouse",
+            "Position": [181.5249,-48.701786,150.182526],
+            "Rotation": 352.1337,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline start / green",
+            "Position": [249.533508,-56.4611435,154.434814],
+            "Rotation": 88.2419739,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline start / green",
+            "Position": [283.0455,-52.28499,162.7753],
+            "Rotation": 288.170044,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline start / green",
+            "Position": [318.137848,-56.45209,167.2319],
+            "Rotation": 115.756065,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline start / green",
+            "Position": [345.8147,-56.1517067,122.767418],
+            "Rotation": 179.057144,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline green / island",
+            "Position": [130.327332,-50.5256729,212.860565],
+            "Rotation": 285.0515,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline green / island",
+            "Position": [69.17452,-48.28188,183.691818],
+            "Rotation": 205.215439,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline green",
+            "Position": [16.360775,-42.86977,157.840652],
+            "Rotation": 139.062958,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bus green power",
+            "Position": [-135.500244,-32.49876,123.210213],
+            "Rotation": 82.83607,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bus green power",
+            "Position": [-82.62117,-38.6661072,89.759964],
+            "Rotation": 34.2142639,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bus green power",
+            "Position": [-76.32078,-24.7361183,56.002],
+            "Rotation": 47.8023338,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "ZoneStartVillage": [
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [282.7055,-54.2570343,-180.4663],
+            "Rotation": 71.4931641,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [249.644287,-53.931572,-105.304253],
+            "Rotation": 90.05516,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [317.279877,-54.663,-110.91468],
+            "Rotation": 109.721962,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [323.674042,-54.77301,-99.14055],
+            "Rotation": 83.84886,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [350.782867,-54.63186,-130.815079],
+            "Rotation": 168.202057,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [398.743927,-56.09469,-165.828537],
+            "Rotation": 342.825928,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [393.7863,-54.6208878,-199.582809],
+            "Rotation": 95.05959,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [380.271362,-48.39446,-228.422424],
+            "Rotation": 208.783173,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [382.5447,-45.2756157,-255.235229],
+            "Rotation": 352.709045,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [347.35025,-41.8964081,-236.800018],
+            "Rotation": 205.436722,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [424.189667,-56.8679428,-223.572876],
+            "Rotation": 239.871933,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [462.2116,-55.260437,-193.281311],
+            "Rotation": 332.295044,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [393.320862,-54.663002,-94.02998],
+            "Rotation": 309.016,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [407.436768,-53.36437,-38.9133873],
+            "Rotation": 273.152374,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [380.515625,-53.959362,5.68043947],
+            "Rotation": 347.970764,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [312.295441,-46.1381035,26.2075214],
+            "Rotation": 281.265381,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline forest / start village",
+            "Position": [287.344574,-50.62786,-41.68005],
+            "Rotation": 179.423477,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline start / Greenhouse",
+            "Position": [263.88678,-46.44747,17.732029],
+            "Rotation": 271.154,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline start / Greenhouse",
+            "Position": [219.679459,-48.6694756,20.7761917],
+            "Rotation": 239.873138,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline start / green",
+            "Position": [249.533508,-56.4611435,154.434814],
+            "Rotation": 88.2419739,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline start / green",
+            "Position": [283.0455,-52.28499,162.7753],
+            "Rotation": 288.170044,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline start / green",
+            "Position": [318.137848,-56.45209,167.2319],
+            "Rotation": 115.756065,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline start / green",
+            "Position": [345.8147,-56.1517067,122.767418],
+            "Rotation": 179.057144,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline start / tunnel",
+            "Position": [375.0656,-54.404808,168.058212],
+            "Rotation": 256.063263,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline start / tunnel",
+            "Position": [299.172974,-47.5497971,218.696426],
+            "Rotation": 319.078735,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline start / tunnel",
+            "Position": [346.720367,-51.6002159,261.518158],
+            "Rotation": 6.542126,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline start / tunnel",
+            "Position": [297.648529,-56.3958664,284.2717],
+            "Rotation": 315.880554,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "ZoneBunker": [
+        {
+            "Comment": "Shoreline bunker / sanatorium 2",
+            "Position": [-428.468933,-5.802935,-142.184219],
+            "Rotation": 262.081146,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / sanatorium 2",
+            "Position": [-422.855255,-7.447005,-114.993629],
+            "Rotation": 348.819061,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / sanatorium 2",
+            "Position": [-417.194977,-12.762126,-47.913662],
+            "Rotation": 320.69577,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / sanatorium 2",
+            "Position": [-371.604279,-26.8585243,-17.818512],
+            "Rotation": 315.47583,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / sanatorium 2",
+            "Position": [-410.211182,-31.4168987,68.22936],
+            "Rotation": 234.967743,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / sanatorium 2",
+            "Position": [-455.14975,-37.1277542,19.5428085],
+            "Rotation": 2.0832448,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 / bunker",
+            "Position": [-142.279922,-4.90992,-136.5842],
+            "Rotation": 146.750061,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 / bunker",
+            "Position": [-157.0915,-5.1336174,-176.638],
+            "Rotation": 355.850525,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 / bunker",
+            "Position": [-185.579559,-15.2504272,-194.450882],
+            "Rotation": 180.228958,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 / bunker",
+            "Position": [-195.651031,-11.3044481,-244.914337],
+            "Rotation": 354.367737,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline sanatorium 1 / bunker",
+            "Position": [-196.119324,-9.358026,-268.1542],
+            "Rotation": 138.243118,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker",
+            "Position": [-150.740967,-16.1430969,-298.49176],
+            "Rotation": 285.247681,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [-74.2286758,-18.4757061,-322.73703],
+            "Rotation": 35.2483368,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [-39.8571434,-19.6240444,-327.714],
+            "Rotation": 6.29685068,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [-37.18648,-16.6314583,-279.240448],
+            "Rotation": 19.4761429,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [-67.7271652,-11.3835859,-335.031372],
+            "Rotation": 3.67000747,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [-55.1768837,-12.0062485,-342.431244],
+            "Rotation": 47.8732,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [-26.2173767,-17.5144329,-277.043182],
+            "Rotation": 45.50934,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [26.6380463,-26.5719967,-249.45842],
+            "Rotation": 45.78013,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [78.28313,-29.0409451,-221.957611],
+            "Rotation": 26.6536865,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [108.082375,-27.6910076,-204.096756],
+            "Rotation": 282.2526,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [166.412552,-49.07403,-156.2098],
+            "Rotation": 24.054306,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline bunker / forest",
+            "Position": [157.609451,-39.0261345,-98.0611],
+            "Rotation": 270.867,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "ZonePassFar": [
+        {
+            "Comment": "Shoreline pass far",
+            "Position": [-720.5433,-45.8806953,273.609467],
+            "Rotation": 348.502441,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline pass far",
+            "Position": [-786.9444,-52.767498,366.198517],
+            "Rotation": 348.59082,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline pass far",
+            "Position": [-869.5795,-52.7214851,397.819916],
+            "Rotation": 16.3376579,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline pass far",
+            "Position": [-962.2391,-58.94634,360.96814],
+            "Rotation": 157.224121,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline pass far",
+            "Position": [-1021.19458,-60.3136177,361.159424],
+            "Rotation": 148.815079,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline pass far",
+            "Position": [-1026.66968,-60.68219,305.4849],
+            "Rotation": 55.43262,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "ZoneTunnel": [
+        {
+            "Comment": "Shoreline start / tunnel",
+            "Position": [375.0656,-54.404808,168.058212],
+            "Rotation": 256.063263,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline start / tunnel",
+            "Position": [299.172974,-47.5497971,218.696426],
+            "Rotation": 319.078735,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline start / tunnel",
+            "Position": [346.720367,-51.6002159,261.518158],
+            "Rotation": 6.542126,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline start / tunnel",
+            "Position": [297.648529,-56.3958664,284.2717],
+            "Rotation": 315.880554,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline island / tunnel",
+            "Position": [223.49437,-52.8090858,272.569427],
+            "Rotation": 280.796844,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline island / tunnel",
+            "Position": [166.572983,-54.6734734,272.34256],
+            "Rotation": 226.238281,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+			"Comment": "Shoreline",
+			"Position": [-559.811157,-26.54049,-135.5682],
+			"Rotation": 36.3292046,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-478.8761,-14.6162539,-181.010147],
+			"Rotation": 7.01383638,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-490.349854,-14.5118227,-183.941772],
+			"Rotation": 114.95256,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-365.447632,-6.23976231,-194.741974],
+			"Rotation": 19.870636,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-357.5402,-5.1885457,-133.241226],
+			"Rotation": 101.476044,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-304.921021,-4.957671,-145.366653],
+			"Rotation": 2.502526,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-296.428436,6.859036,-100.774765],
+			"Rotation": 170.99263,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-323.457855,6.859033,-73.7795639],
+			"Rotation": 3.36576343,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-361.4017,6.85903358,-80.91022],
+			"Rotation": 268.491882,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Shoreline",
+			"Position": [-269.576569,6.85903549,-95.33014],
+			"Rotation": 94.45743,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		}
+    ],
+
+    "ZonePassClose": [
+        {
+            "Comment": "Shoreline san 2 pass close",
+            "Position": [-83.13063,-8.106433,-86.07314],
+            "Rotation": 64.08097,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2 pass close",
+            "Position": [-14.3426552,-24.5447273,-102.346184],
+            "Rotation": 31.3290977,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2 pass close",
+            "Position": [26.3086929,-32.0305519,-72.07542],
+            "Rotation": 333.02887,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2 pass close",
+            "Position": [28.94181,-37.78759,-11.8022146],
+            "Rotation": 47.3873558,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2 pass close",
+            "Position": [73.8491,-40.44924,11.8702669],
+            "Rotation": 29.1656971,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2 pass close",
+            "Position": [-511.812653,-35.43187,-74.40416],
+            "Rotation": 58.67518,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2 pass close",
+            "Position": [-561.3745,-35.2735519,-76.6711],
+            "Rotation": 113.026169,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2 pass close",
+            "Position": [-617.2855,-34.8747978,-88.14515],
+            "Rotation": 52.3453522,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline san 2 pass close",
+            "Position": [-686.3642,-38.415,-41.6300774],
+            "Rotation": 20.9880543,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline meteo / pass",
+            "Position": [-632.9895,-39.4300156,134.2514],
+            "Rotation": 315.648956,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline pass",
+            "Position": [-634.7128,-42.89116,61.47057],
+            "Rotation": 126.885475,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline pass",
+            "Position": [-637.4856,-32.8615341,21.4942017],
+            "Rotation": 89.58184,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline pass",
+            "Position": [-697.028259,-41.0036774,6.878508],
+            "Rotation": 236.13205,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline pass",
+            "Position": [-710.838135,-28.1188545,79.4925156],
+            "Rotation": 94.05645,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline pass",
+            "Position": [-702.232056,-27.3309155,95.72657],
+            "Rotation": 45.117836,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline pass",
+            "Position": [-712.2254,-27.67344,97.59858],
+            "Rotation": 340.098419,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline pass",
+            "Position": [-733.629456,-35.4893951,97.7292],
+            "Rotation": 275.219238,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline pass",
+            "Position": [-735.932861,-38.61514,141.784958],
+            "Rotation": 339.281738,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline pass",
+            "Position": [-783.0364,-43.2015457,129.062485],
+            "Rotation": 232.927216,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline pass",
+            "Position": [-827.539368,-44.116806,108.19297],
+            "Rotation": 205.161057,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline pass",
+            "Position": [-836.2334,-40.8606033,42.4452133],
+            "Rotation": 116.612259,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline pass",
+            "Position": [-848.6633,-42.3241272,0.658077061],
+            "Rotation": 80.259285,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline pass",
+            "Position": [-873.644836,-43.1074181,0.412308216],
+            "Rotation": 62.0003471,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline pass",
+            "Position": [-861.17926,-52.05175,122.78997],
+            "Rotation": 340.193481,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline pass",
+            "Position": [-785.6652,-46.9537125,192.897034],
+            "Rotation": 48.02237,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline pass",
+            "Position": [-724.1487,-44.878788,226.442383],
+            "Rotation": 302.8392,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Shoreline pass",
+            "Position": [-706.5452,-39.9588356,223.303833],
+            "Rotation": 96.35314,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ]
+}

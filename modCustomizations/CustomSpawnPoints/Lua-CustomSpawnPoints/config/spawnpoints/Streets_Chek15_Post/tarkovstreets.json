@@ -1,0 +1,643 @@
+{
+	"SpawnZone Available List": "ZoneColumn, ZoneSW01, ZoneConstruction, ZoneCarShowroom, ZoneCinema, ZoneFactory, ZoneHotel_1, ZoneHotel_2, ZoneConcordia_1, ZoneConcordiaParking, ZoneSnipeCinema, ZoneSnipeCarShowroom, ZoneSnipeBuilding, ZoneSnipeSW01",
+	"Infiltration Available List": "E1_2, E4_5, E6_1, E5_6, E2_3, E3_4",
+
+	"ZoneColumn": [],
+
+	"ZoneSW01": [
+		{
+			"Comment": "TarkovStreets",
+			"Position": [103.736107,3.50900483,229.061646],
+			"Rotation": 316.637726,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [103.933891,3.52246523,218.583755],
+			"Rotation": 309.573853,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [95.6208954,3.5224638,226.753555],
+			"Rotation": 88.49454,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [122.7348,3.52197123,218.005463],
+			"Rotation": 0.535953,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [116.324387,2.7681725,233.135132],
+			"Rotation": 120.742256,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [127.362617,2.768168,233.198273],
+			"Rotation": 194.466843,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [130.94812,3.528088,234.91011],
+			"Rotation": 144.1753,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [135.821976,3.52808881,228.887772],
+			"Rotation": 31.2841988,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [140.993561,3.528088,234.467529],
+			"Rotation": 120.616676,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [153.7688,3.52998471,232.616867],
+			"Rotation": 254.774384,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [150.261429,3.52246571,210.550034],
+			"Rotation": 264.4421,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [140.914719,3.52246547,210.868286],
+			"Rotation": 64.81706,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [130.717758,3.52246332,227.141769],
+			"Rotation": 277.799133,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [133.305054,3.52246523,220.146042],
+			"Rotation": 291.885559,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [137.331711,5.05600548,217.8146],
+			"Rotation": 209.0309,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [137.257065,8.055876,218.272324],
+			"Rotation": 207.468674,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [136.7836,9.516231,231.857254],
+			"Rotation": 183.082626,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [140.6941,9.517281,226.740234],
+			"Rotation": 309.2442,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [126.942558,9.517279,226.260986],
+			"Rotation": 103.876137,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [128.725281,6.61684,218.083786],
+			"Rotation": 282.7272,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [131.572266,6.51812744,232.608261],
+			"Rotation": 174.894577,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [144.621429,6.519199,221.225067],
+			"Rotation": 4.91563368,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [151.057022,6.518146,225.312454],
+			"Rotation": 279.794434,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [107.078949,6.5478344,225.9722],
+			"Rotation": 88.7725143,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [49.47778,2.709267,133.582291],
+			"Rotation": 212.370255,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [47.12043,1.1883198,127.430443],
+			"Rotation": 108.166626,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [39.7705269,1.18040681,128.528839],
+			"Rotation": 272.5213,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [41.4895325,1.18039453,115.705086],
+			"Rotation": 218.9378,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [37.2018547,1.18039465,109.471054],
+			"Rotation": 359.6734,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [37.1105728,1.180365,122.628059],
+			"Rotation": 190.0352,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [37.873455,0.940643668,99.0391159],
+			"Rotation": 57.6396,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [47.530304,1.18034077,110.44928],
+			"Rotation": 249.527313,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [52.264946,1.18033814,110.104462],
+			"Rotation": 257.332,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [48.95325,1.18034136,101.099495],
+			"Rotation": 78.39519,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [49.7662125,1.1803441,93.34856],
+			"Rotation": 207.011246,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [52.4951973,1.18033862,81.82434],
+			"Rotation": 308.925934,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [44.565197,1.18034053,68.78156],
+			"Rotation": 41.1101341,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [41.6675034,1.18040645,63.06623],
+			"Rotation": 345.677673,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [37.8183441,1.180404,71.45918],
+			"Rotation": 240.386215,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [37.1432571,1.18040586,65.91812],
+			"Rotation": 279.148315,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [48.1564674,1.18831134,68.85198],
+			"Rotation": 128.8176,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [49.3579025,2.70926619,62.9317245],
+			"Rotation": 337.9743,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [52.6608925,4.17652273,68.2522354],
+			"Rotation": 243.490967,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [44.3966064,4.18362951,75.63398],
+			"Rotation": 1.47493982,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [44.5320244,4.183622,97.09671],
+			"Rotation": 194.684921,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [44.51512,7.18328762,119.880287],
+			"Rotation": 1.01607168,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [44.447,7.182802,88.78676],
+			"Rotation": 9.995479,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [36.50716,7.18406773,97.12637],
+			"Rotation": 81.00122,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [36.815155,7.18407154,87.60941],
+			"Rotation": 82.69052,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [51.4401474,7.184059,89.98129],
+			"Rotation": 303.3958,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [52.4847031,7.184057,95.57353],
+			"Rotation": 258.208679,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [50.24379,4.176521,127.62722],
+			"Rotation": 335.070435,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [49.2797775,8.711106,133.804657],
+			"Rotation": 191.188141,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [44.45542,10.1843824,129.26622],
+			"Rotation": 215.407272,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [44.2189751,10.18439,109.243988],
+			"Rotation": 325.410858,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [41.3789063,10.1858044,92.48629],
+			"Rotation": 131.3618,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [36.0578156,10.1858063,87.10311],
+			"Rotation": 79.73289,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [37.8435745,10.1858015,100.29068],
+			"Rotation": 201.318115,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [44.62932,10.1843758,79.52854],
+			"Rotation": 178.92923,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [53.01912,10.1783733,68.67198],
+			"Rotation": 239.441528,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [49.4638824,8.711111,62.8458977],
+			"Rotation": 3.8639307,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 0.0
+		}
+	],
+
+	"ZoneConstruction": [],
+
+	"ZoneCarShowroom": [],
+
+	"ZoneCinema": [],
+
+	"ZoneFactory": [],
+
+	"ZoneHotel_1": [],
+
+	"ZoneHotel_2": [],
+
+	"ZoneConcordia_1": [],
+
+	"ZoneConcordiaParking": [],
+
+	"ZoneSnipeCinema": [],
+
+	"ZoneSnipeCarShowroom": [],
+
+	"ZoneSnipeBuilding": [],
+
+	"ZoneSnipeSW01": []
+}

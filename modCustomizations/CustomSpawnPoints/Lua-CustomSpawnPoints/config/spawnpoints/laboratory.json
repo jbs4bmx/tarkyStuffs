@@ -1,0 +1,1619 @@
+{
+    "SpawnZone Available List": "BotZoneFloor1, BotZoneFloor2, BotZoneBasement, BotZoneGate2, BotZoneGate1",
+    "Infiltration Available List": "Common",
+
+    "BotZoneFloor1": [
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-271.5716,0.05300016,-280.928741],
+            "Rotation": 111.814735,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-241.647385,0.0569992177,-268.100616],
+            "Rotation": 182.521378,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-232.633865,0.04899901,-268.219879],
+            "Rotation": 183.011322,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-203.432434,0.0509998165,-277.214935],
+            "Rotation": 295.99292,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-204.543747,1.40064788,-281.9754],
+            "Rotation": 176.725922,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-201.393082,1.68304813,-311.648834],
+            "Rotation": 301.023438,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-219.7767,0.363955617,-305.700562],
+            "Rotation": 98.96167,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-235.383972,0.020214539,-304.461334],
+            "Rotation": 172.761688,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-258.100464,0.0136779016,-314.967957],
+            "Rotation": 57.4383278,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-265.885651,0.0144538078,-318.3421],
+            "Rotation": 153.801254,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-251.967468,0.014454456,-323.3694],
+            "Rotation": 106.309952,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-249.89502,0.023838304,-379.852356],
+            "Rotation": 127.18013,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-262.880585,0.0110335927,-391.5378],
+            "Rotation": 269.458771,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-268.557465,0.009294303,-381.9548],
+            "Rotation": 297.202942,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-272.575745,0.009290644,-361.599457],
+            "Rotation": 3.30910087,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-203.12175,0.0443787239,-396.871948],
+            "Rotation": 90.31931,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-196.918625,0.0289992951,-407.61377],
+            "Rotation": 97.85004,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-188.504761,0.010917007,-412.611969],
+            "Rotation": 127.73745,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-159.0822,0.008904257,-403.503632],
+            "Rotation": 91.29257,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-142.561691,0.008903738,-394.945282],
+            "Rotation": 324.032867,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-153.505188,0.0109153539,-412.512146],
+            "Rotation": 195.372009,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-116.63015,0.03739877,-419.364227],
+            "Rotation": 350.788055,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-110.463188,0.0104805976,-413.270081],
+            "Rotation": 239.863434,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-138.003342,0.00875088,-410.1617],
+            "Rotation": 70.6078949,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-115.835762,0.008912739,-402.7391],
+            "Rotation": 336.442627,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-138.095871,0.008744335,-390.9541],
+            "Rotation": 91.63766,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-127.591919,0.0749059245,-382.5953],
+            "Rotation": 270.297668,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-101.867188,0.01399992,-353.715363],
+            "Rotation": 264.429321,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-127.750519,0.009014117,-350.681427],
+            "Rotation": 44.9486122,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-134.719757,0.0090141,-350.233124],
+            "Rotation": 313.289185,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-132.917,0.008889505,-337.44928],
+            "Rotation": 268.2744,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-138.547684,1.36848438,-327.065216],
+            "Rotation": 58.1550522,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-118.738953,1.3684895,-309.081848],
+            "Rotation": 282.839783,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-134.597824,1.368483,-303.155579],
+            "Rotation": 204.768738,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-139.042587,4.121007,-281.3202],
+            "Rotation": 115.01593,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-120.517967,4.09894037,-286.938049],
+            "Rotation": 48.3252068,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-119.701111,-0.000299697276,-251.588852],
+            "Rotation": 172.252243,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-156.910522,1.40073991,-252.398041],
+            "Rotation": 232.8215,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-198.5535,1.40074337,-280.914551],
+            "Rotation": 101.501076,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-181.7412,1.40074062,-258.03717],
+            "Rotation": 112.003174,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-171.911026,4.26128626,-283.036682],
+            "Rotation": 1.336274,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-222.623657,0.0706806,-310.065247],
+            "Rotation": 359.149,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-228.204391,0.0404960141,-349.994934],
+            "Rotation": 266.2422,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-237.556,0.0404928736,-321.532166],
+            "Rotation": 247.49762,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-261.979218,0.03877883,-343.4757],
+            "Rotation": 147.071686,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-202.181259,0.0126823885,-352.817932],
+            "Rotation": 305.494843,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-203.150681,0.276997983,-331.621674],
+            "Rotation": 302.188019,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-195.587189,0.0561872832,-343.79126],
+            "Rotation": 85.77244,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-167.152267,2.31762743,-358.829254],
+            "Rotation": 163.493881,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-178.421188,2.31733227,-372.684357],
+            "Rotation": 158.004608,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-173.8648,0.0358552,-373.7946],
+            "Rotation": 29.4354763,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-158.371521,0.0112701533,-364.829132],
+            "Rotation": 17.9978638,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-165.086777,2.317627,-358.559],
+            "Rotation": 244.363327,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-182.100891,0.0113461642,-366.714844],
+            "Rotation": 204.355621,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-164.26355,0.0111782886,-373.053345],
+            "Rotation": 186.821136,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-159.431229,0.0112139741,-320.3279],
+            "Rotation": 87.85187,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-158.970062,0.08644429,-312.346375],
+            "Rotation": 299.53125,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-172.477921,0.09359945,-318.198517],
+            "Rotation": 289.886261,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-184.555222,0.0116482573,-327.933472],
+            "Rotation": 92.17294,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-184.739563,0.361393839,-318.851776],
+            "Rotation": 126.826439,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-142.167587,0.04999693,-296.253021],
+            "Rotation": 212.392014,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 1F",
+            "Position": [-135.044952,0.00890569,-383.353821],
+            "Rotation": 294.345337,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory",
+            "Position": [-280.1351,-3.997379,-352.6994],
+            "Rotation": 87.00137,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Common",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "laboratory",
+            "Position": [-281.755737,0.0292119365,-337.941376],
+            "Rotation": 88.0323257,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Common",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "laboratory",
+            "Position": [-118.615555,-0.0002997772,-250.525864],
+            "Rotation": 177.363235,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Common",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "laboratory",
+            "Position": [-120.407089,-0.000296242535,-280.132751],
+            "Rotation": 1.18792558,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Common",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "laboratory",
+            "Position": [-114.912109,0.008892309,-345.255859],
+            "Rotation": 280.9729,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Common",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "laboratory",
+            "Position": [-169.2592,0.0601613559,-422.0103],
+            "Rotation": 358.7598,"Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Common",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "laboratory",
+            "Position": [-112.931961,4.11523771,-345.97113],
+            "Rotation": 272.674957,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Common",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        }
+    ],
+
+    "BotZoneFloor2": [
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-108.704727,8.177482,-413.792053],
+            "Rotation": 222.450821,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-115.766365,4.125614,-419.045929],
+            "Rotation": 319.355225,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-129.987579,4.112,-435.263458],
+            "Rotation": 359.71228,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-148.876572,4.09999943,-415.3534],
+            "Rotation": 91.55886,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-137.788651,4.099995,-409.450378],
+            "Rotation": 88.05036,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-122.834381,4.099991,-398.641357],
+            "Rotation": 221.214188,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-129.150024,4.27113,-399.781372],
+            "Rotation": 191.065063,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-134.068146,4.099991,-397.6575],
+            "Rotation": 186.6099,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-137.898941,4.099987,-387.8407],
+            "Rotation": 120.939743,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-129.074051,4.15329456,-382.6348],
+            "Rotation": 268.6718,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-112.621323,4.11523771,-345.958038],
+            "Rotation": 284.2599,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-122.587952,8.134485,-333.3114],
+            "Rotation": 219.563171,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-138.337189,4.0907774,-323.575256],
+            "Rotation": 6.555868,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-139.281616,4.09079361,-304.634644],
+            "Rotation": 134.345871,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-170.120148,4.10400534,-295.686035],
+            "Rotation": 3.406471,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-197.736679,4.10213566,-313.4225],
+            "Rotation": 263.729736,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-200.9374,4.102133,-342.463135],
+            "Rotation": 270.299,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-166.568558,4.125084,-342.751221],
+            "Rotation": 264.849518,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-166.924042,4.125083,-337.624817],
+            "Rotation": 21.5863152,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-196.067322,4.102143,-373.191559],
+            "Rotation": 264.5514,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-199.062729,4.100004,-410.38916],
+            "Rotation": 53.5211258,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-183.758469,4.10000372,-409.857147],
+            "Rotation": 354.060181,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-180.253708,4.100834,-419.0475],
+            "Rotation": 2.267059,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-160.71048,4.100834,-417.667725],
+            "Rotation": 350.7246,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-144.104645,4.094367,-408.933655],
+            "Rotation": 2.8070097,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-157.594131,4.0943656,-394.342316],
+            "Rotation": 22.83151,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-148.380981,4.102227,-350.761047],
+            "Rotation": 272.781677,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-202.444229,4.12323666,-307.115234],
+            "Rotation": 325.864929,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-219.593811,4.12323475,-276.0102],
+            "Rotation": 94.41446,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-243.815765,4.1232357,-282.5925],
+            "Rotation": 264.118927,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-237.582718,4.12323666,-302.241974],
+            "Rotation": 188.732529,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-262.630859,4.124999,-299.584564],
+            "Rotation": 95.46432,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-244.642456,4.136981,-289.162],
+            "Rotation": 89.00351,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-260.7735,4.12299967,-311.4569],
+            "Rotation": 90.71591,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-259.2148,4.098026,-318.7436],
+            "Rotation": 98.34897,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-267.911163,4.098028,-326.744019],
+            "Rotation": 100.057266,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-250.4151,4.09802532,-317.25177],
+            "Rotation": 208.525879,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-232.013779,4.11446762,-336.026123],
+            "Rotation": 60.02813,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-232.229416,4.84001064,-342.703735],
+            "Rotation": 154.358688,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-223.394287,4.14809465,-354.9298],
+            "Rotation": 113.443428,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-268.185,4.11760473,-370.323669],
+            "Rotation": 56.848526,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-262.1947,4.11760426,-362.026459],
+            "Rotation": 358.694916,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-244.210632,4.10415459,-380.936646],
+            "Rotation": 157.944443,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-229.9408,4.10215235,-375.108246],
+            "Rotation": 183.090408,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-208.867249,4.10215235,-375.635925],
+            "Rotation": 12.7215385,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory 2F",
+            "Position": [-208.451859,4.102131,-343.262756],
+            "Rotation": 270.146423,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "BotZoneBasement": [
+        {
+            "Comment": "laboratory basement",
+            "Position": [-264.0512,-4.04999876,-349.848816],
+            "Rotation": 307.166565,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-278.538757,-4.047375,-338.885559],
+            "Rotation": 49.5804672,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-260.301636,-4.05096626,-340.173462],
+            "Rotation": 0.859891,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-276.733856,-4.050963,-369.085327],
+            "Rotation": 91.3005142,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-244.656326,-4.050966,-345.7618],
+            "Rotation": 89.0397,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-237.702118,-4.05096149,-381.375519],
+            "Rotation": 86.24147,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-265.994415,-4.05096,-391.728027],
+            "Rotation": 22.67602,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-247.296753,-4.050959,-400.010162],
+            "Rotation": 150.8009,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-233.136826,-4.05495167,-407.319122],
+            "Rotation": 7.03267574,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-223.681152,-4.05495358,-391.472961],
+            "Rotation": 188.356461,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-243.976318,-4.05094671,-421.261261],
+            "Rotation": 0.383609772,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-203.206146,-4.02947569,-371.830078],
+            "Rotation": 355.2,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-183.295853,-4.02947569,-371.389465],
+            "Rotation": 5.42768335,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-152.632751,-4.05396843,-358.943878],
+            "Rotation": 15.5399389,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-137.993179,-4.05396557,-380.741852],
+            "Rotation": 188.1896,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-144.892212,-4.053963,-400.0693],
+            "Rotation": 19.4653416,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-111.670166,-4.026586,-416.611237],
+            "Rotation": 46.62662,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-115.581467,-4.053964,-389.566833],
+            "Rotation": 347.962769,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-132.323441,-4.053965,-383.998016],
+            "Rotation": 55.1465759,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-122.190048,-4.043658,-353.269073],
+            "Rotation": 169.375168,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-136.339569,-7.16905832,-363.4629],
+            "Rotation": 98.3686142,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-132.252151,-4.79093361,-348.2619],
+            "Rotation": 182.074326,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-123.312195,-4.02658463,-338.738037],
+            "Rotation": 315.001648,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-128.969238,-3.879625,-322.8852],
+            "Rotation": 267.030762,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-118.76828,-4.05300045,-315.792847],
+            "Rotation": 356.549072,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-124.461479,-4.053001,-308.010742],
+            "Rotation": 97.34306,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-136.801743,-3.96746683,-319.734924],
+            "Rotation": 161.977844,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-153.269318,-4.0576067,-320.0378],
+            "Rotation": 168.461365,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-169.2834,-4.02947569,-310.9428],
+            "Rotation": 176.548477,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-182.563278,-4.054001,-303.173248],
+            "Rotation": 194.7359,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-192.9395,-4.053998,-326.219849],
+            "Rotation": 275.205963,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-184.49649,-5.24560165,-288.918457],
+            "Rotation": 84.97183,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-137.8036,-4.94213438,-260.372681],
+            "Rotation": 101.923752,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-123.216019,-4.98545551,-255.333374],
+            "Rotation": 225.400925,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-203.0895,-4.023575,-310.472],
+            "Rotation": 178.339813,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-203.278809,-4.02747536,-294.9405],
+            "Rotation": 0.281466573,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-251.5306,-4.045057,-289.9456],
+            "Rotation": 169.28743,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-236.183746,-4.05412436,-297.663971],
+            "Rotation": 90.22437,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-215.800583,-4.053998,-308.995239],
+            "Rotation": 99.91026,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-203.514984,-3.98922634,-338.3033],
+            "Rotation": 107.266716,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-223.693741,-5.0061326,-345.81012],
+            "Rotation": 97.24843,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-256.194122,-4.0509696,-311.997],
+            "Rotation": 79.98636,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory basement",
+            "Position": [-252.98761,-4.050971,-301.408539],
+            "Rotation": 103.154022,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "BotZoneGate2": [
+    ],
+
+    "BotZoneGate1": [
+        {
+            "Comment": "laboratory gate 1",
+            "Position": [-235.710373,0.0227195434,-409.554169],
+            "Rotation": 43.9172745,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "laboratory gate 1",
+            "Position": [-214.436417,0.02292959,-404.550537],
+            "Rotation": 272.9756,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+
+    ]
+}

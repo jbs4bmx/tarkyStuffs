@@ -1,0 +1,2291 @@
+{
+    "SpawnZone Available List": "Zone_Containers, Zone_Rocks, Zone_Chalet, Zone_Village, Zone_Bridge, Zone_OldHouse, Zone_LongRoad, Zone_DestroyedHouse, Zone_SniperPeak, Zone_Island, Zone_TreatmentContainers, Zone_Blockpost, Zone_RoofContainers, Zone_TreatmentRocks, Zone_TreatmentBeach, Zone_RoofRocks, Zone_RoofBeach, Zone_Hellicopter",
+    "Infiltration Available List": "Tunnel, North",
+
+    "Zone_Containers": [
+        {
+            "Comment": "Lighthouse containers",
+            "Position": [-181.1976,10.5446825,-786.604736],
+            "Rotation": 87.2747955,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse containers",
+            "Position": [-99.03519,10.51153,-787.4495],
+            "Rotation": 51.99303,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse containers",
+            "Position": [-26.4890537,4.7768054,-752.1133],
+            "Rotation": 6.18179464,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse containers",
+            "Position": [-2.44966054,4.606016,-752.391],
+            "Rotation": 3.02432084,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse containers",
+            "Position": [35.3192673,9.380008,-763.5649],
+            "Rotation": 4.86159754,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse containers",
+            "Position": [95.48526,4.62556171,-771.902466],
+            "Rotation": 324.549835,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse containers",
+            "Position": [84.05715,4.619698,-842.4916],
+            "Rotation": 56.9376373,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse containers",
+            "Position": [119.618034,4.0017395,-886.267456],
+            "Rotation": 279.144958,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse containers",
+            "Position": [98.4264145,4.812709,-946.7118],
+            "Rotation": 345.356445,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse containers",
+            "Position": [123.800606,4.60601473,-970.6395],
+            "Rotation": 324.381775,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse containers",
+            "Position": [105.5253,4.610177,-987.962952],
+            "Rotation": 2.07542777,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "Zone_Rocks": [
+        {
+            "Comment": "Lighthouse rocks",
+            "Position": [-38.78592,8.959289,13.2970867],
+            "Rotation": 132.891281,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse rocks",
+            "Position": [-58.1577835,23.5726128,88.37012],
+            "Rotation": 168.937851,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }, {
+            "Comment": "Lighthouse rocks",
+            "Position": [-147.853058,42.8912659,51.5802078],
+            "Rotation": 53.4264145,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse rocks",
+            "Position": [-79.17322,26.77016,108.554527],
+            "Rotation": 284.489258,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse rocks",
+            "Position": [-62.9798,26.77016,112.885727],
+            "Rotation": 265.112854,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse rocks",
+            "Position": [-62.4055634,26.77016,134.42128],
+            "Rotation": 257.9803,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse rocks",
+            "Position": [-77.37372,27.42234,149.917816],
+            "Rotation": 130.785629,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse rocks",
+            "Position": [-143.585037,34.81772,179.719681],
+            "Rotation": 61.7170029,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse rocks",
+            "Position": [-133.065048,34.2423134,223.857346],
+            "Rotation": 130.934631,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse rocks",
+            "Position": [-132.307129,31.3608913,251.9526],
+            "Rotation": 103.3792,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse rocks",
+            "Position": [-133.115326,31.8190422,274.3987],
+            "Rotation": 8.646548,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse rocks",
+            "Position": [-102.432968,20.9514141,211.004868],
+            "Rotation": 356.069763,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse rocks",
+            "Position": [-78.46866,13.2064114,241.812958],
+            "Rotation": 355.438049,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "Zone_Chalet": [
+        {
+            "Comment": "Lighthouse chalet",
+            "Position": [-118.103844,14.8367243,-166.488571],
+            "Rotation": 15.7582741,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet",
+            "Position": [-122.588257,17.5897331,-144.474091],
+            "Rotation": 268.680634,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet",
+            "Position": [-126.437943,18.2016335,-136.742844],
+            "Rotation": 40.515564,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet",
+            "Position": [-85.22474,19.2127934,-136.483612],
+            "Rotation": 288.2691,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet",
+            "Position": [-51.4830246,19.8218155,-140.459732],
+            "Rotation": 101.844681,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet",
+            "Position": [-59.8927,19.5549088,-110.814117],
+            "Rotation": 59.0584755,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet",
+            "Position": [-73.63963,21.86696,-90.93113],
+            "Rotation": 175.193,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet",
+            "Position": [-75.5376,21.8669586,-79.820015],
+            "Rotation": 264.59317,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet",
+            "Position": [-77.55904,18.2847767,-77.55545],
+            "Rotation": 291.323761,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet",
+            "Position": [-83.20234,22.0389137,-56.4564171],
+            "Rotation": 180.049362,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet",
+            "Position": [-86.67,21.8669567,-57.1918373],
+            "Rotation": 269.785522,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet",
+            "Position": [-73.19204,21.5475941,-54.0507774],
+            "Rotation": 0.6457783,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet",
+            "Position": [-81.17688,18.2844963,-57.7660179],
+            "Rotation": 32.3689232,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet",
+            "Position": [-77.42753,18.2847786,-68.49754],
+            "Rotation": 339.6712,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet",
+            "Position": [-69.06271,17.5896931,-25.7626324],
+            "Rotation": 100.147125,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }, {
+            "Comment": "Lighthouse chalet",
+            "Position": [-130.314789,20.9733562,-76.85883],
+            "Rotation": 91.03998,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet",
+            "Position": [-132.982162,25.3169842,-37.84806],
+            "Rotation": 96.83716,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet",
+            "Position": [-79.45403,14.54936,55.71568],
+            "Rotation": 110.710724,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet",
+            "Position": [-40.72265,10.3167686,59.2347641],
+            "Rotation": 208.208832,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }, {
+            "Comment": "Lighthouse chalet village",
+            "Position": [-178.9339,31.8791962,-140.397415],
+            "Rotation": 181.611481,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet village",
+            "Position": [-180.69191,35.75317,-115.661095],
+            "Rotation": 18.8400764,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet village",
+            "Position": [-169.0903,31.5177517,-52.83793],
+            "Rotation": 20.7712688,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet village",
+            "Position": [-164.639221,33.1446724,-1.93373525],
+            "Rotation": 153.363861,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "Zone_Village": [
+        {
+            "Comment": "Lighthouse chalet village",
+            "Position": [-178.9339,31.8791962,-140.397415],
+            "Rotation": 181.611481,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet village",
+            "Position": [-180.69191,35.75317,-115.661095],
+            "Rotation": 18.8400764,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet village",
+            "Position": [-169.0903,31.5177517,-52.83793],
+            "Rotation": 20.7712688,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse chalet village",
+            "Position": [-164.639221,33.1446724,-1.93373525],
+            "Rotation": 153.363861,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "Zone_Bridge": [
+        {
+            "Comment": "Lighthouse bridge",
+            "Position": [104.455429,5.71182966,-257.683075],
+            "Rotation": 167.85202,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse bridge",
+            "Position": [103.652588,0.270598769,-304.9389],
+            "Rotation": 2.18569779,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse bridge",
+            "Position": [65.19083,0.409655482,-307.4083],
+            "Rotation": 221.33313,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse bridge",
+            "Position": [11.2253942,0.5163644,-331.5068],
+            "Rotation": 71.4379,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse bridge",
+            "Position": [1.68693829,0.228311375,-351.710724],
+            "Rotation": 57.95817,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse bridge",
+            "Position": [21.4120121,1.493699,-375.849854],
+            "Rotation": 52.9162064,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse bridge",
+            "Position": [69.0134659,6.83897972,-397.573853],
+            "Rotation": 319.978821,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse bridge",
+            "Position": [92.50804,3.70351744,-412.822784],
+            "Rotation": 17.4918365,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }, {
+            "Comment": "Lighthouse bridge",
+            "Position": [-8.023096,6.12483931,-348.7654],
+            "Rotation": 344.020081,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse bridge",
+            "Position": [-80.2566,7.180928,-243.721176],
+            "Rotation": 181.8789,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse bridge",
+            "Position": [-88.1547546,18.2730541,-202.405167],
+            "Rotation": 81.63869,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse bridge",
+            "Position": [-112.909554,12.9117432,-196.658066],
+            "Rotation": 124.425049,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "Zone_OldHouse": [
+    ],
+
+    "Zone_LongRoad": [
+        {
+            "Comment": "Lighthouse road",
+            "Position": [139.094055,3.223037,-194.586151],
+            "Rotation": 307.062836,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [134.545349,3.22303462,-186.562515],
+            "Rotation": 224.14032,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [139.263733,0.320041627,-196.057678],
+            "Rotation": 271.6627,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [164.31308,0.317432672,-162.423553],
+            "Rotation": 277.387634,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [148.2498,3.22303677,-134.682617],
+            "Rotation": 265.169678,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [148.042282,0.3200404,-125.798477],
+            "Rotation": 321.589722,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [104.646317,7.16250229,-133.1246],
+            "Rotation": 333.2053,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [107.625473,7.31423,-207.642975],
+            "Rotation": 323.21405,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }, {
+            "Comment": "Lighthouse road",
+            "Position": [-15.7755995,6.88268661,-31.9543781],
+            "Rotation": 59.1513977,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [-12.7197294,2.971482,-62.86619],
+            "Rotation": 145.730988,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [14.7451458,5.956069,-78.7010345],
+            "Rotation": 167.027649,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [-7.80168629,3.000033,-106.483109],
+            "Rotation": 128.619736,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [-1.78945839,5.95604944,-134.61171],
+            "Rotation": 166.833466,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [6.92047739,5.956037,-172.71994],
+            "Rotation": 170.7148,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [6.63388968,5.94643259,-222.876831],
+            "Rotation": 223.107162,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [81.3433,0.13303414,-97.4287],
+            "Rotation": 247.129364,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [92.27447,1.43935263,-61.0155334],
+            "Rotation": 82.92065,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [135.692047,0.6136847,-48.83761],
+            "Rotation": 12.6623163,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [147.822876,0.259069681,-0.03886123],
+            "Rotation": 306.952972,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [79.23764,18.3121681,12.43623],
+            "Rotation": 21.9042549,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [55.5844231,24.7237377,-8.260357],
+            "Rotation": 318.823242,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [80.65022,28.3128014,-49.42248],
+            "Rotation": 64.26358,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [74.54654,38.74914,-75.0238342],
+            "Rotation": 169.03653,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [53.56227,35.9180565,-66.2964249],
+            "Rotation": 263.4158,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [56.2386436,9.506037,39.8950272],
+            "Rotation": 241.295364,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [95.04194,5.75758457,43.0709763],
+            "Rotation": 59.10188,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [117.618767,3.54032,103.49984],
+            "Rotation": 45.4694,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [83.5618439,20.361372,140.64183],
+            "Rotation": 338.549866,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [59.8441162,23.19643,115.9213],
+            "Rotation": 257.371948,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [64.38172,17.065609,145.549759],
+            "Rotation": 250.2748,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse road",
+            "Position": [73.12787,17.964098,190.4252],
+            "Rotation": 2.383652,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "car",
+            "Position": [-316.8033,15.1664286,-782.589966],
+            "Rotation": 79.1523361,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "North",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "industrial",
+            "Position": [-151.286148,10.5115309,-791.6536],
+            "Rotation": 10.8736954,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "North",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "train",
+            "Position": [8.247732,10.50884,-954.7371],
+            "Rotation": 356.62027,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "North",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "north cp",
+            "Position": [117.677284,4.6196723,-985.550842],
+            "Rotation": 348.678345,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "North",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "tunnel",
+            "Position": [-67.57622,6.164521,318.934082],
+            "Rotation": 99.87762,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Tunnel",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "south road",
+            "Position": [-264.804749,5.94645548,416.831726],
+            "Rotation": 86.8697357,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Tunnel",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "mountain pass",
+            "Position": [-166.864166,33.8299522,-0.493208945],
+            "Rotation": 143.093491,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Tunnel",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "village",
+            "Position": [-268.1795,22.6345062,-106.763542],
+            "Rotation": 207.370331,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "North",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "p2 shoreline",
+            "Position": [-335.683,10.4701319,-137.020157],
+            "Rotation": 137.248077,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "North",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        }
+    ],
+
+    "Zone_DestroyedHouse": [
+        {
+            "Comment": "Lighthouse destroyedhouse",
+            "Position": [119.787064,5.497645,215.898239],
+            "Rotation": 345.312927,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse",
+            "Position": [130.355011,0.306598276,271.850922],
+            "Rotation": 269.675934,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse",
+            "Position": [133.335358,0.6495372,298.153625],
+            "Rotation": 28.2125053,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse",
+            "Position": [140.42897,0.9562296,353.18515],
+            "Rotation": 278.780426,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse",
+            "Position": [115.285324,3.58920383,403.979523],
+            "Rotation": 342.0889,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse",
+            "Position": [94.0494843,0.2896279,454.62674],
+            "Rotation": 225.390335,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }, {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-45.2318459,5.949361,317.8375],
+            "Rotation": 109.619331,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-11.1229362,6.05210829,340.327545],
+            "Rotation": 156.80455,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-26.360487,6.57875252,383.621246],
+            "Rotation": 109.074036,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-1.70247412,5.87322426,478.7923],
+            "Rotation": 180.850464,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-48.766407,5.94643164,524.2693],
+            "Rotation": 88.20447,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-118.109268,5.94643068,506.2589],
+            "Rotation": 178.7553,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-144.511948,5.56579638,443.984436],
+            "Rotation": 22.364399,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-212.642853,4.868864,410.4567],
+            "Rotation": 311.769135,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-224.887192,8.83666,423.590149],
+            "Rotation": 237.248672,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-265.216461,5.94645357,416.7981],
+            "Rotation": 81.92406,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-163.480347,23.9915943,398.62384],
+            "Rotation": 302.477722,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-114.131042,30.3088951,409.302124],
+            "Rotation": 140.436417,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-70.39651,34.4256172,418.845428],
+            "Rotation": 143.048874,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-192.007126,18.2585812,396.20816],
+            "Rotation": 41.3236351,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "Zone_SniperPeak": [
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-45.2318459,5.949361,317.8375],
+            "Rotation": 109.619331,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-11.1229362,6.05210829,340.327545],
+            "Rotation": 156.80455,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-26.360487,6.57875252,383.621246],
+            "Rotation": 109.074036,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-1.70247412,5.87322426,478.7923],
+            "Rotation": 180.850464,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-48.766407,5.94643164,524.2693],
+            "Rotation": 88.20447,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-118.109268,5.94643068,506.2589],
+            "Rotation": 178.7553,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-144.511948,5.56579638,443.984436],
+            "Rotation": 22.364399,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-212.642853,4.868864,410.4567],
+            "Rotation": 311.769135,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-224.887192,8.83666,423.590149],
+            "Rotation": 237.248672,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-265.216461,5.94645357,416.7981],
+            "Rotation": 81.92406,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-163.480347,23.9915943,398.62384],
+            "Rotation": 302.477722,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-114.131042,30.3088951,409.302124],
+            "Rotation": 140.436417,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-70.39651,34.4256172,418.845428],
+            "Rotation": 143.048874,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse destroyedhouse sniperpeak",
+            "Position": [-192.007126,18.2585812,396.20816],
+            "Rotation": 41.3236351,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "Zone_Island": [
+        {
+            "Comment": "Lighthouse island",
+            "Position": [108.428642,1.66699409,509.884552],
+            "Rotation": 253.91217,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [159.89856,1.65600777,522.80835],
+            "Rotation": 253.901459,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [222.412567,1.73768008,517.544861],
+            "Rotation": 255.346222,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [261.020874,1.73768163,522.9307],
+            "Rotation": 183.382782,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [313.9392,1.738351,497.5488],
+            "Rotation": 11.1819582,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [328.544617,1.7383467,529.131836],
+            "Rotation": 258.549225,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [333.403351,4.99734545,483.217041],
+            "Rotation": 0.150373369,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [318.769135,5.01817226,492.559845],
+            "Rotation": 30.5232487,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [338.606781,4.997207,481.4473],
+            "Rotation": 290.283142,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [352.852173,2.3605926,455.867737],
+            "Rotation": 28.5045986,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [393.875427,1.74543214,413.52652],
+            "Rotation": 323.45636,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [422.426819,13.2052555,515.68866],
+            "Rotation": 270.950134,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [356.7201,15.4979658,549.0431],
+            "Rotation": 98.57635,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [403.463623,18.6971855,530.845764],
+            "Rotation": 316.834778,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [414.397,15.219512,550.9949],
+            "Rotation": 250.987427,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-329.15448,9.751876,-134.142456],
+            "Rotation": 157.011719,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-308.488831,18.0410042,-121.898125],
+            "Rotation": 120.915985,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-268.4645,22.690546,-105.802116],
+            "Rotation": 197.385864,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-295.6668,11.7742682,-158.097992],
+            "Rotation": 267.059021,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-325.1762,10.3945541,-219.514038],
+            "Rotation": 67.63789,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-267.873718,14.8294916,-219.360062],
+            "Rotation": 196.405472,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-236.009125,2.74925327,-268.2402],
+            "Rotation": 216.986389,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-262.279938,2.721419,-293.0916],
+            "Rotation": 69.85422,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-314.436127,1.51291239,-281.57077],
+            "Rotation": 165.74231,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-318.391968,-0.148428142,-341.004425],
+            "Rotation": 228.739456,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-286.658264,0.401529819,-340.61792],
+            "Rotation": 108.10276,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-260.898651,1.03913677,-350.8633],
+            "Rotation": 72.0058746,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-224.235886,1.41980743,-341.134247],
+            "Rotation": 86.16714,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-196.6556,4.431885,-377.836334],
+            "Rotation": 329.493225,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-145.01918,5.253093,-365.572845],
+            "Rotation": 357.021271,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-211.623886,4.835971,-432.045258],
+            "Rotation": 71.99889,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-181.857437,4.619192,-450.434052],
+            "Rotation": 353.983276,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-287.059052,0.110203981,-376.646576],
+            "Rotation": 208.862656,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-372.403381,9.158854,-383.6561],
+            "Rotation": 23.3580532,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-421.962982,28.2292233,-398.58606],
+            "Rotation": 136.939758,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-443.842377,28.7159061,-355.332184],
+            "Rotation": 151.080444,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-439.518951,25.1384,-298.593384],
+            "Rotation": 176.195145,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse island",
+            "Position": [-444.5131,23.4909019,-239.934143],
+            "Rotation": 150.37384,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "Zone_TreatmentContainers": [
+    ],
+
+    "Zone_Blockpost": [
+        {
+            "Comment": "Lighthouse blockpost",
+            "Position": [120.480049,7.475879,-454.4433],
+            "Rotation": 219.024673,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost",
+            "Position": [164.332733,0.3778745,-479.724365],
+            "Rotation": 307.283783,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }, {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-411.707367,16.9513474,-487.5538],
+            "Rotation": 355.105621,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-368.803436,31.0972652,-555.1535],
+            "Rotation": 74.41102,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-300.78006,23.392252,-552.475647],
+            "Rotation": 27.7421169,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-268.028351,15.5478621,-531.4358],
+            "Rotation": 62.2100677,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-250.98584,15.8717279,-491.8826],
+            "Rotation": 130.336868,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-217.127914,11.2037172,-542.7066],
+            "Rotation": 331.9159,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-226.777328,18.4493122,-577.6734],
+            "Rotation": 27.59634,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-249.550232,18.2512741,-620.1218],
+            "Rotation": 243.083435,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-278.064575,15.9161119,-670.4565],
+            "Rotation": 65.22289,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-330.230072,27.2110538,-678.0893],
+            "Rotation": 122.192513,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-285.960846,14.3270254,-722.221558],
+            "Rotation": 107.5014,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-252.649734,12.7819624,-767.9005],
+            "Rotation": 95.67018,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-304.6967,15.4546556,-769.1497],
+            "Rotation": 94.86078,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-326.7105,15.4434471,-784.9337],
+            "Rotation": 86.28783,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "Zone_RoofContainers": [
+    ],
+
+    "Zone_TreatmentRocks": [
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-411.707367,16.9513474,-487.5538],
+            "Rotation": 355.105621,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-368.803436,31.0972652,-555.1535],
+            "Rotation": 74.41102,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-300.78006,23.392252,-552.475647],
+            "Rotation": 27.7421169,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-268.028351,15.5478621,-531.4358],
+            "Rotation": 62.2100677,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-250.98584,15.8717279,-491.8826],
+            "Rotation": 130.336868,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-217.127914,11.2037172,-542.7066],
+            "Rotation": 331.9159,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-226.777328,18.4493122,-577.6734],
+            "Rotation": 27.59634,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-249.550232,18.2512741,-620.1218],
+            "Rotation": 243.083435,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-278.064575,15.9161119,-670.4565],
+            "Rotation": 65.22289,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-330.230072,27.2110538,-678.0893],
+            "Rotation": 122.192513,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-285.960846,14.3270254,-722.221558],
+            "Rotation": 107.5014,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-252.649734,12.7819624,-767.9005],
+            "Rotation": 95.67018,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-304.6967,15.4546556,-769.1497],
+            "Rotation": 94.86078,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse blockpost, treatmentRocks",
+            "Position": [-326.7105,15.4434471,-784.9337],
+            "Rotation": 86.28783,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "Zone_TreatmentBeach": [
+    ],
+
+    "Zone_RoofRocks": [
+    ],
+
+    "Zone_RoofBeach": [
+    ],
+
+    "Zone_Hellicopter": [
+        {
+            "Comment": "Lighthouse helicopter",
+            "Position": [-23.5303841,4.12802029,-492.850433],
+            "Rotation": 245.457275,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse helicopter",
+            "Position": [-44.3083,7.07995653,-522.4608],
+            "Rotation": 143.3395,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse helicopter",
+            "Position": [-49.01929,7.079955,-520.929565],
+            "Rotation": 291.9273,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse helicopter",
+            "Position": [-98.9224548,0.2033388,-491.879578],
+            "Rotation": 59.4276047,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse helicopter",
+            "Position": [-134.699829,1.858952,-493.624878],
+            "Rotation": 172.064117,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse helicopter",
+            "Position": [-169.106781,4.946709,-471.174652],
+            "Rotation": 84.82871,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse helicopter",
+            "Position": [-175.807449,4.606016,-495.660278],
+            "Rotation": 183.248917,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse helicopter",
+            "Position": [-176.362534,4.60601664,-546.0695],
+            "Rotation": 334.04126,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse helicopter",
+            "Position": [-187.722626,4.45913553,-570.319],
+            "Rotation": 359.25415,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse helicopter",
+            "Position": [-155.606735,4.620882,-608.4565],
+            "Rotation": 8.16535,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse helicopter",
+            "Position": [-127.059471,3.77588487,-584.5904],
+            "Rotation": 180.065826,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse helicopter",
+            "Position": [-96.35294,4.1175704,-615.710144],
+            "Rotation": 53.7517853,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse helicopter",
+            "Position": [-61.5848274,4.81509924,-625.294556],
+            "Rotation": 56.165802,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse helicopter",
+            "Position": [-21.9832153,4.20274973,-614.6896],
+            "Rotation": 337.068237,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse helicopter",
+            "Position": [-62.73433,3.75464916,-586.373],
+            "Rotation": 95.74961,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse helicopter",
+            "Position": [-22.4008732,4.15275,-669.192444],
+            "Rotation": 4.344573,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse helicopter",
+            "Position": [-66.02547,1.87923074,-689.2508],
+            "Rotation": 109.426773,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse helicopter",
+            "Position": [-135.118683,1.85895193,-674.5716],
+            "Rotation": 182.4339,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Lighthouse helicopter",
+            "Position": [-145.840927,9.082,-708.657959],
+            "Rotation": 353.657959,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ]
+}

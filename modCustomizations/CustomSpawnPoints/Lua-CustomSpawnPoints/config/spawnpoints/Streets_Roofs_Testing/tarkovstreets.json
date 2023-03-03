@@ -1,0 +1,572 @@
+{
+	"SpawnZone Available List": "ZoneColumn, ZoneSW01, ZoneConstruction, ZoneCarShowroom, ZoneCinema, ZoneFactory, ZoneHotel_1, ZoneHotel_2, ZoneConcordia_1, ZoneConcordiaParking, ZoneSnipeCinema, ZoneSnipeCarShowroom, ZoneSnipeBuilding, ZoneSnipeSW01",
+	"Infiltration Available List": "E1_2, E4_5, E6_1, E5_6, E2_3, E3_4",
+
+	"ZoneColumn": [
+		{
+			"Comment": "Column Roof",
+			"Position": [-13.4541483,21.13181,259.699982],
+			"Rotation": 70.96896,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Column Roof",
+			"Position": [-23.94414,21.13181,262.061218],
+			"Rotation": 359.25235,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Column Roof",
+			"Position": [38.36701,21.210865,235.278885],
+			"Rotation": 355.084442,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Column Roof",
+			"Position": [32.6597023,9.1817255,219.502426],
+			"Rotation": 332.565582,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Column Roof",
+			"Position": [-44.0462761,8.062561,217.717285],
+			"Rotation": 147.623413,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Column Roof",
+			"Position": [-10.7366438,7.928958,258.378662],
+			"Rotation": 86.0643,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Column Roof",
+			"Position": [53.6679,9.20906448,237.892868],
+			"Rotation": 352.586,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Column Roof",
+			"Position": [40.423008,9.210341,236.120667],
+			"Rotation": 13.7254667,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Column Roof",
+			"Position": [32.3541336,12.2063169,209.075119],
+			"Rotation": 267.7078,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		}
+	],
+
+	"ZoneSW01": [
+		{
+			"Comment": "Apartment Roofs",
+			"Position": [93.7111,20.518507,217.998886],
+			"Rotation": 206.75502,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Apartment Roofs",
+			"Position": [94.38105,20.52592,235.359924],
+			"Rotation": 312.1887,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Apartment Roofs",
+			"Position": [71.23453,15.0585051,46.5414772],
+			"Rotation": 339.2822,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Apartment Roofs",
+			"Position": [137.57724,9.007276,96.7287],
+			"Rotation": 309.517242,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Apartment Roofs",
+			"Position": [78.3867645,10.9200039,141.837677],
+			"Rotation": 317.219757,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Skybridge Suite",
+			"Position": [54.59093,11.692193,153.180557],
+			"Rotation": 79.7643356,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Skybridge Suite",
+			"Position": [33.6092224,11.6921272,149.835785],
+			"Rotation": 265.462036,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		}
+	],
+
+	"ZoneConstruction": [
+		{
+			"Comment": "Construction Roof",
+			"Position": [194.86,24.2289124,290.1635],
+			"Rotation": 227.288986,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Construction Roof",
+			"Position": [200.2036,24.22891,307.894684],
+			"Rotation": 354.934753,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Construction Roof",
+			"Position": [219.270691,10.949729,327.5973],
+			"Rotation": 264.129364,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Construction Roof",
+			"Position": [235.215118,10.949728,330.1366],
+			"Rotation": 349.038971,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		}
+	],
+
+	"ZoneCarShowroom": [
+		{
+			"Comment": "Car Showroom Roof",
+			"Position": [88.8217545,12.3393974,323.683136],
+			"Rotation": 325.669678,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Car Showroom Roof",
+			"Position": [101.984306,11.4472418,266.6677],
+			"Rotation": 137.295135,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Car Showroom Roof",
+			"Position": [88.5665054,12.3567047,266.897156],
+			"Rotation": 239.7525,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Car Showroom Roof",
+			"Position": [65.23697,11.6181974,270.2357],
+			"Rotation": 157.912125,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		}
+	],
+
+	"ZoneCinema": [
+		{
+			"Comment": "Cinema Roof",
+			"Position": [-78.2941055,7.68734,345.0149],
+			"Rotation": 1.931039,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Cinema Roof",
+			"Position": [-62.941288,7.6802454,344.924072],
+			"Rotation": 1.349164,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Cinema Roof",
+			"Position": [-157.937866,11.7648926,394.70755],
+			"Rotation": 140.423889,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Cinema Roof",
+			"Position": [-158.554413,11.7648907,405.995819],
+			"Rotation": 34.24412,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		}
+	],
+
+	"ZoneFactory": [],
+
+	"ZoneHotel_1": [
+		{
+			"Comment": "Hotel 1 Roof",
+			"Position": [-18.96305,10.8516188,178.262543],
+			"Rotation": 33.6094,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Hotel 1 Roof",
+			"Position": [-74.5397644,10.8516207,182.261414],
+			"Rotation": 299.3426,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Hotel 1 Roof",
+			"Position": [-88.13237,10.8516207,182.346],
+			"Rotation": 291.911621,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Hotel 1 Roof",
+			"Position": [-117.489479,10.83997,132.447037],
+			"Rotation": 340.137268,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Hotel 1 Roof",
+			"Position": [-82.09308,10.8391905,141.216309],
+			"Rotation": 106.388763,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		}
+	],
+
+	"ZoneHotel_2": [
+		{
+			"Comment": "Hotel 2 Roof",
+			"Position": [-109.494812,7.93818665,86.33753],
+			"Rotation": 107.198135,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Hotel 2 Roof",
+			"Position": [-112.560707,7.94300032,81.82938],
+			"Rotation": 281.405121,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Hotel 2 Roof",
+			"Position": [-93.34042,10.836832,84.13599],
+			"Rotation": 101.261024,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Hotel 2 Roof",
+			"Position": [-18.4734669,7.9515934,52.9215736],
+			"Rotation": 175.604492,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Hotel 2 Roof",
+			"Position": [-29.9948254,10.8398914,39.7597923],
+			"Rotation": 86.18357,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Hotel 2 Roof",
+			"Position": [-15.9807606,10.9259329,113.127434],
+			"Rotation": 42.4363861,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Hotel 2 Roof",
+			"Position": [-39.40993,16.6401,69.12805],
+			"Rotation": 305.272583,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Hotel 2 Roof",
+			"Position": [-37.5147667,5.052739,91.05946],
+			"Rotation": 225.190262,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Hotel 2 Roof",
+			"Position": [-16.9243355,31.1480217,59.34664],
+			"Rotation": 67.60737,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		}
+	],
+
+	"ZoneConcordia_1": [
+		{
+			"Comment": "Concordia Roof",
+			"Position": [234.747681,27.7386856,395.541626],
+			"Rotation": 191.818451,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Concordia Roof",
+			"Position": [200.021088,27.7387123,395.842255],
+			"Rotation": 187.132141,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Concordia Roof",
+			"Position": [262.5367,30.73581,365.045319],
+			"Rotation": 264.2304,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "Concordia Roof",
+			"Position": [134.657486,12.2326012,350.9327],
+			"Rotation": 244.334335,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		}
+	],
+
+	"ZoneConcordiaParking": [],
+
+	"ZoneSnipeCinema": [],
+
+	"ZoneSnipeCarShowroom": [
+		{
+			"Comment": "TarkovStreets",
+			"Position": [50.6357269,21.24207,281.188],
+			"Rotation": 251.916534,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [66.16098,21.2421055,269.9122],
+			"Rotation": 113.201874,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [62.4836731,21.2425823,298.498566],
+			"Rotation": 326.891541,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		}
+	],
+
+	"ZoneSnipeBuilding": [
+		{
+			"Comment": "TarkovStreets",
+			"Position": [65.23697,11.6181974,270.2357],
+			"Rotation": 157.912125,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [-29.3223171,28.1692181,220.368683],
+			"Rotation": 115.2772,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [-11.53648,29.6550331,233.9087],
+			"Rotation": 103.032631,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		},
+		{
+			"Comment": "TarkovStreets",
+			"Position": [-8.664767,26.7907352,242.316681],
+			"Rotation": 52.0928955,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 1,
+			"ColliderRadius": 1.0
+		}
+	],
+
+	"ZoneSnipeSW01": []
+}

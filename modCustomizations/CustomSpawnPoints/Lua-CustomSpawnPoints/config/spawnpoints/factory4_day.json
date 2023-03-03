@@ -1,0 +1,477 @@
+{
+	"SpawnZone Available List": "BotZone",
+	"Infiltration Available List": "Factory",
+
+	"BotZone": [
+		{
+			"Comment": "1Gate 3 - Extraction",
+			"Position": [56.3922348, 0.336186528, 59.12654],
+			"Rotation": 165.7484,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "2Gate 3 - Extraction",
+			"Position": [56.4978561, 0.266117275, 42.9750175],
+			"Rotation": 88.014,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "3Outside of Gate 3",
+			"Position": [64.96692, 0.0340775624, 25.1957626],
+			"Rotation": 279.63678,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "4Locker Room - first room by gate 3",
+			"Position": [32.3657265, 4.532835, 44.0998878],
+			"Rotation": 180.125427,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "5Locker Room - First room",
+			"Position": [32.2776947, 4.532835, 45.0148926],
+			"Rotation": 173.093613,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "6Locker Room - First room",
+			"Position": [29.7499924, 4.53283548, 47.7892342],
+			"Rotation": 178.992752,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "7Locker Room - Second room",
+			"Position": [14.9158382, 4.53283548, 43.7628021],
+			"Rotation": 168.8255,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "8Outside of rooms",
+			"Position": [9.842275, 0.9928351, 39.5040436],
+			"Rotation": 185.526428,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "9PMC Ambush 1",
+			"Position": [68.92646, 0.097771585, 10.3584356],
+			"Rotation": 197.108566,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "10PMC Ambush 2",
+			"Position": [68.92646, 0.097771585, 10.3584356],
+			"Rotation": 197.108566,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "11PMC Ambush 3",
+			"Position": [70.11757, 0.09777267, -8.275026],
+			"Rotation": 342.069153,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "12PMC Ambush 4",
+			"Position": [73.67453, 0.09777417, -31.8546467],
+			"Rotation": 208.235779,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "13PMC Ambush 5",
+			"Position": [61.0111923, 0.0625614449, -44.958992],
+			"Rotation": 61.5984459,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "14PMC Ambush 6",
+			"Position": [46.7211075, 0.06256073, -41.81169],
+			"Rotation": 326.3048,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "15PMC Ambush 7",
+			"Position": [42.9843254, 0.06256016, -42.2400246],
+			"Rotation": 351.128021,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "16PMC Ambush 8",
+			"Position": [43.20243, 0.0909500942, -30.9137077],
+			"Rotation": 96.1067,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "17Factory Extension",
+			"Position": [21.742857, -0.0141045749, -40.8964272],
+			"Rotation": 34.77279,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "18Medical 1",
+			"Position": [-16.67952, 0.2583425, -30.1873684],
+			"Rotation": 9.917849,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "19Medical2",
+			"Position": [-19.51174, 0.250502765, -29.0650711],
+			"Rotation": 5.098954,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "pmc spawn near dead scav",
+			"Position": [-33.0, 1.7, 8.0],
+			"Rotation": 40.9173,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "office room 2F 1",
+			"Position": [12.4, 9.7, 39.2],
+			"Rotation": 40.9173,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "sinks",
+			"Position": [14.9, 6.0, 47.1],
+			"Rotation": 40.9173,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "office room 2F 2",
+			"Position": [19.9, 9.7, 39.6],
+			"Rotation": 40.9173,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "toilet",
+			"Position": [23.6, 6.2, 48.3],
+			"Rotation": 40.9173,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "office overwalk",
+			"Position": [35.0, 9.4, 32.2],
+			"Rotation": 40.9173,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "office 1F",
+			"Position": [20.8, 2.6, 41.1],
+			"Rotation": 40.9173,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "main extract",
+			"Position": [56.7, 1.7, 56.8],
+			"Rotation": 40.9173,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "windowed walkway",
+			"Position": [69.3, 1.6, 6.2],
+			"Rotation": 40.9173,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "concrete alley",
+			"Position": [36.6, 1.5, -39.8],
+			"Rotation": 40.9173,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "pmc spawn forklift 1",
+			"Position": [67.9, 1.8, -53.7],
+			"Rotation": 40.9173,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "pmc spawn forklift 2",
+			"Position": [68.5, 1.7, -62.1],
+			"Rotation": 40.9173,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "med extract",
+			"Position": [-15.8, 1.7, -48.2],
+			"Rotation": 40.9173,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "tunnel extract 1",
+			"Position": [44.8, -1.2, -34.2],
+			"Rotation": 40.9173,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "tunnel extract 2",
+			"Position": [66.8, -1.1, -30.8],
+			"Rotation": 40.9173,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "top of pump room",
+			"Position": [40.2, 7.9, -11.2],
+			"Rotation": 40.9173,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "high walkway 2",
+			"Position": [-23.8, 9.9, 57.9],
+			"Rotation": 40.9173,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "high walkway 3",
+			"Position": [-10.2, 9.9, 21.6],
+			"Rotation": 40.9173,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "high walkway 4",
+			"Position": [18.5, 9.8, 8.6],
+			"Rotation": 40.9173,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "high walkway 5",
+			"Position": [23.9, 9.8, 6.6],
+			"Rotation": 40.9173,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "high walkway 6",
+			"Position": [-40.4, 9.0, 58.8],
+			"Rotation": 40.9173,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+            "Comment": "gate 0",
+            "Position": [-53.3330536,1.27075839,58.0244141],
+            "Rotation": 87.9526443,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Factory",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "med gate",
+            "Position": [-19.0416431,0.191809282,-48.69016],
+            "Rotation": 357.99054,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Factory",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "gate y",
+            "Position": [46.9695549,0.06256109,-42.5469971],
+            "Rotation": 357.6605,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Factory",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "gate x",
+            "Position": [72.49536,0.12743251,-64.1990051],
+            "Rotation": 36.2467461,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Factory",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "cellars",
+            "Position": [65.87563,-2.63322926,-30.4980354],
+            "Rotation": 135.875427,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Factory",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "gate 3",
+            "Position": [60.4336166,0.240446642,65.16226],
+            "Rotation": 204.818726,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Factory",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "gate z",
+            "Position": [-35.7692642,0.217370316,9.731799],
+            "Rotation": 128.655212,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "Factory",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        }
+	]
+}

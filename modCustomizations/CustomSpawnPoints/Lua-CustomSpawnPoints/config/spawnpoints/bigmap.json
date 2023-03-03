@@ -1,0 +1,3869 @@
+{
+	"SpawnZone Available List": "ZoneBrige, ZoneCrossRoad, ZoneDormitory, ZoneGasStation, ZoneFactoryCenter, ZoneFactorySide, ZoneOldAZS, ZoneSnipeBrige, ZoneSnipeTower, ZoneSnipeFactory, ZoneBlockPost, ZoneBlockPostSniper, ZoneBlockPostSniper3, ZoneTankSquare, ZoneWade, ZoneCustoms, ZoneScavBase",
+	"Infiltration Available List": "Boiler Tanks, Customs",
+
+	"ZoneBrige": [
+		{
+			"Comment": "bridge 1",
+			"Position": [-37.5, 1.9, 4.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "bridge 2",
+			"Position": [-68.7, 1.9, 6.4],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "bridge 3",
+			"Position": [-100.6, 1.9, 10.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Water pass RUAF - Red Warehouse",
+			"Position": [-89.0, -8.1, -139.0],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Train next to water pass RUAF - Red Warehouse",
+			"Position": [148.9, 4.8, -171.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Outside Red Warehouse",
+			"Position": [-171.0, 4.5, -106.7],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Inside red warehouse F2",
+			"Position": [-202.5, 8.4, -95.3],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "outside red warehouse 2",
+			"Position": [-178.8, 2.1, -24.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "outside red warehouse 3",
+			"Position": [-196.4, 2.1, -56.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "inside red warehouse F1",
+			"Position": [-224.7, 2.6, -147.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		}, {
+			"Comment": "water pass metal middle",
+			"Position": [-69.3, -10.3, 43.0],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "water pass metal red warehouse side",
+			"Position": [-133.1, -0.2, 39.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "train house at bridge",
+			"Position": [-156.4, 3.2, -8.5],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "near dorms hill",
+			"Position": [80.8, -2.5, 90.2],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "dorms hill",
+			"Position": [109.6, 7.3, 92.3],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "tent behind dorms 3F",
+			"Position": [109.0, -1.4, 165.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "car extract 1",
+			"Position": [161.2, -0.1, 217.4],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "car extract 2",
+			"Position": [237.5, 2.0, 189.9],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Outside Mechanic Garage near Fortress",
+			"Position": [112.7, 2.8, -104.2],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Inside Mechanic Garage near Fortress",
+			"Position": [113.5, 2.8, -87.9],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Small bridge on construction field",
+			"Position": [153.0, 2.6, -137.4],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Warehouse 17 Extract",
+			"Position": [40.2, 2.6, -84.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Crackhouse",
+			"Position": [79.9, 6.1, -160.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Outside Crackhouse at Busses",
+			"Position": [81.9, 2.6, -131.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Crackhouse Entrance",
+			"Position": [82.4, 2.9, -150.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Crackhouse 2nd Floor",
+			"Position": [88.0, 6.2, -151.1],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "bigmap - brige",
+			"Position": [82.3261948,3.81715584,-105.352295],
+			"Rotation": 173.192184,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap - bridge",
+			"Position": [20.615633,6.643238,-153.948257],
+			"Rotation": 355.217926,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [-54.5518875,0.385421216,10.5352354],
+			"Rotation": 282.671875,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap - bridge",
+			"Position": [-37.2788353,0.385425925,-1.91418362],
+			"Rotation": 44.53056,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap - bridge",
+			"Position": [-100.817169,-10.4704494,-18.29571],
+			"Rotation": 17.1556969,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap - bridge",
+			"Position": [-97.0762558,-9.556112,47.41188],
+			"Rotation": 115.3083,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap - bridge",
+			"Position": [-17.0024261,-6.83561,100.958817],
+			"Rotation": 63.7831879,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap - bridge",
+			"Position": [-39.4835777,-14.1106358,122.232162],
+			"Rotation": 166.926651,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		}
+	],
+
+	"ZoneCrossRoad": [
+		{
+			"Comment": "near dorms hill",
+			"Position": [80.8, -2.5, 90.2],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "dorms hill",
+			"Position": [109.6, 7.3, 92.3],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "tent behind dorms 3F",
+			"Position": [109.0, -1.4, 165.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "car extract 1",
+			"Position": [161.2, -0.1, 217.4],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "car extract 2",
+			"Position": [237.5, 2.0, 189.9],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "tent behind dorms 2F",
+			"Position": [302.9, 5.8, 154.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "tent behind dorms 2F",
+			"Position": [302.9, 5.8, 154.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "dorms - new gas path 1",
+			"Position": [338.7, 8.2, 149.3],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "dorms - new gas path 2",
+			"Position": [341.7, 6.6, 104.3],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "path to broken train 1",
+			"Position": [380.6, 12.1, 158.2],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "path to broken train 2",
+			"Position": [399.6, 15.1, 197.1],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "broken train 1",
+			"Position": [442.7, 8.3, 197.7],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "broken train 2",
+			"Position": [454.4, 3.3, 160.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "broken train 3",
+			"Position": [481.9, 4.2, 208.7],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "path to radar hill 1",
+			"Position": [510.9, 10.2, 171.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "path to radar hill 2",
+			"Position": [552.1, 13.2, 170.3],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "path to radar hill 3",
+			"Position": [578.2, 11.7, 148.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "rail bridge 1",
+			"Position": [319.3, 5.7, 0.0],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "rail bridge 2",
+			"Position": [334.6, 5.7, 52.5],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "SCAV Fortress Loot Room",
+			"Position": [189.7, 3.2, -102.2],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "SCAV Fortress Loot Room 2",
+			"Position": [205.1, 3.2, -123.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "SCAV Fortress ZB-013",
+			"Position": [199.5, -1.3, -143.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "SCAV Fortress 1st Floor",
+			"Position": [194.9, 3.2, -119.4],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "SCAV Fortress 2nd Floor north",
+			"Position": [201.9, 9.2, -99.5],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "SCAV Fortress 2nd Floor south",
+			"Position": [202.6, 9.2, -143.3],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "railroad at scav fortress 1",
+			"Position": [185.7, 3.1, -230.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "railroad at scav fortress 2",
+			"Position": [224.1, 2.2, -248.5],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "outside old gas railway to scav fortress",
+			"Position": [278.8, 2.6, -203.9],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [647.4031,1.834815,46.31771],
+			"Rotation": 29.3340816,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [674.5892,5.2517724,119.771164],
+			"Rotation": 250.082809,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [644.103333,0.3309808,125.400894],
+			"Rotation": 78.70798,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [568.9478,12.1274261,157.329285],
+			"Rotation": 314.896942,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [557.3281,11.4728947,191.843658],
+			"Rotation": 246.574112,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [519.4153,13.8515921,127.309044],
+			"Rotation": 209.509827,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [561.0806,10.2690115,108.150566],
+			"Rotation": 132.14093,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		}
+	],
+
+	"ZoneDormitory": [
+		{
+			"Comment": "near dorms hill",
+			"Position": [80.8, -2.5, 90.2],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "dorms hill",
+			"Position": [109.6, 7.3, 92.3],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "tent behind dorms 3F",
+			"Position": [109.0, -1.4, 165.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "car extract 1",
+			"Position": [161.2, -0.1, 217.4],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "car extract 2",
+			"Position": [237.5, 2.0, 189.9],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "tent behind dorms 2F",
+			"Position": [302.9, 5.8, 154.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "tent behind dorms 2F",
+			"Position": [302.9, 5.8, 154.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "dorms - new gas path 1",
+			"Position": [338.7, 8.2, 149.3],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "dorms - new gas path 2",
+			"Position": [341.7, 6.6, 104.3],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "path to broken train 1",
+			"Position": [380.6, 12.1, 158.2],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "path to broken train 2",
+			"Position": [399.6, 15.1, 197.1],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "broken train 1",
+			"Position": [442.7, 8.3, 197.7],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "broken train 2",
+			"Position": [454.4, 3.3, 160.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "broken train 3",
+			"Position": [481.9, 4.2, 208.7],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "path to radar hill 1",
+			"Position": [510.9, 10.2, 171.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "path to radar hill 2",
+			"Position": [552.1, 13.2, 170.3],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "path to radar hill 3",
+			"Position": [578.2, 11.7, 148.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor (Marked Room)",
+			"Position": [172.8572, 5.831357, 184.2216],
+			"Rotation": 94.6,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [185.1229, 5.831592, 183.3053],
+			"Rotation": 274.6,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [175.6775, 5.829252, 171.7348],
+			"Rotation": 15.6,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [181.5476, 5.831593, 170.2819],
+			"Rotation": 296.5,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [167.6536, 5.851074, 147.4637],
+			"Rotation": 95.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [180.7871, 5.8316, 146.2056],
+			"Rotation": 107.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [171.3139, 5.831597, 153.2655],
+			"Rotation": 90.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [169.7917, 5.831599, 150.8099],
+			"Rotation": 102.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [179.6257, 5.831597, 155.0168],
+			"Rotation": 315.1,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [182.9531, 5.918808, 168.4557],
+			"Rotation": 272.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [171.1994, 5.830253, 169.286],
+			"Rotation": 95.4,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [184.4651, 5.831577, 177.281],
+			"Rotation": 275.4,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [195.6875, 5.831519, 182.0411],
+			"Rotation": 212.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [195.7828, 5.83152, 171.244],
+			"Rotation": 182.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 3rd floor",
+			"Position": [191.5413, 5.831519, 170.6605],
+			"Rotation": 183.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [173.5317, 2.831593, 180.9069],
+			"Rotation": 84.2,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [197.1001, 2.833356, 169.5515],
+			"Rotation": 205.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [196.7482, 2.831599, 179.1945],
+			"Rotation": 179.6,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [194.4668, 2.831596, 181.7955],
+			"Rotation": 195.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [192.421, 2.831658, 179.4385],
+			"Rotation": 229.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [186.7767, 2.831999, 170.0224],
+			"Rotation": 182.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [188.753, 2.831596, 182.9886],
+			"Rotation": 4.2,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [182.8228, 2.831599, 183.9374],
+			"Rotation": 358.1,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [176.791, 4.403019, 187.7258],
+			"Rotation": 355.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [182.942, 2.831597, 168.136],
+			"Rotation": 271.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [182.2516, 2.831597, 158.8555],
+			"Rotation": 124.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [182.1864, 2.831597, 155.2572],
+			"Rotation": 117.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [178.963, 2.831602, 145.293],
+			"Rotation": 278.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 2nd floor",
+			"Position": [169.8771, 2.831997, 146.3838],
+			"Rotation": 77.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [170.407, -0.1679999, 149.6681],
+			"Rotation": 19.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [181.7989, -0.1680002, 152.7246],
+			"Rotation": 110.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [171.5965, -0.1692027, 152.4981],
+			"Rotation": 79.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [181.2311, -0.1680014, 156.1964],
+			"Rotation": 107.5,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [181.2771, -0.1682011, 167.4744],
+			"Rotation": 310.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [170.1996, -0.1675459, 162.5348],
+			"Rotation": 91.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [170.3941, -0.1675467, 166.3687],
+			"Rotation": 130.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [171.9311, -0.1675475, 169.6212],
+			"Rotation": 262.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [175.5473, -0.1763472, 171.3386],
+			"Rotation": 6.4,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [171.64, -0.1763469, 172.9293],
+			"Rotation": 76.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [171.9236, -0.1763481, 175.5501],
+			"Rotation": 95.5,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [175.101, -0.1763481, 175.378],
+			"Rotation": 137.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [187.385, -0.1700029, 181.8719],
+			"Rotation": 181.1,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [187.1348, -0.1682015, 171.2955],
+			"Rotation": 11.2,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [190.1696, -0.1700019, 170.5492],
+			"Rotation": 191.1,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [191.792, -0.1682015, 181.4709],
+			"Rotation": 198.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [194.2358, -0.1700028, 179.9818],
+			"Rotation": 180.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [197.4557, -0.1682016, 179.2138],
+			"Rotation": 199.6,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [196.9812, -0.1666434, 169.4566],
+			"Rotation": 208.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Droms 3 Story 1st floor",
+			"Position": [197.1749, -0.1684244, 175.8027],
+			"Rotation": 265.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [233.6269, 2.871356, 129.1359],
+			"Rotation": 278.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [221.668, 2.871599, 129.9241],
+			"Rotation": 303.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [228.193, 2.871566, 128.7006],
+			"Rotation": 4.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [233.6933, 2.871999, 132.3788],
+			"Rotation": 264.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [222.152, 2.958779, 132.47],
+			"Rotation": 300.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [222.6609, 2.871601, 136.358],
+			"Rotation": 294.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [223.7576, 2.871597, 139.3275],
+			"Rotation": 290.6,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [225.1002, 2.871597, 142.5842],
+			"Rotation": 89.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [226.9343, 2.871599, 144.6279],
+			"Rotation": 97.5,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [224.9463, 2.8716, 148.5552],
+			"Rotation": 285.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [237.5626, 2.870253, 150.002],
+			"Rotation": 280.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [225.7218, 2.871997, 151.9494],
+			"Rotation": 281.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [236.9495, 2.871597, 153.9446],
+			"Rotation": 259.5,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [226.0988, 2.869252, 156.8742],
+			"Rotation": 279.1,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [227.9791, 2.869253, 154.3256],
+			"Rotation": 58.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [236.4208, 2.871599, 156.2921],
+			"Rotation": 288.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [225.4512, 3.093567, 160.5778],
+			"Rotation": 87.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [238.2556, 2.871597, 159.3006],
+			"Rotation": 280.1,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [227.9596, 2.871597, 163.2562],
+			"Rotation": 81.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [238.7623, 2.871599, 163.0883],
+			"Rotation": 276.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [238.821, 2.871556, 166.4681],
+			"Rotation": 269.4,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [226.8025, 2.895131, 167.5988],
+			"Rotation": 264.6,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 2nd floor",
+			"Position": [642.1177, 0.3344409, 127.3127],
+			"Rotation": 153.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [223.6991, -0.128402, 139.5355],
+			"Rotation": 293.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [224.8824, -0.1284012, 148.8705],
+			"Rotation": 280.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [237.4093, -0.1295466, 146.9389],
+			"Rotation": 280.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [236.6627, -0.1295469, 150.3137],
+			"Rotation": 94.2,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [225.6979, -0.128, 151.0447],
+			"Rotation": 79.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [225.6444, -0.1303472, 154.317],
+			"Rotation": 76.6,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [227.8211, 0.117884, 158.6585],
+			"Rotation": 132.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [238.7458, -0.1284226, 157.2891],
+			"Rotation": 244.6,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [237.8187, -0.1284224, 153.6661],
+			"Rotation": 284.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [238.7389, -0.128401, 162.024],
+			"Rotation": 332.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [227.2507, -0.1284031, 164.8233],
+			"Rotation": 258.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [228.7488, -0.1280012, 168.0878],
+			"Rotation": 134.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [223.5402, -0.07187297, 133.2995],
+			"Rotation": 276.5,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [233.8779, -0.1284008, 132.7102],
+			"Rotation": 124.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [233.3745, -0.1284445, 129.3231],
+			"Rotation": 254.6,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [222.8215, -0.1284011, 130.2679],
+			"Rotation": 275.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms 2 Story 1st floor",
+			"Position": [228.9027, -0.1284209, 135.0778],
+			"Rotation": 140.1,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [156.974, -1.663756, 215.1489],
+			"Rotation": 154.2,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [164.3553, -1.053314, 185.3595],
+			"Rotation": 187.4,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [198.1932, -1.819686, 198.0303],
+			"Rotation": 125.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [229.8671, 0.3028773, 199.0877],
+			"Rotation": 214.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [260.0435, 2.178381, 183.6725],
+			"Rotation": 204.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [295.8927, 6.558476, 169.666],
+			"Rotation": 213.1,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [327.1139, 5.946219, 154.541],
+			"Rotation": 204.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [333.2999, 5.388577, 129.6486],
+			"Rotation": 186.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [321.6796, 8.737248, 102.6467],
+			"Rotation": 161.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [289.1788, 1.229498, 85.86252],
+			"Rotation": 238.1,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [245.9711, 1.923543, 99.69546],
+			"Rotation": 224.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [238.8156, -0.6784066, 87.68184],
+			"Rotation": 135.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [200.6469, -3.354775, 81.53226],
+			"Rotation": 188.1,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [203.0736, -3.110803, 71.9002],
+			"Rotation": 259.1,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [158.3984, -1.164088, 127.3318],
+			"Rotation": 81.9,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [129.6171, -2.26843, 164.4121],
+			"Rotation": 124.5,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [102.9923, -3.14734, 165.1716],
+			"Rotation": 139.7,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [78.4247, -3.473752, 141.4958],
+			"Rotation": 120.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [96.30482, 0.8262097, 121.752],
+			"Rotation": 113.8,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [109.9833, 5.732484, 90.54694],
+			"Rotation": 112.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [165.9681, -2.078131, 81.09336],
+			"Rotation": 41.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [203.4084, -0.8515735, 155.8362],
+			"Rotation": 217.0,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [229.2161, -0.7138053, 175.1906],
+			"Rotation": 188.2,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [215.8805, -0.7353266, 157.5516],
+			"Rotation": 239.4,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [198.7909, -0.6774133, 129.498],
+			"Rotation": 351.2,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Dorms Outside/Woods",
+			"Position": [233.8596, 2.861203, 169.3768],
+			"Rotation": 183.3,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 2,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [176.551712,-0.619372368,126.3324],
+			"Rotation": 17.4290619,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [223.95929,-0.128401011,129.700043],
+			"Rotation": 284.211426,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [271.107971,2.652837,151.8974],
+			"Rotation": 42.5771065,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [238.760132,1.39712715,192.276688],
+			"Rotation": 283.4861,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [198.3359,-1.55873048,195.1071],
+			"Rotation": 302.86676,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [197.43718,-0.168201521,179.016037],
+			"Rotation": 195.0006,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [190.440887,-0.170001984,172.869568],
+			"Rotation": 184.549866,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [179.082962,2.8316,152.493057],
+			"Rotation": 97.61613,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [194.068466,2.83159685,179.554169],
+			"Rotation": 11.3724785,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [170.658173,2.83025432,162.2201],
+			"Rotation": 120.210938,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [172.08136,2.83025241,169.435089],
+			"Rotation": 132.2943,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [195.559143,5.83152,171.940277],
+			"Rotation": 156.0322,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [152.323715,-1.56073213,191.813416],
+			"Rotation": 244.996185,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [130.577438,-1.79564619,142.109055],
+			"Rotation": 214.199081,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [123.478279,1.77841115,97.62027],
+			"Rotation": 187.640182,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [110.821579,-1.44855356,59.6071053],
+			"Rotation": 246.7294,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [35.29499,-0.5154988,75.27397],
+			"Rotation": 243.433716,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [341.9798,1.22812176,-95.4177246],
+			"Rotation": 337.740021,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [329.904053,-2.89069057,-77.60065],
+			"Rotation": 11.5460062,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [342.4158,-2.55564928,-37.3943634],
+			"Rotation": 189.6235,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [352.4454,4.072242,-38.87704],
+			"Rotation": 97.90082,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [323.024567,1.07174182,-37.4333725],
+			"Rotation": 191.078,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [453.8424,3.020225,-62.03812],
+			"Rotation": 278.480164,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [471.803528,2.59832263,-69.43794],
+			"Rotation": 99.36602,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [489.9786,2.59827328,-86.58371],
+			"Rotation": 19.1868229,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [460.632751,-2.62695861,-111.292488],
+			"Rotation": 75.56628,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		}
+	],
+
+	"ZoneGasStation": [
+		{
+			"Comment": "tent behind dorms 2F",
+			"Position": [302.9, 5.8, 154.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "dorms - new gas path 1",
+			"Position": [338.7, 8.2, 149.3],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "dorms - new gas path 2",
+			"Position": [341.7, 6.6, 104.3],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "path to broken train 1",
+			"Position": [380.6, 12.1, 158.2],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "path to broken train 2",
+			"Position": [399.6, 15.1, 197.1],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "broken train 1",
+			"Position": [442.7, 8.3, 197.7],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "broken train 2",
+			"Position": [454.4, 3.3, 160.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "broken train 3",
+			"Position": [481.9, 4.2, 208.7],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "path to radar hill 1",
+			"Position": [510.9, 10.2, 171.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "path to radar hill 2",
+			"Position": [552.1, 13.2, 170.3],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "path to radar hill 3",
+			"Position": [578.2, 11.7, 148.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "radar hill 1",
+			"Position": [485.9, 16.7, 119.9],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "radar hill 2",
+			"Position": [513.2, 15.6, 103.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "radar hill 3",
+			"Position": [496.9, 16.7, 95.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "road to military base 1",
+			"Position": [548.7, 9.3, 92.1],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "road to military base 2",
+			"Position": [573.0, 12.9, 117.5],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "road to military base 3",
+			"Position": [640.2, 1.2, 119.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "road to military base 4",
+			"Position": [655.7, 2.1, 124.4],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "rail bridge 1",
+			"Position": [319.3, 5.7, 0.0],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "rail bridge 2",
+			"Position": [334.6, 5.7, 52.5],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		}
+	],
+
+	"ZoneFactoryCenter": [
+		{
+			"Comment": "rail bridge 1",
+			"Position": [319.3, 5.7, 0.0],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "rail bridge 2",
+			"Position": [334.6, 5.7, 52.5],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "abandoned railwagon",
+			"Position": [491.0, 7.2, -139.7],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "near abandoned railwagon",
+			"Position": [428.2, 5.7, -137.3],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [-197.067459,11.7570753,-149.614471],
+			"Rotation": 147.088867,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [-222.3906,12.4466772,-95.25046],
+			"Rotation": 354.4352,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [64.75256,12.24463,-38.34822],
+			"Rotation": 78.0897141,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [34.4285851,6.76413059,-88.22518],
+			"Rotation": 180.2003,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [34.4285851,6.76413059,-88.22518],
+			"Rotation": 180.2003,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [84.38425,8.400854,-159.644714],
+			"Rotation": 172.352386,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [230.112457,19.685833,-9.265295],
+			"Rotation": 86.18253,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [421.721161,22.4587612,212.286011],
+			"Rotation": 176.959183,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		}
+	],
+
+	"ZoneFactorySide": [
+		{
+			"Comment": "bigmap",
+			"Position": [176.551712,-0.619372368,126.3324],
+			"Rotation": 17.4290619,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [223.95929,-0.128401011,129.700043],
+			"Rotation": 284.211426,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [271.107971,2.652837,151.8974],
+			"Rotation": 42.5771065,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [238.760132,1.39712715,192.276688],
+			"Rotation": 283.4861,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [198.3359,-1.55873048,195.1071],
+			"Rotation": 302.86676,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [197.43718,-0.168201521,179.016037],
+			"Rotation": 195.0006,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [190.440887,-0.170001984,172.869568],
+			"Rotation": 184.549866,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [179.082962,2.8316,152.493057],
+			"Rotation": 97.61613,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [194.068466,2.83159685,179.554169],
+			"Rotation": 11.3724785,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [170.658173,2.83025432,162.2201],
+			"Rotation": 120.210938,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [172.08136,2.83025241,169.435089],
+			"Rotation": 132.2943,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [195.559143,5.83152,171.940277],
+			"Rotation": 156.0322,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [152.323715,-1.56073213,191.813416],
+			"Rotation": 244.996185,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [130.577438,-1.79564619,142.109055],
+			"Rotation": 214.199081,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [123.478279,1.77841115,97.62027],
+			"Rotation": 187.640182,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [110.821579,-1.44855356,59.6071053],
+			"Rotation": 246.7294,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [35.29499,-0.5154988,75.27397],
+			"Rotation": 243.433716,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		}
+	],
+
+	"ZoneOldAZS": [
+		{
+			"Comment": "Outside Old Gas near Trains",
+			"Position": [263.9, 2.7, -203.4],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "SCAV Fortress Loot Room",
+			"Position": [189.7, 3.2, -102.2],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "SCAV Fortress Loot Room 2",
+			"Position": [205.1, 3.2, -123.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "SCAV Fortress ZB-013",
+			"Position": [199.5, -1.3, -143.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "SCAV Fortress 1st Floor",
+			"Position": [194.9, 3.2, -119.4],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "SCAV Fortress 2nd Floor north",
+			"Position": [201.9, 9.2, -99.5],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "SCAV Fortress 2nd Floor south",
+			"Position": [202.6, 9.2, -143.3],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "railroad at scav fortress 1",
+			"Position": [185.7, 3.1, -230.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "railroad at scav fortress 2",
+			"Position": [224.1, 2.2, -248.5],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "outside old gas railway to scav fortress",
+			"Position": [278.8, 2.6, -203.9],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		}
+	],
+
+	"ZoneSnipeBrige": [],
+
+	"ZoneSnipeTower": [],
+
+	"ZoneSnipeFactory": [],
+
+	"ZoneBlockPost": [
+		{
+			"Comment": "radar hill 1",
+			"Position": [485.9, 16.7, 119.9],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "radar hill 2",
+			"Position": [513.2, 15.6, 103.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "radar hill 3",
+			"Position": [496.9, 16.7, 95.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "road to military base 1",
+			"Position": [548.7, 9.3, 92.1],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "road to military base 2",
+			"Position": [573.0, 12.9, 117.5],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "road to military base 3",
+			"Position": [640.2, 1.2, 119.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "road to military base 4",
+			"Position": [655.7, 2.1, 124.4],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		}
+	],
+
+	"ZoneBlockPostSniper": [],
+
+	"ZoneBlockPostSniper3": [
+		{
+			"Comment": "bigmap",
+			"Position": [608.7404,15.0975466,-66.07168],
+			"Rotation": 13.28576,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [642.574646,14.71045,-68.18512],
+			"Rotation": 27.11319,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [632.4621,14.6470985,-110.515335],
+			"Rotation": 201.0475,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [536.177,15.1072683,-120.52153],
+			"Rotation": 276.171936,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [540.4558,6.886844,-95.24782],
+			"Rotation": 15.3976269,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [364.697571,6.87689066,-10.6776752],
+			"Rotation": 10.9280777,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [352.330841,9.630807,-41.2578],
+			"Rotation": 109.545227,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [363.242645,11.4434147,-107.314835],
+			"Rotation": 217.971085,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [313.386383,7.718115,-174.219742],
+			"Rotation": 303.724426,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [255.2601,16.9567547,-74.32586],
+			"Rotation": 257.252533,
+			"Sides": ["Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		}
+	],
+
+	"ZoneTankSquare": [
+		{
+			"Comment": "SCAV Fortress Loot Room",
+			"Position": [189.7, 3.2, -102.2],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "SCAV Fortress Loot Room 2",
+			"Position": [205.1, 3.2, -123.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "SCAV Fortress ZB-013",
+			"Position": [199.5, -1.3, -143.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "SCAV Fortress 1st Floor",
+			"Position": [194.9, 3.2, -119.4],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "SCAV Fortress 2nd Floor north",
+			"Position": [201.9, 9.2, -99.5],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "SCAV Fortress 2nd Floor south",
+			"Position": [202.6, 9.2, -143.3],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "railroad at scav fortress 1",
+			"Position": [185.7, 3.1, -230.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "railroad at scav fortress 2",
+			"Position": [224.1, 2.2, -248.5],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "outside old gas railway to scav fortress",
+			"Position": [278.8, 2.6, -203.9],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Outside Mechanic Garage near Fortress",
+			"Position": [112.7, 2.8, -104.2],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Inside Mechanic Garage near Fortress",
+			"Position": [113.5, 2.8, -87.9],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Small bridge on construction field",
+			"Position": [153.0, 2.6, -137.4],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Warehouse 17 Extract",
+			"Position": [40.2, 2.6, -84.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Crackhouse",
+			"Position": [79.9, 6.1, -160.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Outside Crackhouse at Busses",
+			"Position": [81.9, 2.6, -131.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Crackhouse Entrance",
+			"Position": [82.4, 2.9, -150.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Crackhouse 2nd Floor",
+			"Position": [88.0, 6.2, -151.1],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		}
+	],
+
+	"ZoneWade": [
+		{
+			"Comment": "Water pass RUAF - Red Warehouse",
+			"Position": [-89.0, -8.1, -139.0],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Train next to water pass RUAF - Red Warehouse",
+			"Position": [148.9, 4.8, -171.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Outside Red Warehouse",
+			"Position": [-171.0, 4.5, -106.7],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Inside red warehouse F2",
+			"Position": [-202.5, 8.4, -95.3],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "outside red warehouse 2",
+			"Position": [-178.8, 2.1, -24.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "outside red warehouse 3",
+			"Position": [-196.4, 2.1, -56.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "inside red warehouse F1",
+			"Position": [-224.7, 2.6, -147.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		}, {
+			"Comment": "water pass metal middle",
+			"Position": [-69.3, -10.3, 43.0],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "water pass metal red warehouse side",
+			"Position": [-133.1, -0.2, 39.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "train house at bridge",
+			"Position": [-156.4, 3.2, -8.5],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Outside Mechanic Garage near Fortress",
+			"Position": [112.7, 2.8, -104.2],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Inside Mechanic Garage near Fortress",
+			"Position": [113.5, 2.8, -87.9],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Small bridge on construction field",
+			"Position": [153.0, 2.6, -137.4],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Warehouse 17 Extract",
+			"Position": [40.2, 2.6, -84.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Crackhouse",
+			"Position": [79.9, 6.1, -160.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Outside Crackhouse at Busses",
+			"Position": [81.9, 2.6, -131.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Crackhouse Entrance",
+			"Position": [82.4, 2.9, -150.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Crackhouse 2nd Floor",
+			"Position": [88.0, 6.2, -151.1],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		}
+	],
+
+	"ZoneCustoms": [
+		{
+			"Comment": "Water pass RUAF - Red Warehouse",
+			"Position": [-89.0, -8.1, -139.0],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Train next to water pass RUAF - Red Warehouse",
+			"Position": [148.9, 4.8, -171.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Outside Red Warehouse",
+			"Position": [-171.0, 4.5, -106.7],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "Inside red warehouse F2",
+			"Position": [-202.5, 8.4, -95.3],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "outside red warehouse 2",
+			"Position": [-178.8, 2.1, -24.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "outside red warehouse 3",
+			"Position": [-196.4, 2.1, -56.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "inside red warehouse F1",
+			"Position": [-224.7, 2.6, -147.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "water pass metal middle",
+			"Position": [-69.3, -10.3, 43.0],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "water pass metal red warehouse side",
+			"Position": [-133.1, -0.2, 39.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "train house at bridge",
+			"Position": [-156.4, 3.2, -8.5],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "bridge 1",
+			"Position": [-37.5, 1.9, 4.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "bridge 2",
+			"Position": [-68.7, 1.9, 6.4],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "bridge 3",
+			"Position": [-100.6, 1.9, 10.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		}
+	],
+
+	"ZoneScavBase": [
+		{
+			"Comment": "SCAV Fortress Loot Room",
+			"Position": [189.7, 3.2, -102.2],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "SCAV Fortress Loot Room 2",
+			"Position": [205.1, 3.2, -123.8],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "SCAV Fortress ZB-013",
+			"Position": [199.5, -1.3, -143.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "SCAV Fortress 1st Floor",
+			"Position": [194.9, 3.2, -119.4],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "SCAV Fortress 2nd Floor north",
+			"Position": [201.9, 9.2, -99.5],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "SCAV Fortress 2nd Floor south",
+			"Position": [202.6, 9.2, -143.3],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "railroad at scav fortress 1",
+			"Position": [185.7, 3.1, -230.6],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+			"Comment": "railroad at scav fortress 2",
+			"Position": [224.1, 2.2, -248.5],
+			"Rotation": 92.26318,
+			"Sides": ["All"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 5,
+			"ColliderRadius": 20.0
+		},
+		{
+            "Comment": "bridge road",
+            "Position": [22.4399567,-1.3138622,128.060577],
+            "Rotation": 198.363739,
+            "Sides": ["All" ],
+            "Categories": ["Player"],
+            "Infiltration": "Customs",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "railway se",
+            "Position": [-144.339035,0.4612329,48.09517],
+            "Rotation": 187.5486,
+            "Sides": ["All" ],
+            "Categories": ["Player"],
+            "Infiltration": "Customs",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "crossroads",
+            "Position": [-333.1534,-0.466997683,-83.38944],
+            "Rotation": 180.6257,
+            "Sides": ["All" ],
+            "Categories": ["Player"],
+            "Infiltration": "Customs",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "trailer park",
+            "Position": [-335.457062,0.9378181,-208.16716],
+            "Rotation": 57.9959641,
+            "Sides": ["All" ],
+            "Categories": ["Player"],
+            "Infiltration": "Customs",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "ruaf",
+            "Position": [-13.7495337,-0.06593436,-140.7207],
+            "Rotation": 352.3784,
+            "Sides": ["All" ],
+            "Categories": ["Player"],
+            "Infiltration": "Customs",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "crack",
+            "Position": [59.55276,1.10392165,-176.737244],
+            "Rotation": 351.616638,
+            "Sides": ["All" ],
+            "Categories": ["Player"],
+            "Infiltration": "Customs",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "old gas",
+            "Position": [309.418243,2.29468632,-200.234711],
+            "Rotation": 353.522552,
+            "Sides": ["All" ],
+            "Categories": ["Player"],
+            "Infiltration": "Boiler Tanks",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "zb-012",
+            "Position": [458.579041,-2.68441749,-111.4931],
+            "Rotation": 98.7022552,
+            "Sides": ["All" ],
+            "Categories": ["Player"],
+            "Infiltration": "Boiler Tanks",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "zb-011",
+            "Position": [621.668457,-2.589046,-126.6661],
+            "Rotation": 98.60811,
+            "Sides": ["All" ],
+            "Categories": ["Player"],
+            "Infiltration": "Boiler Tanks",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "blockpost",
+            "Position": [651.1364,-0.3384057,-26.18527],
+            "Rotation": 276.405884,
+            "Sides": ["All" ],
+            "Categories": ["Player"],
+            "Infiltration": "Boiler Tanks",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "military cp",
+            "Position": [654.442566,0.534098268,127.7105],
+            "Rotation": 190.218964,
+            "Sides": ["All" ],
+            "Categories": ["Player"],
+            "Infiltration": "Boiler Tanks",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "military railroad",
+            "Position": [492.7269,2.61398172,221.4891],
+            "Rotation": 206.033356,
+            "Sides": ["All" ],
+            "Categories": ["Player"],
+            "Infiltration": "Boiler Tanks",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "car",
+            "Position": [179.729446,-1.67822325,213.957809],
+            "Rotation": 211.379562,
+            "Sides": ["All" ],
+            "Categories": ["Player"],
+            "Infiltration": "Customs",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "zb-013",
+            "Position": [198.969986,-2.81965113,-145.679657],
+            "Rotation": 345.1624,
+            "Sides": ["All" ],
+            "Categories": ["Player"],
+            "Infiltration": "Boiler Tanks",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+		{
+			"Comment": "bigmap",
+			"Position": [455.9983,4.880119,179.9267],
+			"Rotation": 267.535828,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [433.555725,11.2538614,202.018387],
+			"Rotation": 198.570526,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [394.3743,14.939045,205.809158],
+			"Rotation": 159.913315,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [350.638763,10.2889786,158.648453],
+			"Rotation": 219.390579,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [355.51825,1.26655972,88.85877],
+			"Rotation": 148.596,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [430.244141,4.87479448,79.86535],
+			"Rotation": 172.2502,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [319.150726,8.58449,102.595039],
+			"Rotation": 279.56427,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [220.132126,-0.6729133,62.8583],
+			"Rotation": 267.3252,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "bigmap",
+			"Position": [158.052277,0.108301178,39.1345634],
+			"Rotation": 268.779022,
+			"Sides": ["Savage","Usec","Bear"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		}
+	]
+}

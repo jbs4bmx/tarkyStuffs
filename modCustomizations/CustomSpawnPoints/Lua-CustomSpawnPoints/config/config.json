@@ -1,0 +1,57 @@
+{
+	"Enabled": true,
+	"PrintMapLoadLogs": true,
+	"DisableDefaultSpawnPoints":
+	{
+		"Bot":
+		{
+			"bigmap": true,
+			"tarkovstreets": true,
+			"factory4_day": true,
+			"factory4_night": true,
+			"interchange": true,
+			"laboratory": true,
+			"rezervbase": true,
+			"shoreline": true,
+			"woods": true,
+			"lighthouse": true
+		},
+
+		"Player":
+		{
+			"bigmap": true,
+			"tarkovstreets": true,
+			"factory4_day": true,
+			"factory4_night": true,
+			"interchange": true,
+			"laboratory": true,
+			"rezervbase": true,
+			"shoreline": true,
+			"woods": true,
+			"lighthouse": true
+		},
+
+		"Boss":
+		{
+			"bigmap": true,
+			"tarkovstreets": true,
+			"factory4_day": true,
+			"factory4_night": false,
+			"interchange": true,
+			"laboratory": false,
+			"rezervbase": true,
+			"shoreline": true,
+			"woods": true,
+			"lighthouse": true
+		}
+	},
+	"DisableFolderList": "!Readme,Streets_Chek15_Post,Streets_Roofs_Testing,Streets_Testing",
+
+	"DEBUG":
+	{
+		"PrintAddedSpawnPoints": false,
+		"NoFallDamage": false,
+		"UnlimitedRaidTime": false,
+		"UnlimitedStamina": false
+	}
+}

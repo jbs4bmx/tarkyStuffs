@@ -1,0 +1,3984 @@
+{
+    "SpawnZone Available List": "ZoneCenter, ZoneCenterBot, ZoneOLI, ZoneIDEA, ZoneRoad, ZoneIDEAPark, ZoneGoshan, ZonePowerStation, ZoneTrucks, ZoneOLIPark",
+    "Infiltration Available List": "MallSE, MallNW",
+
+    "ZoneCenter": [
+        {
+            "Comment": "Interchange center",
+            "Position": [-2.510307,27.0676689,-183.023911],
+            "Rotation": 177.012939,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [1.01577711,27.0864487,-175.12471],
+            "Rotation": 267.813721,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [-17.5309982,27.08649,-166.832733],
+            "Rotation": 121.356155,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [-41.26334,27.088583,-168.60408],
+            "Rotation": 88.191,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [-61.609848,27.0864944,-174.354492],
+            "Rotation": 85.2843552,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [-63.1190453,36.9467239,-173.906143],
+            "Rotation": 271.664673,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan center",
+            "Position": [-66.366806,27.0864716,52.2013969],
+            "Rotation": 181.244965,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan center",
+            "Position": [-79.09371,27.08648,52.9739151],
+            "Rotation": 123.398994,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan center",
+            "Position": [-58.97583,36.56751,64.41123],
+            "Rotation": 273.945557,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan center",
+            "Position": [-61.8283577,27.0864639,66.4188156],
+            "Rotation": 137.011719,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan center",
+            "Position": [-19.8780212,27.0890121,58.81654],
+            "Rotation": 280.8481,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [110.475456,21.4300022,-54.8247261],
+            "Rotation": 98.34471,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [97.2801,27.0954437,-86.01859],
+            "Rotation": 281.482758,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [62.0286827,27.0864773,-87.8874741],
+            "Rotation": 189.0494,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [94.99701,27.0954533,-133.1891],
+            "Rotation": 267.0537,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [65.60521,27.12658,-138.747467],
+            "Rotation": 71.6258,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [95.47851,27.0940018,-177.313889],
+            "Rotation": 273.27475,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [58.49932,27.0864735,-152.3217],
+            "Rotation": 178.483963,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [31.4608841,27.0864658,-139.54538],
+            "Rotation": 275.5119,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [8.468861,27.0864849,-140.6036],
+            "Rotation": 48.55197,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [50.542244,27.0864773,-87.64843],
+            "Rotation": 124.331505,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [35.9723053,27.0864811,-109.658905],
+            "Rotation": 158.441956,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [2.97618532,27.0864811,-106.545792],
+            "Rotation": 322.717163,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [-32.32837,27.08649,-107.726311],
+            "Rotation": 134.638733,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [-28.3914452,27.08649,-137.338181],
+            "Rotation": 345.043671,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [-55.6457062,27.1145344,-103.705841],
+            "Rotation": 85.17935,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [-2.41835451,27.0864735,-51.87602],
+            "Rotation": 2.691707,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [-1.56957924,27.0864754,-58.48696],
+            "Rotation": 182.42691,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [28.9982224,27.0864773,-79.59929],
+            "Rotation": 270.599,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [28.7773533,27.0864716,-27.0821171],
+            "Rotation": 233.686935,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [-7.705145,27.0864716,-31.95388],
+            "Rotation": 159.081436,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [7.816747,27.08647,-20.0380726],
+            "Rotation": 38.17536,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [43.15724,27.08647,-20.679245],
+            "Rotation": 1.94321442,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [19.0599136,27.0934353,31.1183739],
+            "Rotation": 171.6097,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [-13.4445772,27.086462,29.9395638],
+            "Rotation": 296.271576,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [-0.230370581,21.6095886,25.8677082],
+            "Rotation": 356.884216,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [70.20954,27.0864735,15.5383959],
+            "Rotation": 89.5666656,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [97.14234,27.09355,5.85335541],
+            "Rotation": 305.4562,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [94.9904861,27.093998,67.03748],
+            "Rotation": 253.94574,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [60.04287,27.0934467,42.60988],
+            "Rotation": 19.27098,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [8.812043,27.09362,37.2893372],
+            "Rotation": 340.8587,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [86.76831,36.5697327,66.86858],
+            "Rotation": 268.91626,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [97.25627,36.56974,35.13363],
+            "Rotation": 317.6525,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [97.62302,36.56974,3.24053478],
+            "Rotation": 184.041656,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [106.746979,36.55919,-52.7328644],
+            "Rotation": 96.2633362,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [96.63166,36.56975,-84.75767],
+            "Rotation": 265.618317,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [96.04194,36.577,-118.322006],
+            "Rotation": 289.660522,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [81.31466,36.5697632,-147.76503],
+            "Rotation": 350.007233,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [78.3016739,36.56976,-168.69136],
+            "Rotation": 271.176331,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [44.6937141,36.5774765,-176.991272],
+            "Rotation": 358.0698,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [20.8750858,36.56976,-150.972473],
+            "Rotation": 144.834534,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [10.74236,36.5697556,-135.597626],
+            "Rotation": 315.374969,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [-14.0014362,36.5697556,-121.479347],
+            "Rotation": 82.5299,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [-51.2174225,36.5918121,-124.070206],
+            "Rotation": 8.419143,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [-34.57321,36.5880051,-96.54191],
+            "Rotation": 291.5513,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [-39.8880653,36.5696526,-53.89697],
+            "Rotation": 94.71841,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [-47.80893,36.5938,8.906323],
+            "Rotation": 172.880356,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [-9.963085,36.5696335,19.8911686],
+            "Rotation": 146.303986,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [11.967804,36.56973,1.38142478],
+            "Rotation": 105.754707,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [31.1536884,37.45357,-15.9568911],
+            "Rotation": 249.002365,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [60.10921,36.579998,24.6482258],
+            "Rotation": 281.3407,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [-9.702901,36.5697021,52.1861763],
+            "Rotation": 347.573,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [2.403342,36.5696373,-46.6803322],
+            "Rotation": 244.484924,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [22.4636116,36.577,-79.18807],
+            "Rotation": 335.858582,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange center",
+            "Position": [42.41977,36.5696335,-50.8770065],
+            "Rotation": 98.55757,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+			"Comment": "Interchange",
+			"Position": [50.4706573,27.0864735,10.7176628],
+			"Rotation": 268.308929,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [88.9078751,27.093998,66.32599],
+			"Rotation": 186.179916,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-49.4364967,27.08647,29.7849922],
+			"Rotation": 198.35994,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-27.6039257,27.08648,-35.2448921],
+			"Rotation": 285.272522,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-14.461853,27.0935478,-74.98336],
+			"Rotation": 98.3637,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [61.2678642,27.0864773,-79.3062439],
+			"Rotation": 8.00655651,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		}
+    ],
+
+    "ZoneCenterBot": [
+        {
+            "Comment": "Interchange road centerbot",
+            "Position": [161.0207,21.3322983,-60.4418755],
+            "Rotation": 220.306366,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road centerbot",
+            "Position": [186.303329,21.32544,-97.99697],
+            "Rotation": 108.93985,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road centerbot",
+            "Position": [163.976,21.32544,-122.238876],
+            "Rotation": 190.9065,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road centerbot",
+            "Position": [137.355209,21.32544,-150.982483],
+            "Rotation": 155.137772,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road centerbot",
+            "Position": [194.5092,21.3254414,-162.520828],
+            "Rotation": 273.656281,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road centerbot",
+            "Position": [243.849533,21.2603035,-175.694031],
+            "Rotation": 128.5891,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road centerbot",
+            "Position": [285.323,21.08504,-134.18985],
+            "Rotation": 188.987061,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange centerbot",
+            "Position": [7.49387264,21.3255119,-138.796188],
+            "Rotation": 87.49333,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange centerbot",
+            "Position": [45.7245331,21.3255081,-116.039177],
+            "Rotation": 41.03429,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange centerbot",
+            "Position": [63.6272545,21.3504448,-128.6962],
+            "Rotation": 355.053162,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange centerbot",
+            "Position": [36.5181465,21.4313259,-82.57511],
+            "Rotation": 117.579178,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange centerbot",
+            "Position": [31.9419823,21.4313221,-54.2244377],
+            "Rotation": 278.5493,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange centerbot",
+            "Position": [-24.5172787,21.3254986,-34.8177452],
+            "Rotation": 123.21122,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange centerbot",
+            "Position": [-53.3120422,20.3433914,-49.43463],
+            "Rotation": 78.74448,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange centerbot",
+            "Position": [-45.76125,21.4228516,-66.4566],
+            "Rotation": 358.734741,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange centerbot",
+            "Position": [-122.688889,21.3255253,69.0213852],
+            "Rotation": 211.517578,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange centerbot",
+            "Position": [-136.930725,21.3254852,67.4443359],
+            "Rotation": 186.336349,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange centerbot",
+            "Position": [-179.626617,21.3254871,53.99881],
+            "Rotation": 169.8982,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange centerbot",
+            "Position": [-167.293228,21.3254929,13.9140949],
+            "Rotation": 99.806366,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange centerbot",
+            "Position": [-158.9618,21.3254986,-33.7182961],
+            "Rotation": 118.608231,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange centerbot",
+            "Position": [-135.967453,21.3255,-64.68827],
+            "Rotation": 211.06134,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange centerbot",
+            "Position": [-173.816,21.3255024,-75.20601],
+            "Rotation": 358.9318,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange centerbot",
+            "Position": [-195.904434,20.153717,-57.1688652],
+            "Rotation": 88.81268,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange centerbot",
+            "Position": [-182.584732,21.3255043,-88.95249],
+            "Rotation": 136.699463,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange centerbot",
+            "Position": [-135.650757,21.32551,-144.949524],
+            "Rotation": 279.875061,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange centerbot",
+            "Position": [-180.401367,21.3398113,-175.311935],
+            "Rotation": 42.5785065,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+			"Comment": "Interchange",
+			"Position": [-134.134109,28.3487377,135.711578],
+			"Rotation": 51.445446,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-134.2301,28.3487358,152.996445],
+			"Rotation": 62.189003,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-78.84948,27.0864677,189.618744],
+			"Rotation": 257.716248,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Player"],
+			"Infiltration": "MallSE",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		}
+    ],
+
+    "ZoneOLI": [
+        {
+            "Comment": "Interchange oli",
+            "Position": [72.2852249,27.0864811,75.81027],
+            "Rotation": 64.06243,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange oli",
+            "Position": [77.8028,21.4300041,74.12145],
+            "Rotation": 61.5351753,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange oli",
+            "Position": [99.6112061,21.4296112,76.07037],
+            "Rotation": 146.027527,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange oli",
+            "Position": [96.11111,21.4295349,101.687294],
+            "Rotation": 13.6478662,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange oli",
+            "Position": [76.4067154,27.0864754,115.722176],
+            "Rotation": 235.289276,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange oli",
+            "Position": [89.429,27.0864773,110.669327],
+            "Rotation": 192.56601,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange oli",
+            "Position": [89.928215,27.0864754,125.418785],
+            "Rotation": 267.767029,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange oli",
+            "Position": [86.5843658,27.1207027,141.450745],
+            "Rotation": 275.0948,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange oli",
+            "Position": [87.9279556,27.1067448,190.237717],
+            "Rotation": 268.4713,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange oli",
+            "Position": [64.7722,27.0864677,182.056183],
+            "Rotation": 220.524734,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange oli",
+            "Position": [21.9410343,27.0861874,192.134109],
+            "Rotation": 168.166946,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange oli",
+            "Position": [-18.9093838,27.0864677,183.266846],
+            "Rotation": 223.366989,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange oli",
+            "Position": [-28.863142,27.112793,163.953171],
+            "Rotation": 183.43837,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange oli",
+            "Position": [-61.06522,27.08647,177.177383],
+            "Rotation": 350.480469,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange oli",
+            "Position": [-76.97424,27.08642,173.770737],
+            "Rotation": 185.937073,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange oli",
+            "Position": [-75.43694,27.0864677,181.271072],
+            "Rotation": 251.723969,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange oli",
+            "Position": [-123.229614,27.0864677,189.3478],
+            "Rotation": 186.61322,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange oli",
+            "Position": [-91.83116,27.0890541,130.446609],
+            "Rotation": 214.127914,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange oli",
+            "Position": [-103.318359,27.089056,110.155647],
+            "Rotation": 178.036911,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange oli",
+            "Position": [-90.99123,27.0890579,101.071541],
+            "Rotation": 264.0086,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange oli",
+            "Position": [-91.4536,27.0890579,91.85912],
+            "Rotation": 94.79248,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange oli",
+            "Position": [-86.9835052,27.089056,110.9302],
+            "Rotation": 150.419128,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange oli",
+            "Position": [-76.4267349,27.0890541,124.522957],
+            "Rotation": 210.744629,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+			"Comment": "Interchange",
+			"Position": [-126.212021,27.0862,-173.2222],
+			"Rotation": 1.0653069,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Player"],
+			"Infiltration": "MallSE",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		}
+    ],
+
+    "ZoneIDEA": [
+        {
+            "Comment": "Interchange power idea",
+            "Position": [-202.3312,21.4955654,-184.31517],
+            "Rotation": 205.37587,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange power idea",
+            "Position": [-213.331543,21.32544,-146.764526],
+            "Rotation": 10.9334173,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea ideapark",
+            "Position": [-176.119171,21.3254337,-241.039154],
+            "Rotation": 294.565369,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea ideapark",
+            "Position": [-165.267487,21.3254356,-201.42981],
+            "Rotation": 212.688278,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea goshan",
+            "Position": [-196.821838,27.10671,-169.697723],
+            "Rotation": 200.201721,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea goshan",
+            "Position": [-184.9017,27.1066875,-130.135132],
+            "Rotation": 350.166962,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea goshan",
+            "Position": [-174.663269,27.086195,-172.352875],
+            "Rotation": 334.2568,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea goshan",
+            "Position": [-157.6974,27.0861969,-139.492981],
+            "Rotation": 216.4397,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea goshan",
+            "Position": [-139.365463,27.0964642,-183.1099],
+            "Rotation": 173.16893,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea goshan",
+            "Position": [-157.5895,27.1067142,-244.858536],
+            "Rotation": 255.209259,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea goshan",
+            "Position": [-151.806122,30.9601841,-285.525421],
+            "Rotation": 290.4997,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea",
+            "Position": [-132.251083,27.1067352,-313.285431],
+            "Rotation": 227.41095,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea",
+            "Position": [-77.77085,27.1067276,-313.408936],
+            "Rotation": 122.045509,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea",
+            "Position": [-112.9773,27.06768,-279.1774],
+            "Rotation": 337.0501,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea",
+            "Position": [-108.168373,27.0804443,-234.68895],
+            "Rotation": 262.159363,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea",
+            "Position": [-117.458832,27.2195,-203.499252],
+            "Rotation": 57.0818977,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea",
+            "Position": [-103.22081,27.0676727,-222.9809],
+            "Rotation": 83.0975,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea",
+            "Position": [-90.39633,27.0676765,-257.1671],
+            "Rotation": 180.738388,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea",
+            "Position": [-65.2805,27.1067219,-302.774872],
+            "Rotation": 6.23933935,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea",
+            "Position": [-26.4554558,27.2446766,-279.2593],
+            "Rotation": 110.781021,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea",
+            "Position": [-23.769659,27.0676823,-300.534515],
+            "Rotation": 31.30156,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea",
+            "Position": [-4.523691,27.0895653,-292.186523],
+            "Rotation": 160.807541,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea",
+            "Position": [13.4399691,27.0676823,-296.9269],
+            "Rotation": 236.389252,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea",
+            "Position": [6.248822,27.0839462,-256.27063],
+            "Rotation": 234.6774,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea",
+            "Position": [87.12411,32.1979027,-286.063171],
+            "Rotation": 337.92923,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea",
+            "Position": [61.32958,32.1979,-301.837341],
+            "Rotation": 285.5406,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea",
+            "Position": [88.15914,27.0991173,-246.464066],
+            "Rotation": 268.270721,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea",
+            "Position": [63.6627426,27.0676746,-241.1804],
+            "Rotation": 245.408371,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea",
+            "Position": [81.32757,27.0860043,-202.379822],
+            "Rotation": 194.793076,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea",
+            "Position": [66.4904861,27.0860214,-194.7504],
+            "Rotation": 243.097687,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+			"Comment": "Interchange",
+			"Position": [36.3825531,23.2175579,252.515717],
+			"Rotation": 44.94021,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Player"],
+			"Infiltration": "MallSE",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [41.7759361,21.325428,109.074127],
+			"Rotation": 2.70881367,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [64.7148,21.3254261,130.228348],
+			"Rotation": 84.94837,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [87.6680756,21.4818764,146.006866],
+			"Rotation": 182.745667,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Player"],
+			"Infiltration": "MallSE",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [83.7592,21.4300022,86.25256],
+			"Rotation": 279.1256,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [87.54165,27.0864735,133.168152],
+			"Rotation": 275.454742,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [81.69771,27.08629,152.25351],
+			"Rotation": 107.829193,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [74.4639,27.08629,155.627548],
+			"Rotation": 87.81675,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Player"],
+			"Infiltration": "MallSE",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		}
+    ],
+
+    "ZoneRoad": [
+        {
+            "Comment": "Interchange road",
+            "Position": [101.357613,21.32544,278.86792],
+            "Rotation": 97.52059,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road",
+            "Position": [104.273613,21.3254356,301.5339],
+            "Rotation": 97.10076,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road",
+            "Position": [133.756226,21.3254356,287.0899],
+            "Rotation": 255.364258,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road",
+            "Position": [161.0485,21.3254375,285.218872],
+            "Rotation": 186.639374,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road",
+            "Position": [173.5371,21.4661064,240.941864],
+            "Rotation": 135.906937,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road",
+            "Position": [237.010132,20.7780571,289.456818],
+            "Rotation": 202.840881,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road",
+            "Position": [269.57077,21.1262035,238.351089],
+            "Rotation": 199.328522,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road",
+            "Position": [281.119232,21.3254375,166.976563],
+            "Rotation": 208.380615,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road olipark",
+            "Position": [193.3694,21.3254356,166.591064],
+            "Rotation": 216.799789,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road olipark",
+            "Position": [122.508385,21.55515,144.433182],
+            "Rotation": 137.601089,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road olipark",
+            "Position": [180.268417,21.3254337,97.3507462],
+            "Rotation": 224.764786,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road olipark",
+            "Position": [166.46875,21.3254414,55.5787468],
+            "Rotation": 227.233475,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road olipark",
+            "Position": [213.853455,20.4601727,47.961],
+            "Rotation": 133.846832,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road olipark",
+            "Position": [180.958984,21.489172,-5.10248137],
+            "Rotation": 188.848,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road olipark",
+            "Position": [135.969772,21.4444122,-5.08431435],
+            "Rotation": 319.6648,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road centerbot",
+            "Position": [161.0207,21.3322983,-60.4418755],
+            "Rotation": 220.306366,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road centerbot",
+            "Position": [186.303329,21.32544,-97.99697],
+            "Rotation": 108.93985,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road centerbot",
+            "Position": [163.976,21.32544,-122.238876],
+            "Rotation": 190.9065,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road centerbot",
+            "Position": [137.355209,21.32544,-150.982483],
+            "Rotation": 155.137772,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road centerbot",
+            "Position": [194.5092,21.3254414,-162.520828],
+            "Rotation": 273.656281,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road centerbot",
+            "Position": [243.849533,21.2603035,-175.694031],
+            "Rotation": 128.5891,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road centerbot",
+            "Position": [285.323,21.08504,-134.18985],
+            "Rotation": 188.987061,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [329.594666,19.9986076,-167.844269],
+            "Rotation": 127.959114,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [368.589447,18.2784328,-214.877487],
+            "Rotation": 214.663849,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [407.890259,15.7734528,-243.221542],
+            "Rotation": 201.000046,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [439.6286,17.04579,-258.3949],
+            "Rotation": 225.245758,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [499.765228,18.32599,-243.781464],
+            "Rotation": 255.788483,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [514.457031,18.32786,-300.6484],
+            "Rotation": 248.311737,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [515.3568,18.22901,-360.937561],
+            "Rotation": 322.758636,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [482.1637,19.7327843,-354.746765],
+            "Rotation": 193.625137,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [432.068146,17.528677,-375.420166],
+            "Rotation": 188.2104,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [393.5075,18.5180244,-401.832],
+            "Rotation": 318.267761,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [360.655457,18.9798717,-407.58255],
+            "Rotation": 259.554382,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [352.7623,18.3259869,-354.2516],
+            "Rotation": 323.879,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [328.504425,19.5138836,-283.945068],
+            "Rotation": 309.972626,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [290.517883,18.3802776,-318.813873],
+            "Rotation": 359.937622,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [281.6415,21.2727222,-370.231323],
+            "Rotation": 292.726868,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [239.3925,20.23755,-393.800446],
+            "Rotation": 298.712982,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [211.265335,18.6003075,-356.209076],
+            "Rotation": 303.1881,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [262.55722,21.1021729,-346.66745],
+            "Rotation": 2.27054119,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [274.657776,21.3254375,-438.952942],
+            "Rotation": 352.1702,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [183.0736,21.50146,-288.551147],
+            "Rotation": 324.048431,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [154.037781,21.7009659,-247.629074],
+            "Rotation": 294.500824,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [161.770538,21.3254356,-204.108124],
+            "Rotation": 350.138519,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [137.922668,21.4584351,-320.6935],
+            "Rotation": 96.95923,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [103.639053,19.5486984,-358.903656],
+            "Rotation": 271.619476,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [102.152351,23.6308517,-419.98468],
+            "Rotation": 359.657074,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "car",
+            "Position": [-249.219376,21.3254375,-367.069641],
+            "Rotation": 83.49855,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "MallNW",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "hole",
+            "Position": [-223.766388,21.3254375,-40.74291],
+            "Rotation": 45.5866623,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "MallSE",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "safe",
+            "Position": [-51.43405,21.3254585,46.2449951],
+            "Rotation": 56.89088,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "MallSE",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "emercom",
+            "Position": [-323.304077,21.3254337,272.6761],
+            "Rotation": 157.0958,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "MallSE",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "barricade sw",
+            "Position": [273.0079,21.3254356,392.968628],
+            "Rotation": 142.994965,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "MallSE",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "scav camp",
+            "Position": [283.406067,21.32544,-23.490818],
+            "Rotation": 192.598953,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "MallNW",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "railway nw",
+            "Position": [468.5531,18.66784,-435.249146],
+            "Rotation": 355.108551,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "MallNW",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "north slope",
+            "Position": [66.94942,23.875515,-420.190674],
+            "Rotation": 350.62677,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "MallNW",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+            "Comment": "w railway",
+            "Position": [366.242157,17.996376,-123.234344],
+            "Rotation": 169.290588,
+            "Sides": ["All"],
+            "Categories": ["Player"],
+            "Infiltration": "MallNW",
+            "DelayToCanSpawnSec": 3,
+            "ColliderRadius": 0.0
+        },
+        {
+			"Comment": "Interchange",
+			"Position": [-115.226257,27.0864773,109.681664],
+			"Rotation": 357.0441,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-134.134109,28.3487377,135.711578],
+			"Rotation": 51.445446,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Player"],
+			"Infiltration": "MallSE",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-134.2301,28.3487358,152.996445],
+			"Rotation": 62.189003,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-78.84948,27.0864677,189.618744],
+			"Rotation": 257.716248,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-138.800659,27.0861816,39.6158562],
+			"Rotation": 297.0208,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-158.9279,27.08618,-11.7684517],
+			"Rotation": 129.144333,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-128.887283,27.08618,65.43349],
+			"Rotation": 179.358353,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-85.33816,27.086195,66.2309],
+			"Rotation": 213.2478,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Player"],
+			"Infiltration": "MallSE",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-106.284843,27.0861874,24.55038],
+			"Rotation": 88.99241,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-192.502426,23.7865486,-50.5341721],
+			"Rotation": 175.664459,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-161.420639,27.0861912,-113.526924],
+			"Rotation": 99.4187851,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-85.6710358,27.086195,-173.534714],
+			"Rotation": 357.85968,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		}
+    ],
+
+    "ZoneIDEAPark": [
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [329.594666,19.9986076,-167.844269],
+            "Rotation": 127.959114,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [368.589447,18.2784328,-214.877487],
+            "Rotation": 214.663849,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [407.890259,15.7734528,-243.221542],
+            "Rotation": 201.000046,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [439.6286,17.04579,-258.3949],
+            "Rotation": 225.245758,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [499.765228,18.32599,-243.781464],
+            "Rotation": 255.788483,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [514.457031,18.32786,-300.6484],
+            "Rotation": 248.311737,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [515.3568,18.22901,-360.937561],
+            "Rotation": 322.758636,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [482.1637,19.7327843,-354.746765],
+            "Rotation": 193.625137,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [432.068146,17.528677,-375.420166],
+            "Rotation": 188.2104,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [393.5075,18.5180244,-401.832],
+            "Rotation": 318.267761,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [360.655457,18.9798717,-407.58255],
+            "Rotation": 259.554382,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [352.7623,18.3259869,-354.2516],
+            "Rotation": 323.879,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [328.504425,19.5138836,-283.945068],
+            "Rotation": 309.972626,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [290.517883,18.3802776,-318.813873],
+            "Rotation": 359.937622,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [281.6415,21.2727222,-370.231323],
+            "Rotation": 292.726868,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [239.3925,20.23755,-393.800446],
+            "Rotation": 298.712982,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [211.265335,18.6003075,-356.209076],
+            "Rotation": 303.1881,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [262.55722,21.1021729,-346.66745],
+            "Rotation": 2.27054119,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [274.657776,21.3254375,-438.952942],
+            "Rotation": 352.1702,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [183.0736,21.50146,-288.551147],
+            "Rotation": 324.048431,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [154.037781,21.7009659,-247.629074],
+            "Rotation": 294.500824,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [161.770538,21.3254356,-204.108124],
+            "Rotation": 350.138519,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [137.922668,21.4584351,-320.6935],
+            "Rotation": 96.95923,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [103.639053,19.5486984,-358.903656],
+            "Rotation": 271.619476,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road ideapark",
+            "Position": [102.152351,23.6308517,-419.98468],
+            "Rotation": 359.657074,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange ideapark power",
+            "Position": [41.2923431,25.8414879,-373.2776],
+            "Rotation": 25.201395,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange ideapark power",
+            "Position": [-14.8676262,24.80263,-371.239655],
+            "Rotation": 311.0473,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange ideapark power",
+            "Position": [-49.8407059,21.3254356,-349.150421],
+            "Rotation": 3.79836,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange ideapark power",
+            "Position": [-91.8221,21.3254414,-350.2048],
+            "Rotation": 339.844147,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange ideapark power",
+            "Position": [-146.2981,21.3254375,-342.523346],
+            "Rotation": 357.328278,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea ideapark",
+            "Position": [-176.119171,21.3254337,-241.039154],
+            "Rotation": 294.565369,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea ideapark",
+            "Position": [-165.267487,21.3254356,-201.42981],
+            "Rotation": 212.688278,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange ideapark",
+            "Position": [50.6726723,21.51447,-258.7254],
+            "Rotation": 294.0251,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange ideapark",
+            "Position": [24.2735977,21.37218,-257.073853],
+            "Rotation": 192.291336,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange ideapark",
+            "Position": [-7.64407635,21.3255253,-252.7446],
+            "Rotation": 23.7414875,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange ideapark",
+            "Position": [-4.861325,21.32552,-202.87117],
+            "Rotation": 99.4954758,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange ideapark",
+            "Position": [-24.1128082,21.3255157,-173.3738],
+            "Rotation": 99.7914658,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange ideapark",
+            "Position": [-57.048687,21.3255157,-174.8864],
+            "Rotation": 297.967224,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange ideapark",
+            "Position": [-75.94858,21.3255177,-183.607208],
+            "Rotation": 231.499,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange ideapark",
+            "Position": [-60.408802,21.3405132,-243.405731],
+            "Rotation": 274.3211,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange ideapark",
+            "Position": [-121.063751,21.354763,-240.322327],
+            "Rotation": 92.66268,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange ideapark",
+            "Position": [-104.609375,21.32553,-295.272766],
+            "Rotation": 134.0699,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "ZoneGoshan": [
+        {
+            "Comment": "Interchange idea goshan",
+            "Position": [-196.821838,27.10671,-169.697723],
+            "Rotation": 200.201721,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea goshan",
+            "Position": [-184.9017,27.1066875,-130.135132],
+            "Rotation": 350.166962,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea goshan",
+            "Position": [-174.663269,27.086195,-172.352875],
+            "Rotation": 334.2568,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea goshan",
+            "Position": [-157.6974,27.0861969,-139.492981],
+            "Rotation": 216.4397,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea goshan",
+            "Position": [-139.365463,27.0964642,-183.1099],
+            "Rotation": 173.16893,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea goshan",
+            "Position": [-157.5895,27.1067142,-244.858536],
+            "Rotation": 255.209259,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange idea goshan",
+            "Position": [-151.806122,30.9601841,-285.525421],
+            "Rotation": 290.4997,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-65.51484,29.0601273,-172.553482],
+            "Rotation": 272.190918,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-79.15374,27.0865059,-154.5863],
+            "Rotation": 87.3085861,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-66.17472,27.0864983,-161.158508],
+            "Rotation": 13.0883636,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-85.64715,27.0861931,-144.537567],
+            "Rotation": 347.36203,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-96.31245,27.0861969,-173.07576],
+            "Rotation": 344.983032,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-115.517006,27.0861988,-165.492752],
+            "Rotation": 356.0868,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-128.8653,27.0862026,-155.828674],
+            "Rotation": 23.8903084,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-137.111267,27.0862,-123.506218],
+            "Rotation": 280.880127,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-161.802658,27.0861931,-136.064209],
+            "Rotation": 28.0623341,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-133.957825,27.0862026,-148.696014],
+            "Rotation": 312.948059,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-164.509247,27.08619,-111.387329],
+            "Rotation": 53.2249336,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-162.657333,27.0861874,-81.0920639],
+            "Rotation": 87.8529358,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-174.482468,27.0861816,-58.7790527],
+            "Rotation": 181.4719,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-167.9587,27.0861816,-52.2304573],
+            "Rotation": 16.7669811,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-195.654953,26.9359779,-57.027874],
+            "Rotation": 43.614933,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-186.073822,27.1066437,-20.0831966],
+            "Rotation": 1.23960018,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-178.633621,27.2938614,11.4647],
+            "Rotation": 28.8312969,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-158.02684,27.0861759,40.67246],
+            "Rotation": 182.070755,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-133.378555,27.0861816,52.51543],
+            "Rotation": 275.397339,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-140.363632,29.7347717,67.2396],
+            "Rotation": 275.607422,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-136.982025,27.0861816,39.70627],
+            "Rotation": 271.1979,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-160.767273,27.0861759,24.4791679],
+            "Rotation": 71.06628,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-163.053513,27.08618,-13.2553444],
+            "Rotation": 90.7531,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-137.809341,27.0861855,4.846431],
+            "Rotation": 102.615616,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-128.1875,27.0861835,40.73001],
+            "Rotation": 105.29937,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-110.750954,27.0861874,59.41894],
+            "Rotation": 149.1117,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-84.31873,27.086195,67.33155],
+            "Rotation": 226.1339,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan",
+            "Position": [-67.76782,27.0864811,20.592],
+            "Rotation": 261.002045,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan center",
+            "Position": [-66.366806,27.0864716,52.2013969],
+            "Rotation": 181.244965,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan center",
+            "Position": [-79.09371,27.08648,52.9739151],
+            "Rotation": 123.398994,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan center",
+            "Position": [-58.97583,36.56751,64.41123],
+            "Rotation": 273.945557,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan center",
+            "Position": [-61.8283577,27.0864639,66.4188156],
+            "Rotation": 137.011719,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange goshan center",
+            "Position": [-19.8780212,27.0890121,58.81654],
+            "Rotation": 280.8481,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+			"Comment": "Interchange",
+			"Position": [-192.502426,23.7865486,-50.5341721],
+			"Rotation": 175.664459,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-161.420639,27.0861912,-113.526924],
+			"Rotation": 99.4187851,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-85.6710358,27.086195,-173.534714],
+			"Rotation": 357.85968,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-60.2637138,27.0864964,-143.948013],
+			"Rotation": 182.3741,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-13.5484219,27.0864887,-169.2678],
+			"Rotation": 92.00827,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-26.6718445,21.3255157,-173.811874],
+			"Rotation": 7.43980742,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [88.06721,27.0860062,-217.825821],
+			"Rotation": 260.6831,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [90.05273,32.1979,-301.8812],
+			"Rotation": 273.062622,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [88.255394,27.0845013,-291.251953],
+			"Rotation": 269.280273,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [89.0721054,21.4300175,-273.935516],
+			"Rotation": 5.3040247,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [119.490204,21.3767948,-246.579849],
+			"Rotation": 272.5141,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		}
+    ],
+
+    "ZonePowerStation": [
+        {
+            "Comment": "Interchange ideapark power",
+            "Position": [41.2923431,25.8414879,-373.2776],
+            "Rotation": 25.201395,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange ideapark power",
+            "Position": [-14.8676262,24.80263,-371.239655],
+            "Rotation": 311.0473,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange ideapark power",
+            "Position": [-49.8407059,21.3254356,-349.150421],
+            "Rotation": 3.79836,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange ideapark power",
+            "Position": [-91.8221,21.3254414,-350.2048],
+            "Rotation": 339.844147,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange ideapark power",
+            "Position": [-146.2981,21.3254375,-342.523346],
+            "Rotation": 357.328278,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange power",
+            "Position": [-217.214157,30.3084145,-358.0223],
+            "Rotation": 232.723862,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange power",
+            "Position": [-206.442352,30.30841,-344.964142],
+            "Rotation": 4.32727146,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange power",
+            "Position": [-183.990021,21.32544,-396.608],
+            "Rotation": 18.5128975,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange power",
+            "Position": [-231.2103,21.3254375,-308.9904],
+            "Rotation": 167.571732,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange power",
+            "Position": [-245.463028,21.3285656,-304.401276],
+            "Rotation": 4.2181983,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange power",
+            "Position": [-250.97699,21.4202766,-293.777435],
+            "Rotation": 74.09781,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange power",
+            "Position": [-255.586,21.34592,-257.35437],
+            "Rotation": 64.32107,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange power idea",
+            "Position": [-202.3312,21.4955654,-184.31517],
+            "Rotation": 205.37587,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange power idea",
+            "Position": [-213.331543,21.32544,-146.764526],
+            "Rotation": 10.9334173,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "ZoneTrucks": [
+        {
+            "Comment": "Interchange trucks",
+            "Position": [-194.3669,21.3255062,-96.2254944],
+            "Rotation": 205.091858,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks",
+            "Position": [-209.123611,21.3254356,-72.13544],
+            "Rotation": 356.965759,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks",
+            "Position": [-222.717346,21.32544,-19.62422],
+            "Rotation": 62.7226257,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks",
+            "Position": [-193.665,21.325489,37.2738762],
+            "Rotation": 181.0173,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks",
+            "Position": [-237.585648,21.32544,50.2217636],
+            "Rotation": 24.8129673,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks",
+            "Position": [-252.986,21.3254414,96.37855],
+            "Rotation": 56.2578926,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks",
+            "Position": [-263.114532,21.3740368,120.571648],
+            "Rotation": 18.4975567,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks",
+            "Position": [-307.7355,22.6146374,146.343964],
+            "Rotation": 34.7384071,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks",
+            "Position": [-332.212219,23.5035,180.4418],
+            "Rotation": 70.78004,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks",
+            "Position": [-354.773132,24.3353138,222.440567],
+            "Rotation": 100.51548,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks",
+            "Position": [-327.230133,21.32544,268.3277],
+            "Rotation": 117.5124,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks",
+            "Position": [-310.520325,21.32544,275.027954],
+            "Rotation": 148.296051,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks",
+            "Position": [-257.546326,23.1016083,256.4945],
+            "Rotation": 145.742279,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks",
+            "Position": [-205.140442,25.2854443,272.3689],
+            "Rotation": 160.207642,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks",
+            "Position": [-160.456879,21.3254414,193.1753],
+            "Rotation": 269.397339,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks",
+            "Position": [-145.797318,27.10662,204.778656],
+            "Rotation": 47.2225876,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks",
+            "Position": [-134.67981,27.1066189,200.5741],
+            "Rotation": 217.065948,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks",
+            "Position": [-108.877953,21.3254375,209.376831],
+            "Rotation": 107.008331,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks olipark",
+            "Position": [-58.9752274,25.03692,299.777],
+            "Rotation": 160.886124,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks olipark",
+            "Position": [13.5369244,21.3254375,257.604156],
+            "Rotation": 153.18718,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks olipark",
+            "Position": [62.8979454,21.32544,247.155273],
+            "Rotation": 172.220291,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        }
+    ],
+
+    "ZoneOLIPark": [
+        {
+            "Comment": "Interchange road olipark",
+            "Position": [193.3694,21.3254356,166.591064],
+            "Rotation": 216.799789,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road olipark",
+            "Position": [122.508385,21.55515,144.433182],
+            "Rotation": 137.601089,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road olipark",
+            "Position": [180.268417,21.3254337,97.3507462],
+            "Rotation": 224.764786,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road olipark",
+            "Position": [166.46875,21.3254414,55.5787468],
+            "Rotation": 227.233475,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road olipark",
+            "Position": [213.853455,20.4601727,47.961],
+            "Rotation": 133.846832,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road olipark",
+            "Position": [180.958984,21.489172,-5.10248137],
+            "Rotation": 188.848,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange road olipark",
+            "Position": [135.969772,21.4444122,-5.08431435],
+            "Rotation": 319.6648,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange olipark",
+            "Position": [41.92291,21.4313183,-28.5615444],
+            "Rotation": 72.910965,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange olipark",
+            "Position": [51.6184349,21.33948,4.778165],
+            "Rotation": 111.160515,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange olipark",
+            "Position": [38.42346,21.3254528,40.93825],
+            "Rotation": 265.032043,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange olipark",
+            "Position": [37.5049133,21.32543,92.56039],
+            "Rotation": 280.644135,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange olipark",
+            "Position": [60.3580055,21.3254242,153.259064],
+            "Rotation": 282.0532,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange olipark",
+            "Position": [-10.3017254,21.32542,170.002457],
+            "Rotation": 159.88353,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange olipark",
+            "Position": [-21.6662064,21.3398438,120.230255],
+            "Rotation": 131.8858,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange olipark",
+            "Position": [-51.61498,21.4300022,81.39655],
+            "Rotation": 141.137726,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange olipark",
+            "Position": [-7.698335,21.50016,57.3714066],
+            "Rotation": 155.473709,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange olipark",
+            "Position": [-0.643775463,21.3478222,8.942982],
+            "Rotation": 57.3454437,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange olipark",
+            "Position": [-13.7298841,21.3254585,8.93275452],
+            "Rotation": 13.9852324,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange olipark",
+            "Position": [-33.4653625,21.3254757,46.6070328],
+            "Rotation": 43.7040062,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange olipark",
+            "Position": [-71.58174,21.3255253,71.95505],
+            "Rotation": 11.0485144,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange olipark",
+            "Position": [-63.34488,21.32552,130.725372],
+            "Rotation": 332.335,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange olipark",
+            "Position": [-63.5281525,21.3255138,175.428314],
+            "Rotation": 321.2386,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange olipark",
+            "Position": [-101.141853,21.3255119,180.960037],
+            "Rotation": 186.030746,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange olipark",
+            "Position": [-131.571014,21.3255157,160.1622],
+            "Rotation": 115.866821,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange olipark",
+            "Position": [-117.279694,21.32552,126.725868],
+            "Rotation": 2.34170461,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange olipark",
+            "Position": [-107.531151,21.3255234,89.63683],
+            "Rotation": 112.1257,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks olipark",
+            "Position": [-58.9752274,25.03692,299.777],
+            "Rotation": 160.886124,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks olipark",
+            "Position": [13.5369244,21.3254375,257.604156],
+            "Rotation": 153.18718,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+            "Comment": "Interchange trucks olipark",
+            "Position": [62.8979454,21.32544,247.155273],
+            "Rotation": 172.220291,
+            "Sides": ["All"],
+            "Categories": ["Bot"],
+            "Infiltration": "",
+            "DelayToCanSpawnSec": 5,
+            "ColliderRadius": 10.0
+        },
+        {
+			"Comment": "Interchange",
+			"Position": [83.25107,27.0862885,162.148636],
+			"Rotation": 262.855133,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [23.3293324,27.0864658,190.719162],
+			"Rotation": 201.780273,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-33.7513466,27.0864677,187.276611],
+			"Rotation": 187.022141,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-69.25263,27.0864677,184.7094],
+			"Rotation": 206.1744,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-93.0773239,27.0864716,156.465],
+			"Rotation": 110.012741,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-95.50335,27.089056,117.960243],
+			"Rotation": 11.806222,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-92.0958557,27.0890579,106.733284],
+			"Rotation": 140.368866,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		},
+		{
+			"Comment": "Interchange",
+			"Position": [-115.226257,27.0864773,109.681664],
+			"Rotation": 357.0441,
+			"Sides": ["Usec","Bear","Savage"],
+			"Categories": ["Bot"],
+			"Infiltration": "",
+			"DelayToCanSpawnSec": 3,
+			"ColliderRadius": 0.0
+		}
+    ]
+}
