@@ -3,7 +3,7 @@
 ## What is this?
 This is an enhanced modification of Custom Spawn Points by Lua. I have added all custom spawn points of other authors to the main configuration files of this mod.
 
-This is not for the faint of heart. The diverse spawn options for bots/players means that you could run into enemies nearly everywhere on each of these maps.
+This is not for the faint of heart. The diverse spawn options for bots/players means that you could run into enemies nearly everywhere on each of these maps (hopefully?).
 
 
 ## What did you do?
