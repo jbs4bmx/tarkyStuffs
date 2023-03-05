@@ -5,6 +5,8 @@ This is an enhanced modification of Custom Spawn Points by Lua. I have added all
 
 This is not for the faint of heart. The diverse spawn options for bots/players means that you could run into enemies nearly everywhere on each of these maps (hopefully?).
 
+Current supported AKI version: 3.5.0
+
 <pre>
 
 
