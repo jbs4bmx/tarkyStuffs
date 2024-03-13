@@ -25,6 +25,7 @@ Both scripts include values in their comments for configurations of processor af
    - For non-Hyper-Threaded CPUs or CPUs where Hyper-Threading has been disabled.
    - Enables every other "core" starting with either Core 0 or Core 1.
 
+> Note: Affinity feature is currently not in place for Intel's PE core CPUs. ETA:Unknown
 
 
 ### INSTRUCTIONS:
@@ -36,31 +37,29 @@ Pin the shortcut to your taskbar, Start Menu, or move it to your desktop for eas
 
 ### CPU AFFINITY CHARTS
 ** Non-Hyper-Threaded CPUs or CPUs with HT Disabled **
-| CORES   | AFFINITY       | CORES SET                                              |
-|---------|---------------:|--------------------------------------------------------|
-| 2-CORE  | 1<br>2         | (CPU 0)<br>(CPU 1)                                     |
-| 4-CORE  | 5<br>10        | (CPUs 0,2)<br>(CPUs 1,3)                               |
-| 6-CORE  | 21<br>42       | (CPUs 0,2,4)<br>(CPUs 1,3,5)                           |
-| 8-CORE  | 85<br>170      | (CUPs 0,2,4,6)<br>(CPUs 1,3,5,7)                       |
-| 10-CORE | 341<br>682     | (CUPs 0,2,4,6,8)<br>(CPUs 1,3,5,7,9)                   |
-| 12-CORE | 1365<br>2730   | (CUPs 0,2,4,6,8,10)<br>(CPUs 1,3,5,7,9,11)             |
-| 14-CORE | 5461<br>10922  | (CUPs 0,2,4,6,8,10,12)<br>(CPUs 1,3,5,7,9,11,13)       |
-| 16-CORE | 21845<br>43690 | (CUPs 0,2,4,6,8,10,12,14)<br>(CPUs 1,3,5,7,9,11,13,15) |
-
+| CORES   | AFFINITY       | CPU CORES                                              | CORE TYPE            |
+|---------|---------------:|--------------------------------------------------------|----------------------|
+| 2-CORE  | 1<br>2         | (0)<br>(1)                                             | Physical<br>Physical |
+| 4-CORE  | 5<br>10        | (0,2)<br>(1,3)                                         | Physical<br>Physical |
+| 6-CORE  | 21<br>42       | (0,2,4)<br>(1,3,5)                                     | Physical<br>Physical |
+| 8-CORE  | 85<br>170      | (0,2,4,6)<br>(1,3,5,7)                                 | Physical<br>Physical |
+| 10-CORE | 341<br>682     | (0,2,4,6,8)<br>(1,3,5,7,9)                             | Physical<br>Physical |
+| 12-CORE | 1365<br>2730   | (0,2,4,6,8,10)<br>(1,3,5,7,9,11)                       | Physical<br>Physical |
+| 14-CORE | 5461<br>10922  | (0,2,4,6,8,10,12)<br>(1,3,5,7,9,11,13)                 | Physical<br>Physical |
+| 16-CORE | 21845<br>43690 | (0,2,4,6,8,10,12,14)<br>(1,3,5,7,9,11,13,15)           | Physical<br>Physical |
+<br>
 
 ** Hyper-Threaded CPUs **
-| CORES   | AFFINITY                 | CORES SET                                                                                              |
-|---------|-------------------------:|--------------------------------------------------------------------------------------------------------|
-| 2-CORE  | 5<br>10                  | (CPUs 0,2)<br>(CPUs 1,3)                                                                               |
-| 4-CORE  | 85<br>170                | (CPUs 0,2,4,6)<br>(CPUs 1,3,5,7)                                                                       |
-| 6-CORE  | 1365<br>2730             | (CPUs 0,2,4,6,8,10)<br>(CPUs 1,3,5,7,9,11)                                                             |
-| 8-CORE  | 21845<br>43690           | (CPUs 0,2,4,6,8,10,12,14)<br>(CPUs 1,3,5,7,9,11,13,15)                                                 |
-| 10-CORE | 349525<br>699050         | (CPUs 0,2,4,6,8,10,12,14,16,18)<br>(CPUs 1,3,5,7,9,11,13,15,17,19)                                     |
-| 12-CORE | 5592405<br>11184810      | (CPUs 0,2,4,6,8,10,12,14,16,18,20,22)<br>(CPUs 1,3,5,7,9,11,13,15,17,19,21,23)                         |
-| 14-CORE | 89478485<br>178956970    | (CPUs 0,2,4,6,8,10,12,14,16,18,20,22,24,26)<br>(CPUs 1,3,5,7,9,11,13,15,17,19,21,23,25,27)             |
-| 16-CORE | 1431655765<br>2863311530 | (CPUs 0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30)<br>(CPUs 1,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31) |
-
+| CORES   | AFFINITY                 | CPU CORES                                                                                    | CORE TYPE           |
+|---------|-------------------------:|----------------------------------------------------------------------------------------------|---------------------|
+| 2-CORE  | 5<br>10                  | (0,2)<br>(1,3)                                                                               | Physical<br>Virtual |
+| 4-CORE  | 85<br>170                | (0,2,4,6)<br>(1,3,5,7)                                                                       | Physical<br>Virtual |
+| 6-CORE  | 1365<br>2730             | (0,2,4,6,8,10)<br>(1,3,5,7,9,11)                                                             | Physical<br>Virtual |
+| 8-CORE  | 21845<br>43690           | (0,2,4,6,8,10,12,14)<br>(1,3,5,7,9,11,13,15)                                                 | Physical<br>Virtual |
+| 10-CORE | 349525<br>699050         | (0,2,4,6,8,10,12,14,16,18)<br>(1,3,5,7,9,11,13,15,17,19)                                     | Physical<br>Virtual |
+| 12-CORE | 5592405<br>11184810      | (0,2,4,6,8,10,12,14,16,18,20,22)<br>(1,3,5,7,9,11,13,15,17,19,21,23)                         | Physical<br>Virtual |
+| 14-CORE | 89478485<br>178956970    | (0,2,4,6,8,10,12,14,16,18,20,22,24,26)<br>(1,3,5,7,9,11,13,15,17,19,21,23,25,27)             | Physical<br>Virtual |
+| 16-CORE | 1431655765<br>2863311530 | (0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30)<br>(1,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31) | Physical<br>Virtual |
 
 
 ### Thanks for looking!
-
