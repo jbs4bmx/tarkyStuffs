@@ -13,7 +13,6 @@ REM SPT-AKI START UP SCRIPT
 :: OUTPUTS
 ::    {ScriptDirectory}\Start_SPT-AKI.log
 :: NOTES
-::    File Name:      | Start_SPT-AKI.bat
 ::    Author:         | jbs4bmx
 ::    Date:           | [ddMMyyyy] 18.10.2020
 ::    Edit:           | [ddMMyyyy] 13.03.2024
