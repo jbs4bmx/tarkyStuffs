@@ -20,7 +20,7 @@ REM SPT-AKI START UP SCRIPT
 ::    Help Requests:  | https://discordapp.com/users/510535592833056777
 ::    License:        | https://opensource.org/licenses/MIT | Copyright (c) 2024 jbs4bmx
 ::                    | -----------------------------------------------------------------------------------
-::    Special Note:   | Processor Affinity | without Hyper-Threading or CPUs with Hyper-Threading disabled) (SET ON LINE 216)
+::    Special Note:   | Processor Affinity for non-Hyper-Threaded CPUs (SET ON LINE 216)
 ::                    | -----------------------------------------------------------------------------------
 ::                    | CORES |  Affinity  |      CPU Cores      | Core Type
 ::                    |-------|------------|---------------------|-----------------------------------------
