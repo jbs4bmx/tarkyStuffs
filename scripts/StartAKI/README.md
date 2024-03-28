@@ -11,7 +11,7 @@ These are startup scripts to aid in the launching of SPT's server and launcher. 
 CPU affinity can be edited within the script and I have included values for everything from 2-core to 16-core CPUs.
 If you need to calculate your own values, I highly recommend this [Processor Affinity Calculator](https://www.gfsg.co.uk/affinitymask.aspx?SubMenuItem=utilties).
 
-![Example Image](./AKI_Startup_Script.png)
+![Example Image](./img/Start-AKI_script_by_jbs4bmx.png)
 
 ### PRODUCT DETAILS
 There are two scripts.
