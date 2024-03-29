@@ -12,9 +12,9 @@ The script creates 3 folders inside:
 ## Preview
 
 This is what you'll see if you enter in only a folder name:
-![noPath Image](./img/tbdc.noPath.png)
+![noPath Image](./img/tbdc_noPath.png)
 
 And this is what you'll see if you enter in a full path:
-![yesPath Image](./img/tbdc.yesPath.png)
+![yesPath Image](./img/tbdc_yesPath.png)
 
 ### Enjoy!
