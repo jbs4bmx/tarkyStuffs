@@ -7,28 +7,13 @@ A simple Windows Batch script to delete the BSG cache folder in a User's Local A
 Admin Privileges are not required to run this script.
 
 You'll be greeted with this screen upon running the script:
-```
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-|                                        NOTICE                                             |
-|    You now have 15 seconds to cancel this operation using CTRL+C or you can press any     |
-|    other key to cancel the timeout and continue immediately.                              |
-|                                                                                           |
-|     It not recommended to remove the BSG cache files too often. Use this only to reset    |
-|     specific settings such as the cached images for items or traders.                     |
-|                                                                                           |
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-```
+![Start Image](./img/delBSGcache.001.png)
 
-And then this screen if you continue:
-```
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-|                               ******** WARNING ********                                   |
-|                       PROCESSING THE REMOVAL OF BSG CACHE FILES NOW                       |
-|                               ******** WARNING ********                                   |
-|                                                                                           |
-|           This window will close when the process has completed. Please wait...           |
-|                                                                                           |
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-```
+And then this screen if you continue and the cache is not present:
+![noPath Image](./img/delBSGcache.002noPath.png)
+
+Or this screen if you continue and the cache is present and removal processes:
+![yesPath Image](./img/delBSGcache.002yesPath.png)
+
 
 The script will remove the "**Battlestate Games**" folder located at _**C:\\Users\\{USERNAME}\\AppData\\Local\\Temp\\Battlestate Games**_

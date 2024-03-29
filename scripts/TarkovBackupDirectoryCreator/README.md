@@ -9,6 +9,12 @@ The script creates 3 folders inside:
 * mods.bkup
 * modules.bkup
 
+## Preview
 
+This is what you'll see if you enter in only a folder name:
+![noPath Image](./img/tbdc.noPath.png)
 
-I'll leave the rest to your imagination.
+And this is what you'll see if you enter in a full path:
+![yesPath Image](./img/tbdc.yesPath.png)
+
+### Enjoy!
