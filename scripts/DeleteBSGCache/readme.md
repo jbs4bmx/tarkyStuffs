@@ -10,10 +10,10 @@ You'll be greeted with this screen upon running the script:
 ![Start Image](./img/delBSGcache.001.png)
 
 And then this screen if you continue and the cache is not present:
-![noPath Image](./img/delBSGcache.002noPath.png)
+![noPath Image](./img/delBSGcache.002.noPath.png)
 
 Or this screen if you continue and the cache is present and removal processes:
-![yesPath Image](./img/delBSGcache.002yesPath.png)
+![yesPath Image](./img/delBSGcache.002.yesPath.png)
 
 
 The script will remove the "**Battlestate Games**" folder located at _**C:\\Users\\{USERNAME}\\AppData\\Local\\Temp\\Battlestate Games**_
